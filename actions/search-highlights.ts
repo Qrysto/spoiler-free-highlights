@@ -3,51 +3,96 @@
 import YouTube from 'youtube-sr';
 import { Video } from '@/lib/types';
 
+// Helper to parse relative time string to Date
+function parseRelativeTime(timeStr: string): Date {
+  const now = new Date();
+  // "2 weeks ago", "1 month ago", "3 days ago"
+  // youtube-sr returns relative time from NOW (when search is run)
+  
+  const num = parseInt(timeStr.match(/\d+/)?.[0] || '0');
+  
+  if (timeStr.includes('second')) now.setSeconds(now.getSeconds() - num);
+  else if (timeStr.includes('minute')) now.setMinutes(now.getMinutes() - num);
+  else if (timeStr.includes('hour')) now.setHours(now.getHours() - num);
+  else if (timeStr.includes('day')) now.setDate(now.getDate() - num);
+  else if (timeStr.includes('week')) now.setDate(now.getDate() - (num * 7));
+  else if (timeStr.includes('month')) now.setMonth(now.getMonth() - num);
+  else if (timeStr.includes('year')) now.setFullYear(now.getFullYear() - num);
+  
+  return now;
+}
+
 export async function searchHighlights(query: string, opponentName?: string, matchDate?: string): Promise<Video[]> {
   try {
     console.log(`Searching YouTube for: ${query}`);
-    // Fetch more results to allow for filtering
+    
+    // Fetch MORE results to enable stricter date filtering
     const results = await YouTube.search(query, { 
-      limit: 20,
+      limit: 30, // Increased limit
       type: 'video',
       safeSearch: true 
     });
 
     let filtered = results;
 
+    // 1. Date Filtering (Crucial)
+    if (matchDate) {
+      const matchTime = new Date(matchDate).getTime();
+      const oneDayMs = 24 * 60 * 60 * 1000;
+      
+      // Allow videos from 2 hours before match (rare pre-match stuff, but maybe lineup?) 
+      // to 36 hours after match (highlights usually immediate).
+      // Actually, highlights are POST match. 
+      // Let's filter: Must be posted AFTER match start (or very close to it).
+      // And within 48 hours AFTER match.
+      
+      filtered = filtered.filter(v => {
+        if (!v.uploadedAt) return false;
+        const videoTime = parseRelativeTime(v.uploadedAt).getTime();
+        
+        // Diff: VideoTime - MatchTime
+        const diff = videoTime - matchTime;
+        
+        // video must be AFTER match start (diff > 0) or slightly before (-2 hours)
+        // AND video must be within 36 hours after match
+        // const hoursDiff = diff / (1000 * 3600);
+        
+        // Relaxed logic: 
+        // - Exclude anything posted MORE than 12 hours BEFORE match (definitely old preview).
+        // - Exclude anything posted MORE than 48 hours AFTER match (old news, or wrong match).
+        
+        // Wait, if we search for "Man Utd vs Tottenham", and the match was YESTERDAY.
+        // A video from "2 years ago" (diff = -huge) should be removed.
+        
+        // Acceptable window: [MatchTime - 2h, MatchTime + 48h]
+        const isTooOld = diff < -(2 * 60 * 60 * 1000); // Posted more than 2h before match
+        const isTooLate = diff > (48 * 60 * 60 * 1000); // Posted more than 48h after match (likely analysis or wrong match)
+
+        if (isTooOld || isTooLate) return false;
+        
+        return true;
+      });
+    }
+
+    // 2. Keyword Filtering
     if (opponentName) {
       const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
-      const oppNorm = normalize(opponentName);
-      
-      // Logic: If opponent has "United" in name, we cannot rely on "united" keyword alone for Man Utd.
-      // We need strictly "man" or "mu" or "reddevils".
-      const opponentHasUnited = oppNorm.includes('united');
-
-      const unitedKeywords = opponentHasUnited 
-        ? ['manutd', 'manchester', 'manunited', 'mu', 'reddevils', 'mufc']
-        : ['manutd', 'manchesterunited', 'manunited', 'united', 'mu', 'reddevils', 'mufc'];
+      const unitedKeywords = ['manutd', 'manchester', 'manunited', 'mu', 'reddevils', 'mufc']; // Removed strict 'united' logic, simplified
 
       filtered = filtered.filter(v => {
         if (!v.title) return false;
         const titleNorm = normalize(v.title);
 
-        // Check for opponent name
-        // We split into words to handle "Nottingham Forest" -> "nottingham" or "forest"
-        const oppWords = opponentName.toLowerCase().split(' ').filter(w => w.length > 2);
-        // We also ignore common generic words if they appear in opponent name (e.g. "FC", "City" - wait, City is important for Man City vs Leicester City)
-        // But "United" is common. If opponent is "Newcastle United", matching just "United" is bad.
-        // So we filter out "united" from opponent words if we are using it for matching.
-        const oppWordsForMatching = oppWords.filter(w => w !== 'united' && w !== 'fc' && w !== 'afc');
-        
-        const hasOpponent = oppWordsForMatching.some(word => titleNorm.includes(normalize(word)));
-        
+        // Check for opponent name (simplified)
+        const oppWords = opponentName.toLowerCase().split(' ').filter(w => w.length > 2 && w !== 'united' && w !== 'fc');
+        const hasOpponent = oppWords.some(word => titleNorm.includes(normalize(word)));
         if (!hasOpponent) return false;
 
-        // Check for Manchester United
+        // Check for Man United keywords
         const hasUnited = unitedKeywords.some(k => titleNorm.includes(k));
         if (!hasUnited) return false;
 
-        // Exclude obvious junk
+        // Exclude junk
         if (titleNorm.includes('preview') || titleNorm.includes('prediction') || titleNorm.includes('fifa') || titleNorm.includes('pes') || titleNorm.includes('efootball')) {
           return false;
         }
@@ -56,12 +101,12 @@ export async function searchHighlights(query: string, opponentName?: string, mat
       });
     }
 
-    // Sort by views (descending) to get the most popular/likely official highlights
+    // Sort by views (descending)
     filtered.sort((a, b) => (b.views || 0) - (a.views || 0));
 
     return filtered.slice(0, 10).map(v => ({
       id: v.id || '',
-      title: v.title || '', // We keep title in data but UI hides it
+      title: v.title || '',
       link: v.url || '',
       published: v.uploadedAt || '',
       thumbnail: v.thumbnail?.url || undefined,
