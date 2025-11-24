@@ -119,8 +119,8 @@ export async function searchHighlights(query: string, opponentName?: string, mat
       link: v.url || '',
       published: v.uploadedAt || '',
       thumbnail: v.thumbnail?.url || undefined,
-      channel: v.channel?.name || 'Unknown Channel',
-      duration: v.durationFormatted || 'Unknown',
+      channel: v.channel?.name || 'N/A',
+      duration: v.durationFormatted || 'N/A',
       views: v.views ? `${(v.views / 1000).toFixed(1)}k` : '0'
     }));
   } catch (error) {
