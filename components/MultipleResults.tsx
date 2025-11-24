@@ -95,9 +95,7 @@ export function MultipleResults({ videos }: MultipleResultsProps) {
                 </div>
                 
                 <div className="flex items-center gap-4 text-xs text-gray-500">
-                  <span>{video.channel}</span>
-                  <span>•</span>
-                  <span>{video.duration}</span>
+                  <span>K+ Sports Official</span>
                   <span>•</span>
                   <span>{new Date(video.published).toLocaleString('en-GB', { 
                     month: 'short', 
