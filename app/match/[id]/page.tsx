@@ -2,6 +2,7 @@ import { getLocalFixtures } from '@/lib/data';
 import { fetchChannelVideos } from '@/lib/youtube';
 import { findHighlightVideo } from '@/lib/matcher';
 import { VideoPlayer } from '@/components/VideoPlayer';
+import { SearchResults } from '@/components/SearchResults';
 import Link from 'next/link';
 import { ArrowLeft, CalendarDays, MapPin } from 'lucide-react';
 import { notFound } from 'next/navigation';
@@ -55,25 +56,9 @@ export default async function MatchPage({ params }: PageProps) {
         {video ? (
           <VideoPlayer videoId={video.id} />
         ) : (
-          <div className="bg-gray-800 dark:bg-gray-900 rounded-xl p-12 text-center border border-gray-700 dark:border-gray-800">
-            <p className="text-xl text-gray-400 mb-4">Video not found</p>
-            <p className="text-gray-500">
-              We couldn't automatically find a highlight video for this match yet.
-              <br />
-              It might not be uploaded, or the matching logic missed it.
-            </p>
-            <a 
-              href={`https://www.youtube.com/@KplusSportsOfficial/search?query=${fixture.opponent}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block mt-6 text-red-400 hover:text-red-300 underline"
-            >
-              Search manually on K+ Sports (Warning: Spoilers possible)
-            </a>
-          </div>
+          <SearchResults query={`Manchester United vs ${fixture.opponent} highlight`} />
         )}
       </div>
     </main>
   );
 }
-

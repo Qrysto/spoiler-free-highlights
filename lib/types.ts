@@ -1,6 +1,6 @@
 export interface Fixture {
   id: string;
-  date: string; // ISO 8601 string
+  date: string;
   opponent: string;
   homeTeam: string;
   awayTeam: string;
@@ -13,6 +13,10 @@ export interface Video {
   id: string;
   title: string;
   link: string;
-  published: string; // ISO date
-  thumbnail?: string; // We might fetch it but not show it
+  published: string;
+  thumbnail?: string;
+  // Extended fields for search results
+  channel?: string;
+  duration?: string;
+  views?: string;
 }
