@@ -12,8 +12,9 @@ interface PageProps {
 
 export default async function MatchPage({ params }: PageProps) {
   const { id } = await params;
+  const decodedId = decodeURIComponent(id);
   const fixtures = await getLocalFixtures();
-  const fixture = fixtures.find(f => f.id === id);
+  const fixture = fixtures.find(f => f.id === decodedId);
 
   if (!fixture) {
     notFound();
@@ -25,7 +26,7 @@ export default async function MatchPage({ params }: PageProps) {
   const date = new Date(fixture.date);
 
   return (
-    <main className="min-h-screen bg-gray-900 text-white p-4 md:p-8">
+    <main className="min-h-screen bg-gray-900 dark:bg-black text-white p-4 md:p-8">
       <div className="max-w-4xl mx-auto">
         <Link 
           href="/"
@@ -54,7 +55,7 @@ export default async function MatchPage({ params }: PageProps) {
         {video ? (
           <VideoPlayer videoId={video.id} />
         ) : (
-          <div className="bg-gray-800 rounded-xl p-12 text-center">
+          <div className="bg-gray-800 dark:bg-gray-900 rounded-xl p-12 text-center border border-gray-700 dark:border-gray-800">
             <p className="text-xl text-gray-400 mb-4">Video not found</p>
             <p className="text-gray-500">
               We couldn't automatically find a highlight video for this match yet.

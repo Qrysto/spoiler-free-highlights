@@ -29,7 +29,7 @@ export function HeroMatch({ fixture, video }: HeroMatchProps) {
       {video ? (
         <Link 
           href={`/match/${fixture.id}`}
-          className="inline-flex items-center gap-2 bg-white text-red-900 px-6 py-3 rounded-full font-bold text-lg hover:bg-red-50 transition-transform hover:scale-105"
+          className="inline-flex items-center gap-2 bg-white dark:bg-gray-900 text-red-900 dark:text-red-100 px-6 py-3 rounded-full font-bold text-lg hover:bg-red-50 dark:hover:bg-gray-800 transition-transform hover:scale-105 shadow-lg"
         >
           <Play fill="currentColor" size={20} />
           Watch Highlights
