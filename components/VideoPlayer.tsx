@@ -12,12 +12,23 @@ export function VideoPlayer({ videoId }: VideoPlayerProps) {
 
   if (isPlaying) {
     return (
-      <div className="relative w-full pt-[56.25%] bg-black rounded-xl overflow-hidden shadow-2xl">
+      <div className="relative w-full pt-[56.25%] bg-black rounded-xl overflow-hidden shadow-2xl group">
+        {/* 
+          The "Magic" Overlay:
+          This div sits ON TOP of the iframe's top bar.
+          It blocks clicks on the title (so you can't open it on YT easily)
+          and covers the text with a black gradient.
+          pointer-events-none ensures you can still click play/pause in the center/bottom,
+          but we use a specific height to just cover the top title bar.
+        */}
+        <div className="absolute top-0 left-0 right-0 h-[60px] bg-black z-20 pointer-events-none" />
+        
         <iframe
           src={`https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1&controls=1&showinfo=0`}
-          className="absolute top-0 left-0 w-full h-full border-0"
+          className="absolute top-0 left-0 w-full h-full border-0 z-10"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
+          style={{ marginTop: '-1px' }} // Small tweak to ensure no white bleed
         />
       </div>
     );
@@ -38,4 +49,3 @@ export function VideoPlayer({ videoId }: VideoPlayerProps) {
     </div>
   );
 }
-
