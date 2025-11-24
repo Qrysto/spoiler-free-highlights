@@ -6,9 +6,6 @@ import { Video } from '@/lib/types';
 // Helper to parse relative time string to Date
 function parseRelativeTime(timeStr: string): Date {
   const now = new Date();
-  // "2 weeks ago", "1 month ago", "3 days ago"
-  // youtube-sr returns relative time from NOW (when search is run)
-  
   const num = parseInt(timeStr.match(/\d+/)?.[0] || '0');
   
   if (timeStr.includes('second')) now.setSeconds(now.getSeconds() - num);
@@ -28,47 +25,59 @@ export async function searchHighlights(query: string, opponentName?: string, mat
     
     // Fetch MORE results to enable stricter date filtering
     const results = await YouTube.search(query, { 
-      limit: 30, // Increased limit
+      limit: 30, 
       type: 'video',
       safeSearch: true 
     });
 
     let filtered = results;
 
-    // 1. Date Filtering (Crucial)
+    // 1. Date Filtering (Corrected)
     if (matchDate) {
       const matchTime = new Date(matchDate).getTime();
-      const oneDayMs = 24 * 60 * 60 * 1000;
-      
-      // Allow videos from 2 hours before match (rare pre-match stuff, but maybe lineup?) 
-      // to 36 hours after match (highlights usually immediate).
-      // Actually, highlights are POST match. 
-      // Let's filter: Must be posted AFTER match start (or very close to it).
-      // And within 48 hours AFTER match.
       
       filtered = filtered.filter(v => {
-        if (!v.uploadedAt) return false;
-        const videoTime = parseRelativeTime(v.uploadedAt).getTime();
+        if (!v.uploadedAt) return false; // Keep videos without date just in case? No, safer to remove.
         
-        // Diff: VideoTime - MatchTime
+        const videoTime = parseRelativeTime(v.uploadedAt).getTime();
         const diff = videoTime - matchTime;
         
-        // video must be AFTER match start (diff > 0) or slightly before (-2 hours)
-        // AND video must be within 36 hours after match
-        // const hoursDiff = diff / (1000 * 3600);
+        // The issue with "relative time" from YouTube is it's imprecise.
+        // "2 weeks ago" could be 14 days ago OR 20 days ago (rounded down).
+        // "1 month ago" could be 30 days or 50 days.
         
-        // Relaxed logic: 
-        // - Exclude anything posted MORE than 12 hours BEFORE match (definitely old preview).
-        // - Exclude anything posted MORE than 48 hours AFTER match (old news, or wrong match).
+        // If match was "2 weeks ago" (Nov 8 vs today Nov 24), 
+        // a video posted "2 weeks ago" is highly likely to be the one.
+        // But my previous logic: `diff < -2h` (video older than match) might be flagging it 
+        // if "2 weeks ago" (video) is slightly "older" than "Nov 8" (match).
         
-        // Wait, if we search for "Man Utd vs Tottenham", and the match was YESTERDAY.
-        // A video from "2 years ago" (diff = -huge) should be removed.
+        // FIX: Be much more lenient with "past" videos because relative time is rounded.
+        // If a video says "2 weeks ago" and match was 16 days ago, diff is negative (video seems older).
+        // But it's likely the right video.
         
-        // Acceptable window: [MatchTime - 2h, MatchTime + 48h]
-        const isTooOld = diff < -(2 * 60 * 60 * 1000); // Posted more than 2h before match
-        const isTooLate = diff > (48 * 60 * 60 * 1000); // Posted more than 48h after match (likely analysis or wrong match)
-
-        if (isTooOld || isTooLate) return false;
+        // Instead of strict "after match", let's just ensure it's NOT from the FAR future (impossible)
+        // or the FAR past (e.g. 1 year ago for a match yesterday).
+        
+        // Allow window: [MatchTime - 4 days, MatchTime + 4 days] 
+        // This covers "preview" videos (which we filter by title later) 
+        // and highlights posted slightly later.
+        // The "2 weeks ago" rounding error is the main culprit. 
+        
+        const fourDaysMs = 4 * 24 * 60 * 60 * 1000;
+        
+        // Actually, simple check: 
+        // Is the video timestamp within REASONABLE range of match date?
+        // If video says "1 year ago" and match was "today", clearly wrong.
+        
+        // Check if video is wildly older than match (e.g. more than 7 days before match)
+        const isWayTooOld = diff < -(7 * 24 * 60 * 60 * 1000);
+        
+        // Check if video is wildly newer than match? 
+        // If match was 1 year ago, and video is "1 hour ago", it's spam/fake.
+        // But usually we search for recent matches.
+        // Let's just filter out "Way Too Old".
+        
+        if (isWayTooOld) return false;
         
         return true;
       });
@@ -77,7 +86,7 @@ export async function searchHighlights(query: string, opponentName?: string, mat
     // 2. Keyword Filtering
     if (opponentName) {
       const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
-      const unitedKeywords = ['manutd', 'manchester', 'manunited', 'mu', 'reddevils', 'mufc']; // Removed strict 'united' logic, simplified
+      const unitedKeywords = ['manutd', 'manchester', 'manunited', 'mu', 'reddevils', 'mufc']; 
 
       filtered = filtered.filter(v => {
         if (!v.title) return false;

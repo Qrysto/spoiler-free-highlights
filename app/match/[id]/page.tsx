@@ -1,7 +1,8 @@
 import { getLocalFixtures } from '@/lib/data';
 import { fetchChannelVideos } from '@/lib/youtube';
-import { findHighlightVideo } from '@/lib/matcher';
+import { findHighlightVideo, findHighlightCandidates } from '@/lib/matcher';
 import { VideoPlayer } from '@/components/VideoPlayer';
+import { MultipleResults } from '@/components/MultipleResults';
 import { SearchResults } from '@/components/SearchResults';
 import Link from 'next/link';
 import { ArrowLeft, CalendarDays, MapPin } from 'lucide-react';
@@ -22,7 +23,7 @@ export default async function MatchPage({ params }: PageProps) {
   }
 
   const videos = await fetchChannelVideos();
-  const video = findHighlightVideo(fixture, videos);
+  const candidates = findHighlightCandidates(fixture, videos);
 
   const date = new Date(fixture.date);
 
@@ -53,8 +54,8 @@ export default async function MatchPage({ params }: PageProps) {
           </div>
         </div>
 
-        {video ? (
-          <VideoPlayer videoId={video.id} />
+        {candidates.length > 0 ? (
+          <MultipleResults videos={candidates} />
         ) : (
           <SearchResults 
             query={`Man United vs ${fixture.opponent} highlight`} 
