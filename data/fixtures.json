@@ -5,7 +5,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -14,7 +14,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Manchester United",
     "awayTeam": "Nottingham Forest",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -23,7 +23,7 @@
     "opponent": "Sunderland",
     "homeTeam": "Sunderland",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -32,7 +32,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -41,7 +41,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Manchester United",
     "awayTeam": "Brentford FC",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -50,7 +50,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -59,7 +59,7 @@
     "opponent": "Leeds United",
     "homeTeam": "Manchester United",
     "awayTeam": "Leeds United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -68,7 +68,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -77,7 +77,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -86,7 +86,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -95,7 +95,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -104,7 +104,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -113,7 +113,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -122,7 +122,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -131,7 +131,7 @@
     "opponent": "Fulham",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -140,7 +140,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -149,7 +149,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -158,7 +158,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -167,7 +167,7 @@
     "opponent": "Leeds United",
     "homeTeam": "Leeds United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -176,7 +176,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -185,7 +185,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -194,7 +194,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -203,7 +203,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -212,7 +212,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -221,7 +221,7 @@
     "opponent": "West Ham United",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -230,7 +230,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -239,7 +239,7 @@
     "opponent": "Everton",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -248,7 +248,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -257,7 +257,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -266,7 +266,7 @@
     "opponent": "Brighton & Hove Albion FC (4-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (4-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -275,7 +275,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -284,7 +284,7 @@
     "opponent": "Sunderland (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sunderland (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -293,7 +293,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Brentford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -302,7 +302,7 @@
     "opponent": "Chelsea (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -311,7 +311,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -320,7 +320,7 @@
     "opponent": "Burnley FC (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -329,7 +329,7 @@
     "opponent": "Grimsby Town FC",
     "homeTeam": "Grimsby Town FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -338,7 +338,7 @@
     "opponent": "Fulham",
     "homeTeam": "Fulham",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -347,7 +347,7 @@
     "opponent": "Arsenal (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -356,7 +356,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -365,7 +365,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -374,7 +374,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -383,7 +383,7 @@
     "opponent": "West Ham United",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -392,7 +392,7 @@
     "opponent": "Athletic de Bilbao [EL] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Athletic de Bilbao [EL] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -401,7 +401,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Brentford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -410,7 +410,7 @@
     "opponent": "Athletic de Bilbao",
     "homeTeam": "Athletic de Bilbao",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -419,7 +419,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -428,7 +428,7 @@
     "opponent": "Wolverhampton Wanderers (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -437,7 +437,7 @@
     "opponent": "Olympique Lyonnais [EL] (5-4)",
     "homeTeam": "Manchester United",
     "awayTeam": "Olympique Lyonnais [EL] (5-4)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -446,7 +446,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -455,7 +455,7 @@
     "opponent": "Olympique Lyonnais",
     "homeTeam": "Olympique Lyonnais",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -464,7 +464,7 @@
     "opponent": "Manchester City (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -473,7 +473,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -482,7 +482,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -491,7 +491,7 @@
     "opponent": "Real Sociedad [EL] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Real Sociedad [EL] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -500,7 +500,7 @@
     "opponent": "Arsenal (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -509,7 +509,7 @@
     "opponent": "Real Sociedad",
     "homeTeam": "Real Sociedad",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -518,7 +518,7 @@
     "opponent": "Fulham [FA] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham [FA] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -527,7 +527,7 @@
     "opponent": "Ipswich Town (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Ipswich Town (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -536,7 +536,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -545,7 +545,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -554,7 +554,7 @@
     "opponent": "Leicester City [FA] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City [FA] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -563,7 +563,7 @@
     "opponent": "Crystal Palace (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -572,7 +572,7 @@
     "opponent": "Steaua Boekarest",
     "homeTeam": "Steaua Boekarest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -581,7 +581,7 @@
     "opponent": "Fulham",
     "homeTeam": "Fulham",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -590,7 +590,7 @@
     "opponent": "Rangers [EL] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Rangers [EL] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -599,7 +599,7 @@
     "opponent": "Brighton & Hove Albion FC (1-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (1-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -608,7 +608,7 @@
     "opponent": "Southampton (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -617,7 +617,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -626,7 +626,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -635,7 +635,7 @@
     "opponent": "Newcastle United (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -644,7 +644,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -653,7 +653,7 @@
     "opponent": "AFC Bournemouth (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -662,7 +662,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -671,7 +671,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -680,7 +680,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -689,7 +689,7 @@
     "opponent": "FC Viktoria Plzen",
     "homeTeam": "FC Viktoria Plzen",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -698,7 +698,7 @@
     "opponent": "Nottingham Forest (2-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Nottingham Forest (2-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -707,7 +707,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -716,7 +716,7 @@
     "opponent": "Everton (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -725,7 +725,7 @@
     "opponent": "Bodø/Glimt [EL] (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Bodø/Glimt [EL] (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -734,7 +734,7 @@
     "opponent": "Ipswich Town",
     "homeTeam": "Ipswich Town",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -743,7 +743,7 @@
     "opponent": "Leicester City (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -752,7 +752,7 @@
     "opponent": "PAOK Salonika [EL] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "PAOK Salonika [EL] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -761,7 +761,7 @@
     "opponent": "Chelsea (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -770,7 +770,7 @@
     "opponent": "Leicester City [LC]",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City [LC]",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -779,7 +779,7 @@
     "opponent": "Leicester City [LC] (5-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City [LC] (5-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -788,7 +788,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -797,7 +797,7 @@
     "opponent": "Fenerbahçe",
     "homeTeam": "Fenerbahçe",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -806,7 +806,7 @@
     "opponent": "Brentford FC (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brentford FC (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -815,7 +815,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -824,7 +824,7 @@
     "opponent": "FC Porto",
     "homeTeam": "FC Porto",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -833,7 +833,7 @@
     "opponent": "Tottenham Hotspur (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -842,7 +842,7 @@
     "opponent": "FC Twente [EL] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Twente [EL] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -851,7 +851,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -860,7 +860,7 @@
     "opponent": "Barnsley [LC]",
     "homeTeam": "Manchester United",
     "awayTeam": "Barnsley [LC]",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -869,7 +869,7 @@
     "opponent": "Barnsley [LC] (7-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Barnsley [LC] (7-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -878,7 +878,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -887,7 +887,7 @@
     "opponent": "Liverpool (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -896,7 +896,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -905,7 +905,7 @@
     "opponent": "Fulham (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -914,7 +914,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -923,7 +923,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -932,7 +932,7 @@
     "opponent": "Newcastle United (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -941,7 +941,7 @@
     "opponent": "Arsenal (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -950,7 +950,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -959,7 +959,7 @@
     "opponent": "Burnley FC (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -968,7 +968,7 @@
     "opponent": "Sheffield United (4-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sheffield United (4-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -977,7 +977,7 @@
     "opponent": "Coventry City",
     "homeTeam": "Coventry City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -986,7 +986,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -995,7 +995,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1004,7 +1004,7 @@
     "opponent": "Liverpool (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1013,7 +1013,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1022,7 +1022,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Brentford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1031,7 +1031,7 @@
     "opponent": "Liverpool [FA] (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool [FA] (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1040,7 +1040,7 @@
     "opponent": "Sheffield United",
     "homeTeam": "Manchester United",
     "awayTeam": "Sheffield United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1049,7 +1049,7 @@
     "opponent": "Everton (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1058,7 +1058,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1067,7 +1067,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1076,7 +1076,7 @@
     "opponent": "Fulham (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1085,7 +1085,7 @@
     "opponent": "Luton Town",
     "homeTeam": "Luton Town",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1094,7 +1094,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1103,7 +1103,7 @@
     "opponent": "West Ham United (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1112,7 +1112,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1121,7 +1121,7 @@
     "opponent": "Newport County AFC",
     "homeTeam": "Newport County AFC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1130,7 +1130,7 @@
     "opponent": "Tottenham Hotspur (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1139,7 +1139,7 @@
     "opponent": "Wigan Athletic",
     "homeTeam": "Wigan Athletic",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1148,7 +1148,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1157,7 +1157,7 @@
     "opponent": "Aston Villa (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1166,7 +1166,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1175,7 +1175,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1184,7 +1184,7 @@
     "opponent": "Bayern München [CL] (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Bayern München [CL] (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1193,7 +1193,7 @@
     "opponent": "AFC Bournemouth (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1202,7 +1202,7 @@
     "opponent": "Chelsea (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1211,7 +1211,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1220,7 +1220,7 @@
     "opponent": "Galatasaray",
     "homeTeam": "Galatasaray",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1229,7 +1229,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1238,7 +1238,7 @@
     "opponent": "Luton Town (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Luton Town (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1247,7 +1247,7 @@
     "opponent": "FC Kopenhagen",
     "homeTeam": "FC Kopenhagen",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1256,7 +1256,7 @@
     "opponent": "Fulham",
     "homeTeam": "Fulham",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1265,7 +1265,7 @@
     "opponent": "Newcastle United [LC] (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United [LC] (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1274,7 +1274,7 @@
     "opponent": "Manchester City (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1283,7 +1283,7 @@
     "opponent": "FC Kopenhagen [CL] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Kopenhagen [CL] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1292,7 +1292,7 @@
     "opponent": "Sheffield United",
     "homeTeam": "Sheffield United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1301,7 +1301,7 @@
     "opponent": "Brentford FC (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brentford FC (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1310,7 +1310,7 @@
     "opponent": "Galatasaray [CL] (2-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Galatasaray [CL] (2-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1319,7 +1319,7 @@
     "opponent": "Crystal Palace (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1328,7 +1328,7 @@
     "opponent": "Crystal Palace [LC] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace [LC] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1337,7 +1337,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1346,7 +1346,7 @@
     "opponent": "Bayern München",
     "homeTeam": "Bayern München",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1355,7 +1355,7 @@
     "opponent": "Brighton & Hove Albion FC (1-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (1-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1364,7 +1364,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1373,7 +1373,7 @@
     "opponent": "Nottingham Forest (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Nottingham Forest (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1382,7 +1382,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1391,7 +1391,7 @@
     "opponent": "Wolverhampton Wanderers (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1400,7 +1400,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1409,7 +1409,7 @@
     "opponent": "Fulham (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1418,7 +1418,7 @@
     "opponent": "Chelsea (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1427,7 +1427,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1436,7 +1436,7 @@
     "opponent": "Wolverhampton Wanderers (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1445,7 +1445,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1454,7 +1454,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1463,7 +1463,7 @@
     "opponent": "Aston Villa (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1472,7 +1472,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1481,7 +1481,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1490,7 +1490,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1499,7 +1499,7 @@
     "opponent": "Sevilla FC",
     "homeTeam": "Sevilla FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1508,7 +1508,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1517,7 +1517,7 @@
     "opponent": "Sevilla FC [EL] (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sevilla FC [EL] (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1526,7 +1526,7 @@
     "opponent": "Everton (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1535,7 +1535,7 @@
     "opponent": "Brentford FC (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brentford FC (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1544,7 +1544,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1553,7 +1553,7 @@
     "opponent": "Fulham [FA] (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham [FA] (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1562,7 +1562,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1571,7 +1571,7 @@
     "opponent": "Real Betis",
     "homeTeam": "Real Betis",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1580,7 +1580,7 @@
     "opponent": "Southampton (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1589,7 +1589,7 @@
     "opponent": "Real Betis [EL] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Real Betis [EL] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1598,7 +1598,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1607,7 +1607,7 @@
     "opponent": "West Ham United [FA] (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United [FA] (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1616,7 +1616,7 @@
     "opponent": "Newcastle United [LC] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United [LC] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1625,7 +1625,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Manchester United",
     "awayTeam": "Brentford FC",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1634,7 +1634,7 @@
     "opponent": "FC Barcelona [EL] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Barcelona [EL] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1643,7 +1643,7 @@
     "opponent": "Leicester City (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1652,7 +1652,7 @@
     "opponent": "FC Barcelona",
     "homeTeam": "FC Barcelona",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1661,7 +1661,7 @@
     "opponent": "Leeds United",
     "homeTeam": "Leeds United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1670,7 +1670,7 @@
     "opponent": "Leeds United (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leeds United (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1679,7 +1679,7 @@
     "opponent": "Crystal Palace (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1688,7 +1688,7 @@
     "opponent": "Nottingham Forest [LC] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Nottingham Forest [LC] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1697,7 +1697,7 @@
     "opponent": "Reading FC [FA] (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Reading FC [FA] (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1706,7 +1706,7 @@
     "opponent": "Nottingham Forest",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1715,7 +1715,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1724,7 +1724,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1733,7 +1733,7 @@
     "opponent": "Manchester City (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1742,7 +1742,7 @@
     "opponent": "Charlton Athletic [LC] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Charlton Athletic [LC] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1751,7 +1751,7 @@
     "opponent": "Everton [FA] (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton [FA] (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1760,7 +1760,7 @@
     "opponent": "AFC Bournemouth (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1769,7 +1769,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1778,7 +1778,7 @@
     "opponent": "Nottingham Forest (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Nottingham Forest (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1787,7 +1787,7 @@
     "opponent": "Burnley FC [LC] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC [LC] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1796,7 +1796,7 @@
     "opponent": "Fulham",
     "homeTeam": "Fulham",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1805,7 +1805,7 @@
     "opponent": "Aston Villa [LC] (4-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa [LC] (4-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1814,7 +1814,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1823,7 +1823,7 @@
     "opponent": "Real Sociedad",
     "homeTeam": "Real Sociedad",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1832,7 +1832,7 @@
     "opponent": "West Ham United (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1841,7 +1841,7 @@
     "opponent": "FC Sheriff Tiraspol [EL] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Sheriff Tiraspol [EL] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1850,7 +1850,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1859,7 +1859,7 @@
     "opponent": "Tottenham Hotspur (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1868,7 +1868,7 @@
     "opponent": "Newcastle United (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1877,7 +1877,7 @@
     "opponent": "Omonia Nicosia [EL] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Omonia Nicosia [EL] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1886,7 +1886,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1895,7 +1895,7 @@
     "opponent": "Omonia Nicosia",
     "homeTeam": "Omonia Nicosia",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1904,7 +1904,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1913,7 +1913,7 @@
     "opponent": "Leeds United",
     "homeTeam": "Manchester United",
     "awayTeam": "Leeds United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1922,7 +1922,7 @@
     "opponent": "FC Sheriff Tiraspol",
     "homeTeam": "FC Sheriff Tiraspol",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1931,7 +1931,7 @@
     "opponent": "⚠️ Postponed: Crystal Palace",
     "homeTeam": "⚠️ Postponed: Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1940,7 +1940,7 @@
     "opponent": "Real Sociedad [EL] (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Real Sociedad [EL] (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1949,7 +1949,7 @@
     "opponent": "Arsenal (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1958,7 +1958,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1967,7 +1967,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1976,7 +1976,7 @@
     "opponent": "Liverpool (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -1985,7 +1985,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Brentford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -1994,7 +1994,7 @@
     "opponent": "Brighton & Hove Albion FC (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2003,7 +2003,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2012,7 +2012,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2021,7 +2021,7 @@
     "opponent": "Brentford FC (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brentford FC (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2030,7 +2030,7 @@
     "opponent": "Chelsea (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2039,7 +2039,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2048,7 +2048,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2057,7 +2057,7 @@
     "opponent": "Norwich City (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Norwich City (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2066,7 +2066,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2075,7 +2075,7 @@
     "opponent": "Leicester City (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2084,7 +2084,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2093,7 +2093,7 @@
     "opponent": "Atlético Madrid [CL] (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Atlético Madrid [CL] (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2102,7 +2102,7 @@
     "opponent": "Tottenham Hotspur (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2111,7 +2111,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2120,7 +2120,7 @@
     "opponent": "Watford FC (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2129,7 +2129,7 @@
     "opponent": "Atlético Madrid",
     "homeTeam": "Atlético Madrid",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2138,7 +2138,7 @@
     "opponent": "Leeds United",
     "homeTeam": "Leeds United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2147,7 +2147,7 @@
     "opponent": "Brighton & Hove Albion FC (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2156,7 +2156,7 @@
     "opponent": "Southampton (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2165,7 +2165,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2174,7 +2174,7 @@
     "opponent": "Middlesbrough [FA] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Middlesbrough [FA] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2183,7 +2183,7 @@
     "opponent": "West Ham United (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2192,7 +2192,7 @@
     "opponent": "Brentford FC",
     "homeTeam": "Brentford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2201,7 +2201,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2210,7 +2210,7 @@
     "opponent": "Aston Villa [FA] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa [FA] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2219,7 +2219,7 @@
     "opponent": "Wolverhampton Wanderers (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2228,7 +2228,7 @@
     "opponent": "Burnley FC (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2237,7 +2237,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2246,7 +2246,7 @@
     "opponent": "Norwich City",
     "homeTeam": "Norwich City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2255,7 +2255,7 @@
     "opponent": "BSC Young Boys [CL] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "BSC Young Boys [CL] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2264,7 +2264,7 @@
     "opponent": "Crystal Palace (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2273,7 +2273,7 @@
     "opponent": "Arsenal (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2282,7 +2282,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2291,7 +2291,7 @@
     "opponent": "Villarreal",
     "homeTeam": "Villarreal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2300,7 +2300,7 @@
     "opponent": "Watford FC",
     "homeTeam": "Watford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2309,7 +2309,7 @@
     "opponent": "Manchester City (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2318,7 +2318,7 @@
     "opponent": "Atalanta",
     "homeTeam": "Atalanta",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2327,7 +2327,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2336,7 +2336,7 @@
     "opponent": "Liverpool (0-5)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (0-5)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2345,7 +2345,7 @@
     "opponent": "Atalanta [CL] (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Atalanta [CL] (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2354,7 +2354,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2363,7 +2363,7 @@
     "opponent": "Everton (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2372,7 +2372,7 @@
     "opponent": "Villarreal [CL] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Villarreal [CL] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2381,7 +2381,7 @@
     "opponent": "Aston Villa (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2390,7 +2390,7 @@
     "opponent": "West Ham United [LC] (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United [LC] (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2399,7 +2399,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2408,7 +2408,7 @@
     "opponent": "BSC Young Boys",
     "homeTeam": "BSC Young Boys",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2417,7 +2417,7 @@
     "opponent": "Newcastle United (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2426,7 +2426,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2435,7 +2435,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2444,7 +2444,7 @@
     "opponent": "Leeds United (5-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leeds United (5-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2453,7 +2453,7 @@
     "opponent": "Villarreal",
     "homeTeam": "Villarreal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2462,7 +2462,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2471,7 +2471,7 @@
     "opponent": "Fulham (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2480,7 +2480,7 @@
     "opponent": "Liverpool (2-4)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (2-4)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2489,7 +2489,7 @@
     "opponent": "Leicester City (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2498,7 +2498,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2507,7 +2507,7 @@
     "opponent": "AS Roma",
     "homeTeam": "AS Roma",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2516,7 +2516,7 @@
     "opponent": "AS Roma [EL] (6-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "AS Roma [EL] (6-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2525,7 +2525,7 @@
     "opponent": "Leeds United",
     "homeTeam": "Leeds United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2534,7 +2534,7 @@
     "opponent": "Burnley FC (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2543,7 +2543,7 @@
     "opponent": "Granada CF [EL] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Granada CF [EL] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2552,7 +2552,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2561,7 +2561,7 @@
     "opponent": "Granada CF",
     "homeTeam": "Granada CF",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2570,7 +2570,7 @@
     "opponent": "Brighton & Hove Albion FC (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2579,7 +2579,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2588,7 +2588,7 @@
     "opponent": "AC Milan",
     "homeTeam": "AC Milan",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2597,7 +2597,7 @@
     "opponent": "West Ham United (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2606,7 +2606,7 @@
     "opponent": "AC Milan [EL] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "AC Milan [EL] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2615,7 +2615,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2624,7 +2624,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2633,7 +2633,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2642,7 +2642,7 @@
     "opponent": "Real Sociedad [EL] (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Real Sociedad [EL] (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2651,7 +2651,7 @@
     "opponent": "Newcastle United (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2660,7 +2660,7 @@
     "opponent": "Real Sociedad",
     "homeTeam": "Real Sociedad",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2669,7 +2669,7 @@
     "opponent": "West Bromwich Albion",
     "homeTeam": "West Bromwich Albion",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2678,7 +2678,7 @@
     "opponent": "West Ham United [FA] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United [FA] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2687,7 +2687,7 @@
     "opponent": "Everton (3-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (3-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2696,7 +2696,7 @@
     "opponent": "Southampton (9-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (9-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2705,7 +2705,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2714,7 +2714,7 @@
     "opponent": "Sheffield United (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sheffield United (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2723,7 +2723,7 @@
     "opponent": "Liverpool [FA] (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool [FA] (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2732,7 +2732,7 @@
     "opponent": "Fulham",
     "homeTeam": "Fulham",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2741,7 +2741,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2750,7 +2750,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2759,7 +2759,7 @@
     "opponent": "Watford FC [FA] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC [FA] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2768,7 +2768,7 @@
     "opponent": "Manchester City [LC] (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City [LC] (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2777,7 +2777,7 @@
     "opponent": "Aston Villa (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2786,7 +2786,7 @@
     "opponent": "Wolverhampton Wanderers (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2795,7 +2795,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2804,7 +2804,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2813,7 +2813,7 @@
     "opponent": "Leeds United (6-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leeds United (6-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2822,7 +2822,7 @@
     "opponent": "Sheffield United",
     "homeTeam": "Sheffield United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2831,7 +2831,7 @@
     "opponent": "Manchester City (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2840,7 +2840,7 @@
     "opponent": "RB Leipzig",
     "homeTeam": "RB Leipzig",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2849,7 +2849,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2858,7 +2858,7 @@
     "opponent": "Paris Saint-Germain [CL] (1-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Paris Saint-Germain [CL] (1-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2867,7 +2867,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2876,7 +2876,7 @@
     "opponent": "Başakşehir [CL] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Başakşehir [CL] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2885,7 +2885,7 @@
     "opponent": "West Bromwich Albion (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Bromwich Albion (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2894,7 +2894,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2903,7 +2903,7 @@
     "opponent": "Başakşehir",
     "homeTeam": "Başakşehir",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2912,7 +2912,7 @@
     "opponent": "Arsenal (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2921,7 +2921,7 @@
     "opponent": "RB Leipzig [CL] (5-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "RB Leipzig [CL] (5-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2930,7 +2930,7 @@
     "opponent": "Chelsea (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2939,7 +2939,7 @@
     "opponent": "Paris Saint-Germain",
     "homeTeam": "Paris Saint-Germain",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2948,7 +2948,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2957,7 +2957,7 @@
     "opponent": "Tottenham Hotspur (1-6)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (1-6)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2966,7 +2966,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2975,7 +2975,7 @@
     "opponent": "Luton Town",
     "homeTeam": "Luton Town",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -2984,7 +2984,7 @@
     "opponent": "Crystal Palace (1-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (1-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -2993,7 +2993,7 @@
     "opponent": "⚠️ Postponed: Burnley FC",
     "homeTeam": "⚠️ Postponed: Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3002,7 +3002,7 @@
     "opponent": "Sevilla FC",
     "homeTeam": "Sevilla FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3011,7 +3011,7 @@
     "opponent": "FC Kopenhagen [EL] (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Kopenhagen [EL] (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3020,7 +3020,7 @@
     "opponent": "LASK Linz [EL] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "LASK Linz [EL] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3029,7 +3029,7 @@
     "opponent": "West Ham United (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3038,7 +3038,7 @@
     "opponent": "Chelsea [FA] (1-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea [FA] (1-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3047,7 +3047,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3056,7 +3056,7 @@
     "opponent": "Southampton (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3065,7 +3065,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3074,7 +3074,7 @@
     "opponent": "AFC Bournemouth (5-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (5-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3083,7 +3083,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3092,7 +3092,7 @@
     "opponent": "Norwich City",
     "homeTeam": "Norwich City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3101,7 +3101,7 @@
     "opponent": "Sheffield United (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sheffield United (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3110,7 +3110,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3119,7 +3119,7 @@
     "opponent": "⚠️ Postponed: Leicester City",
     "homeTeam": "⚠️ Postponed: Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3128,7 +3128,7 @@
     "opponent": "West Ham United",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3137,7 +3137,7 @@
     "opponent": "⚠️ Postponed: Crystal Palace",
     "homeTeam": "⚠️ Postponed: Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3146,7 +3146,7 @@
     "opponent": "Southampton",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3155,7 +3155,7 @@
     "opponent": "⚠️ Postponed: Aston Villa",
     "homeTeam": "⚠️ Postponed: Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3164,7 +3164,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3173,7 +3173,7 @@
     "opponent": "Sheffield United",
     "homeTeam": "Manchester United",
     "awayTeam": "Sheffield United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3182,7 +3182,7 @@
     "opponent": "LASK Linz [EL]",
     "homeTeam": "Manchester United",
     "awayTeam": "LASK Linz [EL]",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3191,7 +3191,7 @@
     "opponent": "LASK Linz",
     "homeTeam": "LASK Linz",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3200,7 +3200,7 @@
     "opponent": "Manchester City (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3209,7 +3209,7 @@
     "opponent": "Derby County",
     "homeTeam": "Derby County",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3218,7 +3218,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3227,7 +3227,7 @@
     "opponent": "Club Brugge KV [EL] (5-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Club Brugge KV [EL] (5-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3236,7 +3236,7 @@
     "opponent": "Watford FC (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3245,7 +3245,7 @@
     "opponent": "Club Brugge KV",
     "homeTeam": "Club Brugge KV",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3254,7 +3254,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3263,7 +3263,7 @@
     "opponent": "Wolverhampton Wanderers (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3272,7 +3272,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3281,7 +3281,7 @@
     "opponent": "Tranmere Rovers FC",
     "homeTeam": "Tranmere Rovers FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3290,7 +3290,7 @@
     "opponent": "Burnley FC (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3299,7 +3299,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3308,7 +3308,7 @@
     "opponent": "Wolverhampton Wanderers [FA] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers [FA] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3317,7 +3317,7 @@
     "opponent": "Norwich City (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Norwich City (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3326,7 +3326,7 @@
     "opponent": "Manchester City [LC] (1-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City [LC] (1-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3335,7 +3335,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3344,7 +3344,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3353,7 +3353,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3362,7 +3362,7 @@
     "opponent": "Newcastle United (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3371,7 +3371,7 @@
     "opponent": "Watford FC",
     "homeTeam": "Watford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3380,7 +3380,7 @@
     "opponent": "Colchester United FC [LC] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Colchester United FC [LC] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3389,7 +3389,7 @@
     "opponent": "Everton (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3398,7 +3398,7 @@
     "opponent": "AZ [EL] (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "AZ [EL] (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3407,7 +3407,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3416,7 +3416,7 @@
     "opponent": "Tottenham Hotspur (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3425,7 +3425,7 @@
     "opponent": "Aston Villa (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3434,7 +3434,7 @@
     "opponent": "FC Astana",
     "homeTeam": "FC Astana",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3443,7 +3443,7 @@
     "opponent": "Sheffield United",
     "homeTeam": "Sheffield United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3452,7 +3452,7 @@
     "opponent": "Brighton & Hove Albion FC (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3461,7 +3461,7 @@
     "opponent": "FK Partizan [EL] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FK Partizan [EL] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3470,7 +3470,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3479,7 +3479,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3488,7 +3488,7 @@
     "opponent": "Norwich City",
     "homeTeam": "Norwich City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3497,7 +3497,7 @@
     "opponent": "FK Partizan",
     "homeTeam": "FK Partizan",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3506,7 +3506,7 @@
     "opponent": "Liverpool (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3515,7 +3515,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3524,7 +3524,7 @@
     "opponent": "AZ",
     "homeTeam": "AZ",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3533,7 +3533,7 @@
     "opponent": "Arsenal (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3542,7 +3542,7 @@
     "opponent": "Rochdale AFC [LC] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Rochdale AFC [LC] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3551,7 +3551,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3560,7 +3560,7 @@
     "opponent": "FC Astana [EL] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Astana [EL] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3569,7 +3569,7 @@
     "opponent": "Leicester City (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3578,7 +3578,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3587,7 +3587,7 @@
     "opponent": "Crystal Palace (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3596,7 +3596,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3605,7 +3605,7 @@
     "opponent": "Chelsea (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3614,7 +3614,7 @@
     "opponent": "Cardiff City (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Cardiff City (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3623,7 +3623,7 @@
     "opponent": "Huddersfield Town",
     "homeTeam": "Huddersfield Town",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3632,7 +3632,7 @@
     "opponent": "Chelsea (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3641,7 +3641,7 @@
     "opponent": "Manchester City (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3650,7 +3650,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3659,7 +3659,7 @@
     "opponent": "FC Barcelona",
     "homeTeam": "FC Barcelona",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3668,7 +3668,7 @@
     "opponent": "West Ham United (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3677,7 +3677,7 @@
     "opponent": "FC Barcelona [CL] (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Barcelona [CL] (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3686,7 +3686,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3695,7 +3695,7 @@
     "opponent": "Watford FC (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3704,7 +3704,7 @@
     "opponent": "Wolverhampton Wanderers",
     "homeTeam": "Wolverhampton Wanderers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3713,7 +3713,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3722,7 +3722,7 @@
     "opponent": "Paris Saint-Germain",
     "homeTeam": "Paris Saint-Germain",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3731,7 +3731,7 @@
     "opponent": "Southampton (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3740,7 +3740,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3749,7 +3749,7 @@
     "opponent": "Liverpool (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3758,7 +3758,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3767,7 +3767,7 @@
     "opponent": "Paris Saint-Germain [CL] (0-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Paris Saint-Germain [CL] (0-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3776,7 +3776,7 @@
     "opponent": "Fulham",
     "homeTeam": "Fulham",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3785,7 +3785,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3794,7 +3794,7 @@
     "opponent": "Burnley FC (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3803,7 +3803,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3812,7 +3812,7 @@
     "opponent": "Brighton & Hove Albion FC (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3821,7 +3821,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3830,7 +3830,7 @@
     "opponent": "Reading FC [FA] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Reading FC [FA] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3839,7 +3839,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3848,7 +3848,7 @@
     "opponent": "AFC Bournemouth (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3857,7 +3857,7 @@
     "opponent": "Huddersfield Town (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Huddersfield Town (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3866,7 +3866,7 @@
     "opponent": "Cardiff City",
     "homeTeam": "Cardiff City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3875,7 +3875,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3884,7 +3884,7 @@
     "opponent": "Valencia",
     "homeTeam": "Valencia",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3893,7 +3893,7 @@
     "opponent": "Fulham (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fulham (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3902,7 +3902,7 @@
     "opponent": "Arsenal (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3911,7 +3911,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3920,7 +3920,7 @@
     "opponent": "BSC Young Boys [CL] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "BSC Young Boys [CL] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3929,7 +3929,7 @@
     "opponent": "Crystal Palace (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3938,7 +3938,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3947,7 +3947,7 @@
     "opponent": "Juventus",
     "homeTeam": "Juventus",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3956,7 +3956,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3965,7 +3965,7 @@
     "opponent": "Everton (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3974,7 +3974,7 @@
     "opponent": "Juventus [CL] (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Juventus [CL] (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -3983,7 +3983,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -3992,7 +3992,7 @@
     "opponent": "Newcastle United (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4001,7 +4001,7 @@
     "opponent": "Valencia [CL] (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Valencia [CL] (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4010,7 +4010,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4019,7 +4019,7 @@
     "opponent": "Derby County [LC] (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Derby County [LC] (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4028,7 +4028,7 @@
     "opponent": "Wolverhampton Wanderers (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wolverhampton Wanderers (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4037,7 +4037,7 @@
     "opponent": "BSC Young Boys",
     "homeTeam": "BSC Young Boys",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4046,7 +4046,7 @@
     "opponent": "Watford FC",
     "homeTeam": "Watford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4055,7 +4055,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4064,7 +4064,7 @@
     "opponent": "Tottenham Hotspur (0-3)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (0-3)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4073,7 +4073,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4082,7 +4082,7 @@
     "opponent": "Leicester City (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4091,7 +4091,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4100,7 +4100,7 @@
     "opponent": "Watford FC (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4109,7 +4109,7 @@
     "opponent": "⚠️ Postponed: West Ham United",
     "homeTeam": "⚠️ Postponed: West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4118,7 +4118,7 @@
     "opponent": "Brighton & Hove Albion FC",
     "homeTeam": "Brighton & Hove Albion FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4127,7 +4127,7 @@
     "opponent": "Arsenal (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4136,7 +4136,7 @@
     "opponent": "Tottenham Hotspur [FA] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur [FA] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4145,7 +4145,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4154,7 +4154,7 @@
     "opponent": "West Bromwich Albion (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Bromwich Albion (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4163,7 +4163,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4172,7 +4172,7 @@
     "opponent": "Swansea City (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Swansea City (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4181,7 +4181,7 @@
     "opponent": "Brighton & Hove Albion FC [FA] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC [FA] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4190,7 +4190,7 @@
     "opponent": "Sevilla FC [CL] (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sevilla FC [CL] (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4199,7 +4199,7 @@
     "opponent": "Liverpool (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4208,7 +4208,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4217,7 +4217,7 @@
     "opponent": "Chelsea (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4226,7 +4226,7 @@
     "opponent": "Sevilla FC",
     "homeTeam": "Sevilla FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4235,7 +4235,7 @@
     "opponent": "Huddersfield Town",
     "homeTeam": "Huddersfield Town",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4244,7 +4244,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4253,7 +4253,7 @@
     "opponent": "Huddersfield Town (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Huddersfield Town (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4262,7 +4262,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4271,7 +4271,7 @@
     "opponent": "Yeovil Town FC",
     "homeTeam": "Yeovil Town FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4280,7 +4280,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4289,7 +4289,7 @@
     "opponent": "Stoke City (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Stoke City (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4298,7 +4298,7 @@
     "opponent": "Derby County [FA] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Derby County [FA] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4307,7 +4307,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4316,7 +4316,7 @@
     "opponent": "Southampton (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4325,7 +4325,7 @@
     "opponent": "Burnley FC (2-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (2-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4334,7 +4334,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4343,7 +4343,7 @@
     "opponent": "Bristol City FC",
     "homeTeam": "Bristol City FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4352,7 +4352,7 @@
     "opponent": "West Bromwich Albion",
     "homeTeam": "West Bromwich Albion",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4361,7 +4361,7 @@
     "opponent": "AFC Bournemouth (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4370,7 +4370,7 @@
     "opponent": "Manchester City (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4379,7 +4379,7 @@
     "opponent": "PFC CSKA Moskou [CL] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "PFC CSKA Moskou [CL] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4388,7 +4388,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4397,7 +4397,7 @@
     "opponent": "Watford FC",
     "homeTeam": "Watford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4406,7 +4406,7 @@
     "opponent": "Brighton & Hove Albion FC (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton & Hove Albion FC (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4415,7 +4415,7 @@
     "opponent": "FC Basel",
     "homeTeam": "FC Basel",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4424,7 +4424,7 @@
     "opponent": "Newcastle United (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4433,7 +4433,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4442,7 +4442,7 @@
     "opponent": "Benfica [CL] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Benfica [CL] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4451,7 +4451,7 @@
     "opponent": "Tottenham Hotspur (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4460,7 +4460,7 @@
     "opponent": "Swansea City",
     "homeTeam": "Swansea City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4469,7 +4469,7 @@
     "opponent": "Huddersfield Town",
     "homeTeam": "Huddersfield Town",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4478,7 +4478,7 @@
     "opponent": "Benfica",
     "homeTeam": "Benfica",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4487,7 +4487,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4496,7 +4496,7 @@
     "opponent": "Crystal Palace (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4505,7 +4505,7 @@
     "opponent": "PFC CSKA Moskou",
     "homeTeam": "PFC CSKA Moskou",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4514,7 +4514,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4523,7 +4523,7 @@
     "opponent": "Burton Albion FC [LC] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burton Albion FC [LC] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4532,7 +4532,7 @@
     "opponent": "Everton (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4541,7 +4541,7 @@
     "opponent": "FC Basel [CL] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Basel [CL] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4550,7 +4550,7 @@
     "opponent": "Stoke City",
     "homeTeam": "Stoke City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4559,7 +4559,7 @@
     "opponent": "Leicester City (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4568,7 +4568,7 @@
     "opponent": "Swansea City",
     "homeTeam": "Swansea City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4577,7 +4577,7 @@
     "opponent": "West Ham United (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4586,7 +4586,7 @@
     "opponent": "Ajax",
     "homeTeam": "Ajax",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4595,7 +4595,7 @@
     "opponent": "Crystal Palace (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4604,7 +4604,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4613,7 +4613,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4622,7 +4622,7 @@
     "opponent": "Celta de Vigo [EL] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Celta de Vigo [EL] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4631,7 +4631,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4640,7 +4640,7 @@
     "opponent": "Celta de Vigo",
     "homeTeam": "Celta de Vigo",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4649,7 +4649,7 @@
     "opponent": "Swansea City (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Swansea City (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4658,7 +4658,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4667,7 +4667,7 @@
     "opponent": "Burnley FC",
     "homeTeam": "Burnley FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4676,7 +4676,7 @@
     "opponent": "RSC Anderlecht [EL] (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "RSC Anderlecht [EL] (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4685,7 +4685,7 @@
     "opponent": "Chelsea (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4694,7 +4694,7 @@
     "opponent": "RSC Anderlecht",
     "homeTeam": "RSC Anderlecht",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4703,7 +4703,7 @@
     "opponent": "Sunderland",
     "homeTeam": "Sunderland",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4712,7 +4712,7 @@
     "opponent": "Everton (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4721,7 +4721,7 @@
     "opponent": "West Bromwich Albion (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Bromwich Albion (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4730,7 +4730,7 @@
     "opponent": "Middlesbrough",
     "homeTeam": "Middlesbrough",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4739,7 +4739,7 @@
     "opponent": "FC Rostov [EL] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "FC Rostov [EL] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4748,7 +4748,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4757,7 +4757,7 @@
     "opponent": "FC Rostov",
     "homeTeam": "FC Rostov",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4766,7 +4766,7 @@
     "opponent": "AFC Bournemouth (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4775,7 +4775,7 @@
     "opponent": "Southampton [LC] (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton [LC] (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4784,7 +4784,7 @@
     "opponent": "Saint-Etienne",
     "homeTeam": "Saint-Etienne",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4793,7 +4793,7 @@
     "opponent": "Blackburn Rovers",
     "homeTeam": "Blackburn Rovers",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4802,7 +4802,7 @@
     "opponent": "Saint-Etienne [EL] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Saint-Etienne [EL] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4811,7 +4811,7 @@
     "opponent": "Watford FC (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4820,7 +4820,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4829,7 +4829,7 @@
     "opponent": "Hull City (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Hull City (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4838,7 +4838,7 @@
     "opponent": "Wigan Athletic [FA] (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Wigan Athletic [FA] (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4847,7 +4847,7 @@
     "opponent": "Hull City",
     "homeTeam": "Hull City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4856,7 +4856,7 @@
     "opponent": "Stoke City",
     "homeTeam": "Stoke City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4865,7 +4865,7 @@
     "opponent": "Liverpool (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4874,7 +4874,7 @@
     "opponent": "Hull City [LC] (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Hull City [LC] (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4883,7 +4883,7 @@
     "opponent": "Reading FC [FA] (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Reading FC [FA] (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4892,7 +4892,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4901,7 +4901,7 @@
     "opponent": "Middlesbrough (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Middlesbrough (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4910,7 +4910,7 @@
     "opponent": "Sunderland (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sunderland (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4919,7 +4919,7 @@
     "opponent": "West Bromwich Albion",
     "homeTeam": "West Bromwich Albion",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4928,7 +4928,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4937,7 +4937,7 @@
     "opponent": "Tottenham Hotspur (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4946,7 +4946,7 @@
     "opponent": "Zarya Lugansk",
     "homeTeam": "Zarya Lugansk",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4955,7 +4955,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -4964,7 +4964,7 @@
     "opponent": "West Ham United [LC] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United [LC] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4973,7 +4973,7 @@
     "opponent": "West Ham United (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4982,7 +4982,7 @@
     "opponent": "Feyenoord [EL] (4-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Feyenoord [EL] (4-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -4991,7 +4991,7 @@
     "opponent": "Arsenal (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5000,7 +5000,7 @@
     "opponent": "Swansea City",
     "homeTeam": "Swansea City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5009,7 +5009,7 @@
     "opponent": "Fenerbahçe",
     "homeTeam": "Fenerbahçe",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5018,7 +5018,7 @@
     "opponent": "Burnley FC (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Burnley FC (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5027,7 +5027,7 @@
     "opponent": "Manchester City [LC] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City [LC] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5036,7 +5036,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5045,7 +5045,7 @@
     "opponent": "Fenerbahçe [EL] (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Fenerbahçe [EL] (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5054,7 +5054,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5063,7 +5063,7 @@
     "opponent": "Stoke City (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Stoke City (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5072,7 +5072,7 @@
     "opponent": "Zarya Lugansk [EL] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Zarya Lugansk [EL] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5081,7 +5081,7 @@
     "opponent": "Leicester City (4-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (4-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5090,7 +5090,7 @@
     "opponent": "Northampton Town FC",
     "homeTeam": "Northampton Town FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5099,7 +5099,7 @@
     "opponent": "Watford FC",
     "homeTeam": "Watford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5108,7 +5108,7 @@
     "opponent": "Feyenoord",
     "homeTeam": "Feyenoord",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5117,7 +5117,7 @@
     "opponent": "Manchester City (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5126,7 +5126,7 @@
     "opponent": "Hull City",
     "homeTeam": "Hull City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5135,7 +5135,7 @@
     "opponent": "Southampton (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5144,7 +5144,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5153,7 +5153,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5162,7 +5162,7 @@
     "opponent": "AFC Bournemouth (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "AFC Bournemouth (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5171,7 +5171,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5180,7 +5180,7 @@
     "opponent": "Norwich City",
     "homeTeam": "Norwich City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5189,7 +5189,7 @@
     "opponent": "Leicester City (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Leicester City (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5198,7 +5198,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5207,7 +5207,7 @@
     "opponent": "Crystal Palace (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Crystal Palace (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5216,7 +5216,7 @@
     "opponent": "Aston Villa (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5225,7 +5225,7 @@
     "opponent": "West Ham United",
     "homeTeam": "West Ham United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5234,7 +5234,7 @@
     "opponent": "Tottenham Hotspur",
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5243,7 +5243,7 @@
     "opponent": "Everton (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Everton (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5252,7 +5252,7 @@
     "opponent": "Manchester City",
     "homeTeam": "Manchester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5261,7 +5261,7 @@
     "opponent": "West Ham United [FA] (1-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United [FA] (1-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5270,7 +5270,7 @@
     "opponent": "West Bromwich Albion",
     "homeTeam": "West Bromwich Albion",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5279,7 +5279,7 @@
     "opponent": "Watford FC (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Watford FC (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5288,7 +5288,7 @@
     "opponent": "Arsenal (3-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Arsenal (3-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5297,7 +5297,7 @@
     "opponent": "Shrewsbury Town FC",
     "homeTeam": "Shrewsbury Town FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5306,7 +5306,7 @@
     "opponent": "Sunderland",
     "homeTeam": "Sunderland",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5315,7 +5315,7 @@
     "opponent": "Chelsea",
     "homeTeam": "Chelsea",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5324,7 +5324,7 @@
     "opponent": "Stoke City (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Stoke City (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5333,7 +5333,7 @@
     "opponent": "Derby County",
     "homeTeam": "Derby County",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5342,7 +5342,7 @@
     "opponent": "Southampton (0-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Southampton (0-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5351,7 +5351,7 @@
     "opponent": "Liverpool",
     "homeTeam": "Liverpool",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5360,7 +5360,7 @@
     "opponent": "Newcastle United",
     "homeTeam": "Newcastle United",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5369,7 +5369,7 @@
     "opponent": "Sheffield United [FA] (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sheffield United [FA] (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5378,7 +5378,7 @@
     "opponent": "Swansea City (2-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Swansea City (2-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5387,7 +5387,7 @@
     "opponent": "Chelsea (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Chelsea (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5396,7 +5396,7 @@
     "opponent": "Stoke City",
     "homeTeam": "Stoke City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5405,7 +5405,7 @@
     "opponent": "Norwich City (1-2)",
     "homeTeam": "Manchester United",
     "awayTeam": "Norwich City (1-2)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5414,7 +5414,7 @@
     "opponent": "AFC Bournemouth",
     "homeTeam": "AFC Bournemouth",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5423,7 +5423,7 @@
     "opponent": "West Ham United (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Ham United (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5432,7 +5432,7 @@
     "opponent": "Leicester City",
     "homeTeam": "Leicester City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5441,7 +5441,7 @@
     "opponent": "PSV [CL] (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "PSV [CL] (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5450,7 +5450,7 @@
     "opponent": "Watford FC",
     "homeTeam": "Watford FC",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5459,7 +5459,7 @@
     "opponent": "West Bromwich Albion (2-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "West Bromwich Albion (2-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5468,7 +5468,7 @@
     "opponent": "Crystal Palace",
     "homeTeam": "Crystal Palace",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5477,7 +5477,7 @@
     "opponent": "Middlesbrough [LC] (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Middlesbrough [LC] (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5486,7 +5486,7 @@
     "opponent": "Manchester City (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Manchester City (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5495,7 +5495,7 @@
     "opponent": "Everton",
     "homeTeam": "Everton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5504,7 +5504,7 @@
     "opponent": "Arsenal",
     "homeTeam": "Arsenal",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5513,7 +5513,7 @@
     "opponent": "Sunderland (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Sunderland (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5522,7 +5522,7 @@
     "opponent": "Ipswich Town [LC] (3-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Ipswich Town [LC] (3-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5531,7 +5531,7 @@
     "opponent": "Southampton",
     "homeTeam": "Southampton",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5540,7 +5540,7 @@
     "opponent": "PSV",
     "homeTeam": "PSV",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5549,7 +5549,7 @@
     "opponent": "Liverpool (3-1)",
     "homeTeam": "Manchester United",
     "awayTeam": "Liverpool (3-1)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5558,7 +5558,7 @@
     "opponent": "Swansea City",
     "homeTeam": "Swansea City",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5567,7 +5567,7 @@
     "opponent": "Newcastle United (0-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Newcastle United (0-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   },
   {
@@ -5576,7 +5576,7 @@
     "opponent": "Aston Villa",
     "homeTeam": "Aston Villa",
     "awayTeam": "Manchester United",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": false
   },
   {
@@ -5585,7 +5585,7 @@
     "opponent": "Tottenham Hotspur (1-0)",
     "homeTeam": "Manchester United",
     "awayTeam": "Tottenham Hotspur (1-0)",
-    "competition": "Unknown",
+    "competition": "Premier League",
     "isHome": true
   }
 ]

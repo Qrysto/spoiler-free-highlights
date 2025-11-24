@@ -95,7 +95,7 @@ function parseFixture(summary: string, date: Date, uid: string): Fixture | null 
     opponent,
     homeTeam,
     awayTeam,
-    competition: 'Unknown', // ICS often doesn't have competition in summary, might be in description
+    competition: 'Premier League', // Default assumption for Man United fixtures
     isHome
   };
 }
