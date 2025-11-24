@@ -48,9 +48,12 @@ export function MatchCard({ fixture, hasVideo }: MatchCardProps) {
           Watch Highlights
         </Link>
       ) : (
-        <div className="text-center py-2 text-gray-400 text-sm bg-gray-50 rounded-md">
-          No Highlights Yet
-        </div>
+        <Link 
+          href={`/match/${fixture.id}`}
+          className="block w-full text-center border border-gray-300 hover:bg-gray-50 text-gray-600 py-2 rounded-md font-medium transition-colors"
+        >
+          Search Highlights
+        </Link>
       )}
     </div>
   );

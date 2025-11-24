@@ -35,9 +35,12 @@ export function HeroMatch({ fixture, video }: HeroMatchProps) {
           Watch Highlights
         </Link>
       ) : (
-        <div className="inline-block bg-red-800/50 px-6 py-3 rounded-full text-red-200 font-medium">
-           Highlights not available yet
-        </div>
+        <Link 
+          href={`/match/${fixture.id}`}
+          className="inline-flex items-center gap-2 bg-red-800/50 border border-red-400/30 text-white px-6 py-3 rounded-full font-medium hover:bg-red-800 transition-colors"
+        >
+           Check Availability / Search
+        </Link>
       )}
     </div>
   );
