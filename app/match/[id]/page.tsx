@@ -56,7 +56,11 @@ export default async function MatchPage({ params }: PageProps) {
         {video ? (
           <VideoPlayer videoId={video.id} />
         ) : (
-          <SearchResults query={`Manchester United vs ${fixture.opponent} highlight`} />
+          <SearchResults 
+            query={`Manchester United vs ${fixture.opponent} highlight`} 
+            matchDate={fixture.date}
+            opponentName={fixture.opponent}
+          />
         )}
       </div>
     </main>
