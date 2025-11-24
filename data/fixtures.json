@@ -1,0 +1,5591 @@
+[
+  {
+    "id": "wgwFHlgZfJZDYEhJwUpoPnEWNfmcxCDN008t64wa@maak-agenda.nl",
+    "date": "2026-05-24T15:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "A31V9kH0NtCQXCANUFuJjiQWxJKTm6nZJO9KJIK1@maak-agenda.nl",
+    "date": "2026-05-17T14:00:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Nottingham Forest",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "KlTXxODLxbpYUgCudhjQp4JIR2Yjd2pMkAuBWfKm@maak-agenda.nl",
+    "date": "2026-05-09T14:00:00.000Z",
+    "opponent": "Sunderland",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Oq8fdD9LkPQr5zbZv6Evj7eJz2sWSc6e3MWuMgq5@maak-agenda.nl",
+    "date": "2026-05-02T14:00:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "o1SQnDf5wxUimk7IrfGvWuWwGhNxWXauxi7X4Age@maak-agenda.nl",
+    "date": "2026-04-25T14:00:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford FC",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "iTjt7UKwVl1KLiD1eLdCQrAGigBXAltfRN1SZzoT@maak-agenda.nl",
+    "date": "2026-04-18T14:00:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "0MCXDL8cUOG5abpfIwGAxNNqVmLOapRA5D52w73W@maak-agenda.nl",
+    "date": "2026-04-11T14:00:00.000Z",
+    "opponent": "Leeds United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "hUPWDoFQt11dyI9E9ftym0w0zFMy8oJRE6Hlg0bs@maak-agenda.nl",
+    "date": "2026-03-21T15:00:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "6xKXBjmNmgkJNKeeJGCUk0Jq7UaPkFSe627pdsJI@maak-agenda.nl",
+    "date": "2026-03-14T15:00:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "oU82X1Jm7v7VOD88GRRhaoRVPTG3i7l9xQNbNu0x@maak-agenda.nl",
+    "date": "2026-03-04T20:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "vcqkEQLHRx531Is2VuODnZKhrn5WXTITzhvFax8g@maak-agenda.nl",
+    "date": "2026-02-28T15:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "fJ70fOjBBRZmgtGxJal4GN6AjDqKEyp303Jbn06j@maak-agenda.nl",
+    "date": "2026-02-21T15:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "9N1uOn66HX7nqurocDJRsrOWagS0G6bcA7BaMHRW@maak-agenda.nl",
+    "date": "2026-02-11T20:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "3uVm4h32XGZdPXzrUNfaiCukpIrgdVhA2APasB1p@maak-agenda.nl",
+    "date": "2026-02-07T15:00:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "qojvlpjyQKxd4VCuvj51MlHdHubiLsvUjdSoH0S1@maak-agenda.nl",
+    "date": "2026-02-01T14:00:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "1AwBOjAkvlVd4RFmPH7ZxRTMZX7ayvtZCn3os8MS@maak-agenda.nl",
+    "date": "2026-01-25T16:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "5FfzWyO2NCD9Wxo2pqMwAxmCXMrdpKx3cGNUPyEX@maak-agenda.nl",
+    "date": "2026-01-17T12:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "sHHP7GUnof2IBIBZkRsCpv0AMmaN1jC2T7SsiRnC@maak-agenda.nl",
+    "date": "2026-01-07T20:15:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "kH0rKgSBbMJ62qMUe3Jrxk8xZkkDZTthuyPagMf3@maak-agenda.nl",
+    "date": "2026-01-04T12:30:00.000Z",
+    "opponent": "Leeds United",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "X2qQhIHQ9VpTPD92vgrOd0a9klnTh7mYp2ZsnLYX@maak-agenda.nl",
+    "date": "2025-12-30T20:15:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "x8u5hPGOX4HNxjM8gdxwcIr24wZoj5gO6L5q9qHM@maak-agenda.nl",
+    "date": "2025-12-26T20:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "9FpxI0BVP9E7e6kGBwm0QPVXG6GLqJbqEBLetEtd@maak-agenda.nl",
+    "date": "2025-12-21T16:30:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "m6oo7Q4SxOz6ylGmvLcNjPqpGREyF35JtZWN5fkH@maak-agenda.nl",
+    "date": "2025-12-15T20:00:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "mN4otD80vgt9NfQmUDHPX3WvfBlyUbBtuynB09cu@maak-agenda.nl",
+    "date": "2025-12-08T20:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "q4id8lOcAtAyaIEvrvL9cecPTZkLUrQtJGisOyjl@maak-agenda.nl",
+    "date": "2025-12-04T20:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "VN8H4wxJNksedtah4grsbxB3CW1Z9RfJQsCNlESS@maak-agenda.nl",
+    "date": "2025-11-30T12:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "dqXJAfdWjscToOsrrum08okKLrRDYr2gmOmV0TBD@maak-agenda.nl",
+    "date": "2025-11-24T20:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "WF5PvOreXQf4w2KksxhmEROUlyNdkH0yL0QBPoq9@maak-agenda.nl",
+    "date": "2025-11-08T12:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "oGKoEXKLGEJUSX0amRxgqWarfXApsK4e0KpjjPv0@maak-agenda.nl",
+    "date": "2025-11-01T15:00:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Pif1dOL5Xf2TEnzaTFiym5RgV2dQKdo5NIqn7bWt@maak-agenda.nl",
+    "date": "2025-10-25T16:30:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (4-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (4-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "EyGA4U5k7DIy5LPCuWaGqomooGipl7Sx0VeYBAfR@maak-agenda.nl",
+    "date": "2025-10-19T15:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "aTAspqHYgSM2QuStvlis3earCEPd575VdBwNRUYe@maak-agenda.nl",
+    "date": "2025-10-04T14:00:00.000Z",
+    "opponent": "Sunderland (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sunderland (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "LF884XjubKgJYKWl1n6zovNtUHiKYsGHGDU2KlTY@maak-agenda.nl",
+    "date": "2025-09-27T11:30:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ZIcaYtZKz8ouRfT9S4N2VzZHO8cpVeQdBIIphihh@maak-agenda.nl",
+    "date": "2025-09-20T16:30:00.000Z",
+    "opponent": "Chelsea (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Tbs6fR8EwhOCmijROHYV0EKAnZyGPIWvZdor5HW8@maak-agenda.nl",
+    "date": "2025-09-14T15:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "eq112yK0iU57vc6WU9b6fT8AgHCZvTFeXoGpG6vG@maak-agenda.nl",
+    "date": "2025-08-30T14:00:00.000Z",
+    "opponent": "Burnley FC (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "2MxPonlcM1zCIAp3Ciduwb3c4xVjzQO6Veulp8hs@maak-agenda.nl",
+    "date": "2025-08-27T19:00:00.000Z",
+    "opponent": "Grimsby Town FC",
+    "homeTeam": "Grimsby Town FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ZExaVni729V7q4DEOuhlVzEBV6cm6eEhS9Mt3kLp@maak-agenda.nl",
+    "date": "2025-08-24T15:30:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "5L5J4ukJE63p64dcv02tE1UbjVIZioYio9mjTzpV@maak-agenda.nl",
+    "date": "2025-08-17T15:30:00.000Z",
+    "opponent": "Arsenal (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "O6uVWSZn68C5x4A8UEDJ9Xtko8uOc8ZwYlbivYaS@maak-agenda.nl",
+    "date": "2025-05-25T15:00:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "UNfp0wD3kLYHhVwGvWLroivE9Ll8YwjHUoSv7zzy@maak-agenda.nl",
+    "date": "2025-05-21T19:00:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "fytV7zWg8R2tEhLqjXLUklniQWpGsFMpg78aDH3I@maak-agenda.nl",
+    "date": "2025-05-16T19:15:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "0zTIEhUmZcZfXStJ6zhSrA8zEG0AWMAyIAlKjZjh@maak-agenda.nl",
+    "date": "2025-05-11T13:15:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "JI07TaETVkmQnh5Z1ssDhdMV8O3zU8XUIJDiAkMr@maak-agenda.nl",
+    "date": "2025-05-08T19:00:00.000Z",
+    "opponent": "Athletic de Bilbao [EL] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Athletic de Bilbao [EL] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "H0XFZSjsBU4O6IUn8C9SHCzXkOPeDtgJNwewcUaL@maak-agenda.nl",
+    "date": "2025-05-04T13:00:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "VbSYkl2Xep61RRbbM7UPpqgpdFu6wKcZBpwAFTDg@maak-agenda.nl",
+    "date": "2025-05-01T19:00:00.000Z",
+    "opponent": "Athletic de Bilbao",
+    "homeTeam": "Athletic de Bilbao",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "t7jMUjTNkp53xXWSboo5Sp15FoHkzoxNZZeg8KaG@maak-agenda.nl",
+    "date": "2025-04-27T13:00:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "zdS0feAkBhpwrJJl5gp86PcamiB2Imhib1bxuBXY@maak-agenda.nl",
+    "date": "2025-04-20T13:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "FZTJc3J0OZAYlaO1qPqhm65M0BDE0d5yMzCxE83U@maak-agenda.nl",
+    "date": "2025-04-17T19:00:00.000Z",
+    "opponent": "Olympique Lyonnais [EL] (5-4)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Olympique Lyonnais [EL] (5-4)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ovxFUmpngK1DbTn6uHsRhUN7SV4t7yw3q7zCwSSS@maak-agenda.nl",
+    "date": "2025-04-13T15:30:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Eenjw38Y2eqLtE6ANUbXIYqFVZdkZMTKUv0EHYqL@maak-agenda.nl",
+    "date": "2025-04-10T19:00:00.000Z",
+    "opponent": "Olympique Lyonnais",
+    "homeTeam": "Olympique Lyonnais",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "DKB2gDKjywNIA2qAzynLJ68K2MVGBMxyKV4Rml8D@maak-agenda.nl",
+    "date": "2025-04-06T15:30:00.000Z",
+    "opponent": "Manchester City (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "JZpXstTe1NcqFk348r0a9F4xChBlGuox9jOlImPT@maak-agenda.nl",
+    "date": "2025-04-01T19:00:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "9eqJC3EzhlQiUrGUDaD1Iz1PZVrHYTAR7c0SqBnW@maak-agenda.nl",
+    "date": "2025-03-16T19:00:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "oFZnvuuxfTVgRpjpufkYGbfQWPZB87vCvJvC3uuQ@maak-agenda.nl",
+    "date": "2025-03-13T20:00:00.000Z",
+    "opponent": "Real Sociedad [EL] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Real Sociedad [EL] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rwLPrEiPt3lA1Rrh4qfVtRBF2KmyjoZTUStsR52D@maak-agenda.nl",
+    "date": "2025-03-09T16:30:00.000Z",
+    "opponent": "Arsenal (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "fT9gmN4dvHMNTqpyOVtU0tN6ppH7aw7ClhcAMIRE@maak-agenda.nl",
+    "date": "2025-03-06T17:45:00.000Z",
+    "opponent": "Real Sociedad",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "1UpV5RimnTC2u82XlAH9sI5Q4YHRZbH99U8gYjyk@maak-agenda.nl",
+    "date": "2025-03-02T16:30:00.000Z",
+    "opponent": "Fulham [FA] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham [FA] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ZWL4gU87rujlsaIFmxyTvGqR2tii9YHvc0WV0qrS@maak-agenda.nl",
+    "date": "2025-02-26T19:30:00.000Z",
+    "opponent": "Ipswich Town (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Ipswich Town (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "MWVSP4hJnPQFncq1aCZyX4M1F3P4OutE5Csm5IAO@maak-agenda.nl",
+    "date": "2025-02-22T12:30:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "yEE3vm26SH4GR5MPPQWGVJR9UDA8X0WWkY5lLKQb@maak-agenda.nl",
+    "date": "2025-02-16T16:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "04BiOOJYT8H9AGrF4pbGWbA32HcxzJ10QgqxyjGZ@maak-agenda.nl",
+    "date": "2025-02-07T20:00:00.000Z",
+    "opponent": "Leicester City [FA] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City [FA] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SOdxGsoucaLyRVgiLm1ttDQfNv628vKFkRTSUBEr@maak-agenda.nl",
+    "date": "2025-02-02T14:00:00.000Z",
+    "opponent": "Crystal Palace (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "mFn97EU6VAyR2517HTntr4Lk1zwV3jxt80mcmqZP@maak-agenda.nl",
+    "date": "2025-01-30T20:00:00.000Z",
+    "opponent": "Steaua Boekarest",
+    "homeTeam": "Steaua Boekarest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "EXAC7CGwOVLB836aJhcQwQPcDGCZlnms3pIRdpAm@maak-agenda.nl",
+    "date": "2025-01-26T19:00:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "8cYGNrByPdaCOPnQgvbTHbKmdY0VExVGzy6KsHLN@maak-agenda.nl",
+    "date": "2025-01-23T20:00:00.000Z",
+    "opponent": "Rangers [EL] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Rangers [EL] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "1vZHMvKdiRiKZbSHfqrgK3H07TvOQUyDHvew1JU7@maak-agenda.nl",
+    "date": "2025-01-19T14:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (1-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (1-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "w9cGupLgx6SDR8cRgnxz5KJoxTIw4Hd74EEReH2Z@maak-agenda.nl",
+    "date": "2025-01-16T20:00:00.000Z",
+    "opponent": "Southampton (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "eqssVlwYgc5KIt43lNP3knf40S3Zm00DmKgMvXf1@maak-agenda.nl",
+    "date": "2025-01-12T15:00:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "NKQKsqbJe0GnVQVstXjeTHC9K16ENdcq1mDgFeA0@maak-agenda.nl",
+    "date": "2025-01-05T16:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "hMYYVsh5M44ssQxOunUXVkpXE6vCH05htzlx2L3D@maak-agenda.nl",
+    "date": "2024-12-30T20:00:00.000Z",
+    "opponent": "Newcastle United (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "1z8cHbblILHXAwHTw0Blzy1bpG9jNBAaNgazbIl1@maak-agenda.nl",
+    "date": "2024-12-26T17:30:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "pt743Yc6cSoFoseJbbwSNAbqhSLAnosr64tBvXgM@maak-agenda.nl",
+    "date": "2024-12-22T14:00:00.000Z",
+    "opponent": "AFC Bournemouth (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "7uQby1KjbNiuQx7BmCsW2MT2pGavRoz7DFQ5n4Y3@maak-agenda.nl",
+    "date": "2024-12-19T20:00:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "mijrX9sge4g16rwOw8TCofWBycDx5Dt4OG2QpRSR@maak-agenda.nl",
+    "date": "2024-12-19T20:00:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "JrFeeqC7YgK10NZGATbGYyNfwtsXw0FTpzX8XVqk@maak-agenda.nl",
+    "date": "2024-12-15T16:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "JGZ85cDdl5Xk0b50l5JAYmPgBgxd0FxYkV1lmn8N@maak-agenda.nl",
+    "date": "2024-12-12T17:45:00.000Z",
+    "opponent": "FC Viktoria Plzen",
+    "homeTeam": "FC Viktoria Plzen",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wt3MLD0t6dMK3arlYMqHbVYcGZlS7RZ7PM6p3Pmz@maak-agenda.nl",
+    "date": "2024-12-07T17:30:00.000Z",
+    "opponent": "Nottingham Forest (2-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Nottingham Forest (2-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rwpwbAH8gJyBaSPKzwcHapSC5dJwFOUbdcsGbVE2@maak-agenda.nl",
+    "date": "2024-12-04T20:15:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "MWzuqncaJp47zEnaoAVUthLyZwl8NZYFoe3ULYvY@maak-agenda.nl",
+    "date": "2024-12-01T13:30:00.000Z",
+    "opponent": "Everton (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "sbGX57NiLZuKGqsb1xPoDjpXddemjGRdTvmqpFRn@maak-agenda.nl",
+    "date": "2024-11-28T20:00:00.000Z",
+    "opponent": "Bodø/Glimt [EL] (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Bodø/Glimt [EL] (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "clnprqgpqhrECIOkYqQUOkSnDb3lEamBu1DlCrNy@maak-agenda.nl",
+    "date": "2024-11-24T16:30:00.000Z",
+    "opponent": "Ipswich Town",
+    "homeTeam": "Ipswich Town",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "y5fWIfzEyfoRqlHniz3cuiKhPjw0kKRJS1i6MRCw@maak-agenda.nl",
+    "date": "2024-11-10T14:00:00.000Z",
+    "opponent": "Leicester City (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Qm7aP7DCnkiPpaLUQB4KRgVRD1u8QZuwQfIZryw7@maak-agenda.nl",
+    "date": "2024-11-07T20:00:00.000Z",
+    "opponent": "PAOK Salonika [EL] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "PAOK Salonika [EL] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "XIZJv8OcKN0jLHJOYrvRcQdw9mWtgOaxMj7arrln@maak-agenda.nl",
+    "date": "2024-11-03T16:30:00.000Z",
+    "opponent": "Chelsea (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GOC1bjUJdrRP6XiXHq3huCX7fQwbWjYxB75uhSBG@maak-agenda.nl",
+    "date": "2024-10-30T19:45:00.000Z",
+    "opponent": "Leicester City [LC]",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City [LC]",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "PLfkp6t9DsAziouEDYxo1OvhpFZHZ1l0pjQ770Ew@maak-agenda.nl",
+    "date": "2024-10-30T19:45:00.000Z",
+    "opponent": "Leicester City [LC] (5-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City [LC] (5-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "saxwY41APpINrTcWEw6dHt20WS5HwLNrKK2dnRxP@maak-agenda.nl",
+    "date": "2024-10-27T14:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "i1k6ERlTMjKN5SvmFaHQs1J71aYtJHAFfXpCRxwD@maak-agenda.nl",
+    "date": "2024-10-24T19:00:00.000Z",
+    "opponent": "Fenerbahçe",
+    "homeTeam": "Fenerbahçe",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "otO7F0TWrx1QTGWJTzpUCF0qz09PD6Q4afUV4IkT@maak-agenda.nl",
+    "date": "2024-10-19T14:00:00.000Z",
+    "opponent": "Brentford FC (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford FC (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ruTh892QGyryUzPqynPea4XGY3Xby1tgR497aW7s@maak-agenda.nl",
+    "date": "2024-10-06T13:00:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "8TZfC9oecAQngvbc19GLL9j21Zf8k83I2QOxtfWA@maak-agenda.nl",
+    "date": "2024-10-03T19:00:00.000Z",
+    "opponent": "FC Porto",
+    "homeTeam": "FC Porto",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "TFxmy0pFGWFN0MgPmgCTOij09uF3zMAgh6ijW8de@maak-agenda.nl",
+    "date": "2024-09-29T15:30:00.000Z",
+    "opponent": "Tottenham Hotspur (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "FijmiWaNuGqlVfPU4xbZE4Bub82Jp1B94oYdsy6f@maak-agenda.nl",
+    "date": "2024-09-25T19:00:00.000Z",
+    "opponent": "FC Twente [EL] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Twente [EL] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Lk2EcQlbG6m4L12dejQr848TkIwBVCw6lWmAmSkW@maak-agenda.nl",
+    "date": "2024-09-21T16:30:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "T6gIAt8jtqr7wWc89BsASoFow2VyEDVqQOa39wbq@maak-agenda.nl",
+    "date": "2024-09-17T19:00:00.000Z",
+    "opponent": "Barnsley [LC]",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Barnsley [LC]",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "7hWPsSv3GVOTP97H4UJI3gJwH72od8XGQQF1Tyx8@maak-agenda.nl",
+    "date": "2024-09-17T19:00:00.000Z",
+    "opponent": "Barnsley [LC] (7-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Barnsley [LC] (7-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "lGaXJ665vWlCfnYYqRnBVLOneu1ccjdanHKC7SMJ@maak-agenda.nl",
+    "date": "2024-09-14T11:30:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "aiReyP1M95aMJM7itqkOv11K7BhboxI8GO9eCOtG@maak-agenda.nl",
+    "date": "2024-09-01T15:00:00.000Z",
+    "opponent": "Liverpool (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "lgBi4tNKBWtuqROwCokjAUihE44BcIgBzRqPGD2r@maak-agenda.nl",
+    "date": "2024-08-24T11:30:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "VvRmBvi9F3mT25cbhqGIDKoPrQZr0rJKfFzfVvO6@maak-agenda.nl",
+    "date": "2024-08-16T19:00:00.000Z",
+    "opponent": "Fulham (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "vULxGdG77GlgoBQVvdPpAEu64sbqyy7838DpRY9y@maak-agenda.nl",
+    "date": "2024-08-10T14:00:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "TgrBE1tNp77poVQ39jpikAiMrFeReel6kc5VwNNI@maak-agenda.nl",
+    "date": "2024-05-19T15:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "0RxkC4OcCIoEBAdZFnajP3ZUkldppdhkAYEJJ160@maak-agenda.nl",
+    "date": "2024-05-15T19:00:00.000Z",
+    "opponent": "Newcastle United (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "lQLeTPbSlbfOazVUKOHHT3sTmm104XMjcyPA6APS@maak-agenda.nl",
+    "date": "2024-05-12T15:30:00.000Z",
+    "opponent": "Arsenal (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GA55dfgrX8r0Mwy1OoEYJS9L47M8tDT28ebvXafW@maak-agenda.nl",
+    "date": "2024-05-06T19:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "fEbqvAv5sW5hK4uDyMbOcwaizzJ2fxgvU65iNIvQ@maak-agenda.nl",
+    "date": "2024-04-27T14:00:00.000Z",
+    "opponent": "Burnley FC (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "f9AXmwTUsxJQSNiPfjTnBTINumNix3Yt56LVB4zt@maak-agenda.nl",
+    "date": "2024-04-24T19:00:00.000Z",
+    "opponent": "Sheffield United (4-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sheffield United (4-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "1vD9csP1ltb0EV6ulztTvZKiAOpdscXdlOb98MvU@maak-agenda.nl",
+    "date": "2024-04-21T14:30:00.000Z",
+    "opponent": "Coventry City",
+    "homeTeam": "Coventry City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "KOIEhzFEjiuhJ6GnBLNpQ7kbPQ9STZMYIHCXse0n@maak-agenda.nl",
+    "date": "2024-04-20T14:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "mJL0cXLLgPBrgsB5PM3j1dZ7UX0hoc4IQxXUa5nN@maak-agenda.nl",
+    "date": "2024-04-13T16:30:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "xIrVhneeg0nvr0IC7A4bbEldwjFpAJ4R1WLz98AR@maak-agenda.nl",
+    "date": "2024-04-07T14:30:00.000Z",
+    "opponent": "Liverpool (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "O46u5xxoB5zxCNNXJAXWQ3dD2FzLvAArMcAT1dBD@maak-agenda.nl",
+    "date": "2024-04-04T19:15:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "jVAQh76irXemvlEZBDjJLduZDszexy9Oh6Zkbm0u@maak-agenda.nl",
+    "date": "2024-03-30T20:00:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Cv8NjfBrzYyV1wI0o7UFzQwj5MavIn4kQBlMYPVH@maak-agenda.nl",
+    "date": "2024-03-17T15:30:00.000Z",
+    "opponent": "Liverpool [FA] (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool [FA] (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "LDt3EQ1deWQnOpyLTGi3BHDeAHdYDy3vVsp8ssXL@maak-agenda.nl",
+    "date": "2024-03-16T15:00:00.000Z",
+    "opponent": "Sheffield United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sheffield United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ZMDD1l2dZgHFAo5S8i8eLgVhqU6VFH3zGkpRMmWy@maak-agenda.nl",
+    "date": "2024-03-09T12:30:00.000Z",
+    "opponent": "Everton (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "aWmwfgCcsYpubkfYmPCWUb6mQWEPCI78MxupNuNB@maak-agenda.nl",
+    "date": "2024-03-03T15:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "6OtLYz2r25xnuHVbAPwLRRlU9KaheMGMpBYph1bI@maak-agenda.nl",
+    "date": "2024-02-28T19:45:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "IYowt0vSNVo6BaGfWK5W3whqCJ2FjsfVtJCYJmwy@maak-agenda.nl",
+    "date": "2024-02-24T15:00:00.000Z",
+    "opponent": "Fulham (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "hwvKosnow2V9Keu136gLCKZw9mfbX7GtsBukxwDm@maak-agenda.nl",
+    "date": "2024-02-18T16:30:00.000Z",
+    "opponent": "Luton Town",
+    "homeTeam": "Luton Town",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "vYYOIkOK4Dt24IXk2nVrkCbppRX0bn71ArxhTgOn@maak-agenda.nl",
+    "date": "2024-02-11T16:30:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "HeJrcGLskoMkoNoUf1x2Wpgvz5ni42lK91Qz9kaS@maak-agenda.nl",
+    "date": "2024-02-04T14:00:00.000Z",
+    "opponent": "West Ham United (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "uyYE6bOKbqj9ipAv5pwvcEtj9j3SaNeNOuuhQ92t@maak-agenda.nl",
+    "date": "2024-02-01T20:15:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "v9rQ2GTuba8ibUZ3FDzDtfWyVL0BYDFZfNHhWXHn@maak-agenda.nl",
+    "date": "2024-01-28T16:30:00.000Z",
+    "opponent": "Newport County AFC",
+    "homeTeam": "Newport County AFC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "hgaARnXaHDkbliWuyHuc2sSdlLqoyNvScVuhs3xo@maak-agenda.nl",
+    "date": "2024-01-14T16:30:00.000Z",
+    "opponent": "Tottenham Hotspur (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GR21qmcP2XGjFrmmKHsHm4dKcAClfroKrWJI7sM7@maak-agenda.nl",
+    "date": "2024-01-08T20:15:00.000Z",
+    "opponent": "Wigan Athletic",
+    "homeTeam": "Wigan Athletic",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "6tRckYZ1ECEirRuxh2ygClDrvJPOhrvBOSfiELUF@maak-agenda.nl",
+    "date": "2023-12-30T17:30:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "AP47O1zxBdGqn5YkbhPgvkY9BJd68iWywe4H8Aay@maak-agenda.nl",
+    "date": "2023-12-26T20:00:00.000Z",
+    "opponent": "Aston Villa (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "lQXzkdjEo2Jcy0KoLwLATSKxZ9Ug8NanhF9sPCvt@maak-agenda.nl",
+    "date": "2023-12-23T12:30:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "RZl84GFbkm5gq0KNi8IXSI0rreiPeQFqfchc7CaL@maak-agenda.nl",
+    "date": "2023-12-17T16:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Kx5PZaqdYSTEfr2VlR658lJfE8hkJmQYtXfvAiDX@maak-agenda.nl",
+    "date": "2023-12-12T20:00:00.000Z",
+    "opponent": "Bayern München [CL] (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Bayern München [CL] (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "v1xNdF48Cs16FYxMY5HAKrNfOpWCHKrynvCFgNfT@maak-agenda.nl",
+    "date": "2023-12-09T15:00:00.000Z",
+    "opponent": "AFC Bournemouth (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "YMKEPRCzTKOCFCusrjHw5RC1Mg4BNRE4yjuDVWSH@maak-agenda.nl",
+    "date": "2023-12-06T20:15:00.000Z",
+    "opponent": "Chelsea (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "iNKP0Ff613hSjSX9jnZsUMimKt7VFCYRYaaE4Ubj@maak-agenda.nl",
+    "date": "2023-12-02T20:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "MzelRuXrsvUgPdF0hT1v6doWczxTqLLM7M33Ezn0@maak-agenda.nl",
+    "date": "2023-11-29T17:45:00.000Z",
+    "opponent": "Galatasaray",
+    "homeTeam": "Galatasaray",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Sv6S3Yh5sYYXafJkt4jS8Of1MHqwr8tJzFm4XrDO@maak-agenda.nl",
+    "date": "2023-11-26T16:30:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "HH1i0ber6n0XJP7Kl4t8acmCaawm5Rty2Yrs97U2@maak-agenda.nl",
+    "date": "2023-11-11T15:00:00.000Z",
+    "opponent": "Luton Town (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Luton Town (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GW4noFmGqvqCFegglhz6ZeTVzNS6vzx5KKVKrJ2b@maak-agenda.nl",
+    "date": "2023-11-08T20:00:00.000Z",
+    "opponent": "FC Kopenhagen",
+    "homeTeam": "FC Kopenhagen",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "HWoQwt1b85jajwf2vuUknswxFkxJRR5OiSOXgLC7@maak-agenda.nl",
+    "date": "2023-11-04T12:30:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wFmXDDSR8rj6XA2FdMegIPHxWDM5BrYdib32oLe7@maak-agenda.nl",
+    "date": "2023-11-01T20:15:00.000Z",
+    "opponent": "Newcastle United [LC] (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United [LC] (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "h7glJlT2ylQlnBU35WfriWYXqfp9hhGrjx9V6Cq7@maak-agenda.nl",
+    "date": "2023-10-29T15:30:00.000Z",
+    "opponent": "Manchester City (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "0uAmqRiFcX4L7iBie6WTaexroMScWiUqv7pqovZQ@maak-agenda.nl",
+    "date": "2023-10-24T19:00:00.000Z",
+    "opponent": "FC Kopenhagen [CL] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Kopenhagen [CL] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "VTEDOOyRZj2108jSXqP5zppjFgVFmxB5jhcY1FyQ@maak-agenda.nl",
+    "date": "2023-10-21T19:00:00.000Z",
+    "opponent": "Sheffield United",
+    "homeTeam": "Sheffield United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "kt4063IkFvZXXx5r29us6kqlW3XdO0wYduZuPBWD@maak-agenda.nl",
+    "date": "2023-10-07T14:00:00.000Z",
+    "opponent": "Brentford FC (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford FC (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "TxrseWIoQ5zdneXr5Xx7JkDNUQT3GbCiQ3AJv47r@maak-agenda.nl",
+    "date": "2023-10-03T19:00:00.000Z",
+    "opponent": "Galatasaray [CL] (2-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Galatasaray [CL] (2-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "qqpbcA9J12s6U4zCxVOAGFV96Anitn3VULNhzTA4@maak-agenda.nl",
+    "date": "2023-09-30T14:00:00.000Z",
+    "opponent": "Crystal Palace (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "OQvuPWulZ7AEXosO2fN87xa3IUU98fmCPgabdto0@maak-agenda.nl",
+    "date": "2023-09-26T19:00:00.000Z",
+    "opponent": "Crystal Palace [LC] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace [LC] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "oVSTXcZ9WN5hnzLgpKp8NXvIZATNGsXOAeotyvGV@maak-agenda.nl",
+    "date": "2023-09-23T19:00:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "loe6Fsb9ZRQb4LKnRyI7USFUVNHhfebrm5MG9xDq@maak-agenda.nl",
+    "date": "2023-09-20T19:00:00.000Z",
+    "opponent": "Bayern München",
+    "homeTeam": "Bayern München",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "zNgLcOeknLntmPp25GEg5nBLtyp4d5CAPpKiD6Y4@maak-agenda.nl",
+    "date": "2023-09-16T14:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (1-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (1-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "XgJQtRwZnxULKKH7gRUhLtDM62LJdFNFqX6NQdzw@maak-agenda.nl",
+    "date": "2023-09-03T15:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "AgOylsUtnzyVL4UOBsWXEjz3c56npM5YIJYAorEi@maak-agenda.nl",
+    "date": "2023-08-26T14:00:00.000Z",
+    "opponent": "Nottingham Forest (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Nottingham Forest (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "oyIWK53jhICmJHGUrCdA3mAjxkEY4nMAVRhjMIAx@maak-agenda.nl",
+    "date": "2023-08-19T16:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ozr6DpLRgSA04yMdtx6t0zM0mcQY0WaJCSX57y0z@maak-agenda.nl",
+    "date": "2023-08-14T19:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "pxgY3te4ue5GmesddYE01s1bcCLjfTOGlU0P45fZ@maak-agenda.nl",
+    "date": "2023-06-03T14:00:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "nFSSCyQK0NiOvPBZR9Z4Nq264JHtXIf5Ddi5qNz6@maak-agenda.nl",
+    "date": "2023-05-28T15:30:00.000Z",
+    "opponent": "Fulham (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "eMzuiY7TIJocSnP16QBP2DXYNwQ79le8uZWoHfnK@maak-agenda.nl",
+    "date": "2023-05-25T19:00:00.000Z",
+    "opponent": "Chelsea (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "QTHwrj6A9IDURJ4vndaKoNRTVlPB5BCdqyF4CuQr@maak-agenda.nl",
+    "date": "2023-05-20T14:00:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "DyQT7QekWRM8ZpuPNfgY4ZXxS9YcHT880eCD8tcv@maak-agenda.nl",
+    "date": "2023-05-13T14:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Mw2JBepjypCSHF1JvRjViOCHGCSKETcvlOTnzqVl@maak-agenda.nl",
+    "date": "2023-05-07T18:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "2sCh8YvbmS6sRHqbz3OpHjfQmvIGfTI3Ciw07ywn@maak-agenda.nl",
+    "date": "2023-05-04T19:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "pKIKEcZLeD9C5M93jFAjGXmg1wVUatWfQGFWkpGU@maak-agenda.nl",
+    "date": "2023-04-30T13:00:00.000Z",
+    "opponent": "Aston Villa (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "8l8DaCEs69QGOM58y8bRMF4nfELlpHKhV8E0Ztzl@maak-agenda.nl",
+    "date": "2023-04-27T19:15:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "gWm2aNpK25198KDRwPY9yb7HE1QG5eQmSYGOhtC5@maak-agenda.nl",
+    "date": "2023-04-23T15:30:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "zjzegqXlcMPAjImbYB4dYO4SqnnQem2WUJXstuJT@maak-agenda.nl",
+    "date": "2023-04-22T16:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GU5x3nUwparcNpTQipwecifXYoawLMbcRUYWrdC4@maak-agenda.nl",
+    "date": "2023-04-20T19:00:00.000Z",
+    "opponent": "Sevilla FC",
+    "homeTeam": "Sevilla FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "o5UAu2Vjzw9f4YkNxCM5K8Csp5jJEegIAv7BxO3X@maak-agenda.nl",
+    "date": "2023-04-16T15:30:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Cg05diQD2o5kmLmGhAbjx0TpQW5H6hkI1Zq1Jyp1@maak-agenda.nl",
+    "date": "2023-04-13T19:00:00.000Z",
+    "opponent": "Sevilla FC [EL] (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sevilla FC [EL] (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "xOIunUACzK4hgXcMuHin6vlzjM6hzuHZm7M8lhlp@maak-agenda.nl",
+    "date": "2023-04-08T11:30:00.000Z",
+    "opponent": "Everton (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "p6BaSyZVPSCCY4Od7eyht94xWaNZF62CtZxzaVAK@maak-agenda.nl",
+    "date": "2023-04-05T19:00:00.000Z",
+    "opponent": "Brentford FC (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford FC (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "DM7I2zj6JHqEMRhTZMoBjFXpfBsUbFCNLjr0bICn@maak-agenda.nl",
+    "date": "2023-04-02T15:30:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "zoNaG8NaPD12izeJZH7BPdNClfBV2eNgDLz7yIkD@maak-agenda.nl",
+    "date": "2023-03-19T16:30:00.000Z",
+    "opponent": "Fulham [FA] (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham [FA] (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "jhiujl8Fsyz8DZL4F0A2dpDyKjZMvXnc4XycJ8RU@maak-agenda.nl",
+    "date": "2023-03-19T14:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "DppS1sCTiLppx3vmOomymiFYf5N5A2iOrACXVBKb@maak-agenda.nl",
+    "date": "2023-03-16T17:45:00.000Z",
+    "opponent": "Real Betis",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "0VCT0gMS5VbS3vDKvKUb5ml1APzaSZ6Pr9Z3tp3y@maak-agenda.nl",
+    "date": "2023-03-12T14:00:00.000Z",
+    "opponent": "Southampton (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "8jYhPLcecoggDBvQgwyocNjdXK82fvORB4e6Twda@maak-agenda.nl",
+    "date": "2023-03-09T20:00:00.000Z",
+    "opponent": "Real Betis [EL] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Real Betis [EL] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Z2W1f7AMJlgdRDVZfQrnoAyPPz1jsQcn3r8FBx79@maak-agenda.nl",
+    "date": "2023-03-05T16:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "exloukorxESaBzBc1c7qj0JhhC5to6truf5iHvjc@maak-agenda.nl",
+    "date": "2023-03-01T19:45:00.000Z",
+    "opponent": "West Ham United [FA] (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United [FA] (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "LFhZJLf2q6bxeA4H9SY95y3B1PQGTqlziw2A6DBi@maak-agenda.nl",
+    "date": "2023-02-26T16:30:00.000Z",
+    "opponent": "Newcastle United [LC] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United [LC] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "UKhhGbHJDwCWR96qyhF7tuQPFVUCL8hnPrRiHUFK@maak-agenda.nl",
+    "date": "2023-02-26T13:30:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford FC",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Vlz4R8gjXkTM95i6vHauJz6lQWlmLYTIOaO7VXYu@maak-agenda.nl",
+    "date": "2023-02-23T20:00:00.000Z",
+    "opponent": "FC Barcelona [EL] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Barcelona [EL] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "BVyueEmUtytDtDKjriNIIQ8umVoBiPD64bDBrFDu@maak-agenda.nl",
+    "date": "2023-02-19T14:00:00.000Z",
+    "opponent": "Leicester City (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "CiwtlkV9gcsHA6THTw9EqxNFGmVgpl1SN8OVIWCV@maak-agenda.nl",
+    "date": "2023-02-16T17:45:00.000Z",
+    "opponent": "FC Barcelona",
+    "homeTeam": "FC Barcelona",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "FsdzDzdTIxs5PzsnTHvV87XGTSnAdS4euueWmOie@maak-agenda.nl",
+    "date": "2023-02-12T14:00:00.000Z",
+    "opponent": "Leeds United",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "bxqs0goAVW3QTVkrqRJEkdUif0Ilk42DG62rRbfR@maak-agenda.nl",
+    "date": "2023-02-08T20:00:00.000Z",
+    "opponent": "Leeds United (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "MrcMqPSY1zOy73dUjexSW6At5SdMMH0YfMaGQJqv@maak-agenda.nl",
+    "date": "2023-02-04T15:00:00.000Z",
+    "opponent": "Crystal Palace (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "nNE3DeOjinTd6gIpe4YfGN7tJ1BrdQwVBGGG5wGp@maak-agenda.nl",
+    "date": "2023-02-01T20:00:00.000Z",
+    "opponent": "Nottingham Forest [LC] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Nottingham Forest [LC] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "tB88x4jfZwJKVU5vkN3RSoAMvZcW0C9x2t1JQSCq@maak-agenda.nl",
+    "date": "2023-01-28T20:00:00.000Z",
+    "opponent": "Reading FC [FA] (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Reading FC [FA] (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "UMe8aE2J8gcwuwRIdYf8eShOwt7WOR89XUZHnNjB@maak-agenda.nl",
+    "date": "2023-01-25T20:00:00.000Z",
+    "opponent": "Nottingham Forest",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ZRZoQEftGojwOjWejF2djfGazYgpUpO7rVfMaoIK@maak-agenda.nl",
+    "date": "2023-01-22T16:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wqyqQgVxM1KuTR1CzWQ6uaEkZAoNhk3tBxkuMZJK@maak-agenda.nl",
+    "date": "2023-01-18T20:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "bqb2HBRI0KQelvUNy60jvOan72W1ZAfGBeIyDaOr@maak-agenda.nl",
+    "date": "2023-01-14T12:30:00.000Z",
+    "opponent": "Manchester City (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GQ3vLXHGwzTTIy7cob1T0RDFN3qkJnSIV7YHN8GL@maak-agenda.nl",
+    "date": "2023-01-10T20:00:00.000Z",
+    "opponent": "Charlton Athletic [LC] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Charlton Athletic [LC] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "tAGtHhedGIiXBKqimmlSayvj64DGSYq2QVfOQjfJ@maak-agenda.nl",
+    "date": "2023-01-06T20:00:00.000Z",
+    "opponent": "Everton [FA] (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton [FA] (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dQKQpRwv1qVYjGvdMF4vIsbllkd6QGODjdvFDVra@maak-agenda.nl",
+    "date": "2023-01-03T20:00:00.000Z",
+    "opponent": "AFC Bournemouth (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "4ekVXvdV6Ti4SLzRP2IbbMaXjp1s0ZbkX5khE6ps@maak-agenda.nl",
+    "date": "2022-12-31T12:30:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "1KRv0UJ9y12AMd6C0uCkDmWdjVLFUJDTImtTnbC4@maak-agenda.nl",
+    "date": "2022-12-27T20:00:00.000Z",
+    "opponent": "Nottingham Forest (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Nottingham Forest (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "T5UxpuHbj3fAmwEbGQ3RjKtWPw3tmngskN8C7b8f@maak-agenda.nl",
+    "date": "2022-12-21T20:00:00.000Z",
+    "opponent": "Burnley FC [LC] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC [LC] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "iKTx6zkPipRddFZWVE3xgEAm5Dany5HDjOqbXsCE@maak-agenda.nl",
+    "date": "2022-11-13T16:30:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "LqDjQPVv2MIZkQsUv4wXY1mAquZXa9uOxnRTl0tM@maak-agenda.nl",
+    "date": "2022-11-10T20:00:00.000Z",
+    "opponent": "Aston Villa [LC] (4-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa [LC] (4-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "cTL3kHvefVCbYWCgEd8ah4vqzktwsCxQ5ptudq58@maak-agenda.nl",
+    "date": "2022-11-06T14:00:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Be2MAaAK0yJ77mxEGWCqzEIZquMTfQGedXzfuWVi@maak-agenda.nl",
+    "date": "2022-11-03T17:45:00.000Z",
+    "opponent": "Real Sociedad",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Foe6NMeQxHyL8GLHmpRskKIlzrmxKsl7x4WKZOj6@maak-agenda.nl",
+    "date": "2022-10-30T16:15:00.000Z",
+    "opponent": "West Ham United (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Wvlq6vnbTAWKV6DoA7P8SdEbera1mO6pwyarbkLu@maak-agenda.nl",
+    "date": "2022-10-27T19:00:00.000Z",
+    "opponent": "FC Sheriff Tiraspol [EL] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Sheriff Tiraspol [EL] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "m5iTt3AIzGnUu2wmgF3mqF0BnbMXhxyEslRgUF52@maak-agenda.nl",
+    "date": "2022-10-22T16:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "N2nCZgtGIVM2gtOCeVOIyitqnYNHwGC8Lt3dktdX@maak-agenda.nl",
+    "date": "2022-10-19T19:15:00.000Z",
+    "opponent": "Tottenham Hotspur (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "kpWelXccTpl0Yev2oqbtIoaXR4A3rOWJXyJDCE0M@maak-agenda.nl",
+    "date": "2022-10-16T13:00:00.000Z",
+    "opponent": "Newcastle United (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "wwTvLBzIP8xploM2cD8TqHW3KKDIx0atZh5f1DbZ@maak-agenda.nl",
+    "date": "2022-10-13T19:00:00.000Z",
+    "opponent": "Omonia Nicosia [EL] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Omonia Nicosia [EL] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "47QaXU7XIWsVCk5GgvHzK4dwoFMscOgIRORIDHEm@maak-agenda.nl",
+    "date": "2022-10-09T18:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "6ke86crLZHQ89d9qfGHWWXquqGKgCSVKn3ndm41Z@maak-agenda.nl",
+    "date": "2022-10-06T16:45:00.000Z",
+    "opponent": "Omonia Nicosia",
+    "homeTeam": "Omonia Nicosia",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "MT3PtxTmwYlajZNBvVqGgw0SvP9JsUyCok2ezcqr@maak-agenda.nl",
+    "date": "2022-10-02T13:00:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "dW2l2KBOYnx013FpSV7xuXGoxZzN0UbeKbDF8wwd@maak-agenda.nl",
+    "date": "2022-09-18T13:00:00.000Z",
+    "opponent": "Leeds United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "vOM0OI0dl70GvZn5g25BNPfsMlAe0Pe5swwL31HP@maak-agenda.nl",
+    "date": "2022-09-15T16:45:00.000Z",
+    "opponent": "FC Sheriff Tiraspol",
+    "homeTeam": "FC Sheriff Tiraspol",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Q75vn22MWoensr5T3nG41S4jFqYoXvFon2mYnnu8@maak-agenda.nl",
+    "date": "2022-09-11T15:30:00.000Z",
+    "opponent": "⚠️ Postponed: Crystal Palace",
+    "homeTeam": "⚠️ Postponed: Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "M21EtWMh5ZyDk1zicHCUDU3fn9iIGj6a38QMpzkv@maak-agenda.nl",
+    "date": "2022-09-08T19:00:00.000Z",
+    "opponent": "Real Sociedad [EL] (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Real Sociedad [EL] (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "cLxs8j233kNDCMWHhxCN4EokCQfcmHb1LSeLMgDu@maak-agenda.nl",
+    "date": "2022-09-04T15:30:00.000Z",
+    "opponent": "Arsenal (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "uPOjFfNE47Xyi22oMVWK3Z6VRbvvUS786rhiwQaF@maak-agenda.nl",
+    "date": "2022-09-01T19:00:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "QH8kLL0ZzmqqJ2WIdC7RSZ3vmlTXB63ligQR4CBK@maak-agenda.nl",
+    "date": "2022-08-27T11:30:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "cJxGE0fXTvPmXT2zevaOdcfv1VffA7AkTzUgeV5U@maak-agenda.nl",
+    "date": "2022-08-22T19:00:00.000Z",
+    "opponent": "Liverpool (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "1SE4dkcDApHS4f13SBO11g09QPYAxEvyibkdgGsE@maak-agenda.nl",
+    "date": "2022-08-13T16:30:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wwJrfdgz4jX223VlWfa3A2yT2xFsUxM2aTJwIXkj@maak-agenda.nl",
+    "date": "2022-08-07T13:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "UYG98tPC34ZnLTJ5tsFOOu7rughxnNkJp8TO8jcz@maak-agenda.nl",
+    "date": "2022-05-22T15:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "1ifYzVSI8Mrj2qduS5M3ScBoCWKcsv23ldjvTlUd@maak-agenda.nl",
+    "date": "2022-05-07T16:30:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "RVm84DIBZG124MDOAUKNbgbeYR8h6tPRSHOwHiaf@maak-agenda.nl",
+    "date": "2022-05-02T19:00:00.000Z",
+    "opponent": "Brentford FC (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brentford FC (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "LlSKjOqrbQzck6ozbILVqlRy61umpZqjiOf13tsl@maak-agenda.nl",
+    "date": "2022-04-28T18:45:00.000Z",
+    "opponent": "Chelsea (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "4agC99BeXz3WMutNySA11fnIWlkvbUtQjlwKRJVg@maak-agenda.nl",
+    "date": "2022-04-23T11:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "EpQAKn05GYslpmuUojNRatXCnstnH6v7I3itwT3Z@maak-agenda.nl",
+    "date": "2022-04-19T19:00:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "jo7NVE1U7SQC2rxe5v1xzG3atIE0OjfcaUFaieMn@maak-agenda.nl",
+    "date": "2022-04-16T14:00:00.000Z",
+    "opponent": "Norwich City (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Norwich City (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dzwR4gdLeZYZ8lM1eXGsz8mjWP0hZ29lpxxKGbJg@maak-agenda.nl",
+    "date": "2022-04-09T11:30:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "U6yiWwyqF3EW7Ew9zYKiFRw4HVFYYBpyoIcZPWGe@maak-agenda.nl",
+    "date": "2022-04-02T16:30:00.000Z",
+    "opponent": "Leicester City (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "m6U55aksCoLDAfLFaon5z4Iwaep4ZpmCgtn6hC4Z@maak-agenda.nl",
+    "date": "2022-03-20T16:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "HvvP1usehiFnhLnz1Mmv8h7o4YyBaaj3M4IIFWTZ@maak-agenda.nl",
+    "date": "2022-03-15T20:00:00.000Z",
+    "opponent": "Atlético Madrid [CL] (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Atlético Madrid [CL] (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "yzUvV3o3EE0tZyqEAGpv9bZNOiBbiwG8f06tXmU3@maak-agenda.nl",
+    "date": "2022-03-12T17:30:00.000Z",
+    "opponent": "Tottenham Hotspur (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dqWEuCCRvd03Qa5AHl6dbNY1sQjBOIivYBjERQNC@maak-agenda.nl",
+    "date": "2022-03-06T16:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "DsUtlMGusoruVp2pLg8DnvPfcIjX43VYGPXo5ts1@maak-agenda.nl",
+    "date": "2022-02-26T15:00:00.000Z",
+    "opponent": "Watford FC (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "nvuQ4BwJWsW26j5dcNWrBa960JRQpMeFcnhk4ntQ@maak-agenda.nl",
+    "date": "2022-02-23T20:00:00.000Z",
+    "opponent": "Atlético Madrid",
+    "homeTeam": "Atlético Madrid",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "x2FgIaJoQvWbT2qGLiMg2cGSCSGMhX8q7VO10zVn@maak-agenda.nl",
+    "date": "2022-02-20T14:00:00.000Z",
+    "opponent": "Leeds United",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "lUzqfBU60HuAdXJiyJxi09dW9TaV10xaEmgWe1O4@maak-agenda.nl",
+    "date": "2022-02-15T20:15:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "RuiUnUu7CgybXPWcTrPJnYHFWXyygNrbo0kGoMdv@maak-agenda.nl",
+    "date": "2022-02-12T12:30:00.000Z",
+    "opponent": "Southampton (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "8mgmsgUZaP2aByreGcLIjrXwWUYR5XXl0u9JYwEO@maak-agenda.nl",
+    "date": "2022-02-08T20:00:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "syiUU2ktFExxybziBiIL1G8zrCMJIl2JAhCbuOB5@maak-agenda.nl",
+    "date": "2022-02-04T20:00:00.000Z",
+    "opponent": "Middlesbrough [FA] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Middlesbrough [FA] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "2tRYu6T2U4YAISOwqCZx9QKsgKi6muhOEITIdTrP@maak-agenda.nl",
+    "date": "2022-01-22T15:00:00.000Z",
+    "opponent": "West Ham United (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ATIcQbvpyapNU67jbqJ3gs3Cu9SbgSSwipGg3Zyz@maak-agenda.nl",
+    "date": "2022-01-19T20:00:00.000Z",
+    "opponent": "Brentford FC",
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Eiplb5yS3HuvGha7vqVBXTiMisocKufLWKmPpVpK@maak-agenda.nl",
+    "date": "2022-01-15T17:30:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "FGqbTKhOv9GBOkKZI4NmZ1zkeBk8pducvTp8Xwjq@maak-agenda.nl",
+    "date": "2022-01-10T19:55:00.000Z",
+    "opponent": "Aston Villa [FA] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa [FA] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "C8Ij8dvoKDlLJ0UmPLrbfDM462hQpr4Mnxg4Utrc@maak-agenda.nl",
+    "date": "2022-01-03T17:30:00.000Z",
+    "opponent": "Wolverhampton Wanderers (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "u6ITwxmlnN8hYW2wJsNh5hUymJIOC9a0bK0nwBJZ@maak-agenda.nl",
+    "date": "2021-12-30T20:15:00.000Z",
+    "opponent": "Burnley FC (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "FAE7KpcqTnnPfibZZYJ9kEcxz2knZqIeGAslo7BP@maak-agenda.nl",
+    "date": "2021-12-27T20:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "t0TwYv4oQlX6P6LNyTRHQjOK4nyI4iOCZjoDsnUY@maak-agenda.nl",
+    "date": "2021-12-11T17:30:00.000Z",
+    "opponent": "Norwich City",
+    "homeTeam": "Norwich City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "79VSCe9btYyJvDY6TnReAYWODPUXUeXnZPPaakRZ@maak-agenda.nl",
+    "date": "2021-12-08T20:00:00.000Z",
+    "opponent": "BSC Young Boys [CL] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "BSC Young Boys [CL] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ROdvcXN1wrvvDENkE5YN1PmcCDt07HUaGAomv9jy@maak-agenda.nl",
+    "date": "2021-12-05T14:00:00.000Z",
+    "opponent": "Crystal Palace (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "mRuLJkhtfckqJW94DULGV4tVJ6JWMtwpm90Dc14Y@maak-agenda.nl",
+    "date": "2021-12-02T20:15:00.000Z",
+    "opponent": "Arsenal (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "oh3du7CK2THWs15byIWgkSm9UMJgr0K1svpE0t37@maak-agenda.nl",
+    "date": "2021-11-28T16:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "vRdFXKDxeWkJ4xJSFx6K1eKxa2rgozRxfltETlCJ@maak-agenda.nl",
+    "date": "2021-11-23T17:45:00.000Z",
+    "opponent": "Villarreal",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "VxgjTY79t1bLdSo5OO7kwzS4aN7qRii21z7wDd6q@maak-agenda.nl",
+    "date": "2021-11-20T15:00:00.000Z",
+    "opponent": "Watford FC",
+    "homeTeam": "Watford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "dJUREpIeQUj3FwatfTpVBAkIpvjOUd47WnU1WDPB@maak-agenda.nl",
+    "date": "2021-11-06T12:30:00.000Z",
+    "opponent": "Manchester City (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "7M7vI7tcDS95tCHEQtcjC1WrAFaHvnV4V6Zji3WP@maak-agenda.nl",
+    "date": "2021-11-02T20:00:00.000Z",
+    "opponent": "Atalanta",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "2qHIF3zRc4kAvrU2FIe2Y2fZ0kOwZvEXJn9bPsbP@maak-agenda.nl",
+    "date": "2021-10-30T16:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "AdTq755fvn0U4xBAh0K0jIYhfY6e6xfy61d4pOXY@maak-agenda.nl",
+    "date": "2021-10-24T15:30:00.000Z",
+    "opponent": "Liverpool (0-5)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (0-5)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "CTnzOjJFoHDh7S7LtZXbXzSrde5O2T1ZhD88mxCq@maak-agenda.nl",
+    "date": "2021-10-20T19:00:00.000Z",
+    "opponent": "Atalanta [CL] (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Atalanta [CL] (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "qBwoYzcUVX2jmDLiTocS4HyBuOHJEvtZ19V6bWbE@maak-agenda.nl",
+    "date": "2021-10-16T14:00:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "dphex6tNWztI5Ke4SeblhaxMmUPqkDn3bPHjHjZG@maak-agenda.nl",
+    "date": "2021-10-02T11:30:00.000Z",
+    "opponent": "Everton (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "HGf5WPYrJ5yHdNTAWXyhvfX2FwszdqVvDUiQ0rGR@maak-agenda.nl",
+    "date": "2021-09-29T19:00:00.000Z",
+    "opponent": "Villarreal [CL] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Villarreal [CL] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "f2KkJ05CxH7BBHtrIXeFmJ6IAxEmlwFQi2LKx83O@maak-agenda.nl",
+    "date": "2021-09-25T11:30:00.000Z",
+    "opponent": "Aston Villa (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SnwVGJd9MJJT2Ve7u0zwSj0YWweopXvLGHT68R4T@maak-agenda.nl",
+    "date": "2021-09-22T18:45:00.000Z",
+    "opponent": "West Ham United [LC] (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United [LC] (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "F7kXEBpfeBV6dr04NRA47e0xZyZxcb9xwJiyRYU2@maak-agenda.nl",
+    "date": "2021-09-19T13:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "tPwwJWoDJK5qXOhMgKOEzLlAZpawfG3PiLfFAj66@maak-agenda.nl",
+    "date": "2021-09-14T16:45:00.000Z",
+    "opponent": "BSC Young Boys",
+    "homeTeam": "BSC Young Boys",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "tzrzR6tTK56g3CwUSf9Vxr4WzIp1V78LWiZdbgNP@maak-agenda.nl",
+    "date": "2021-09-11T14:00:00.000Z",
+    "opponent": "Newcastle United (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "on1HogJrxD7RGawHyON8O9wsAARc1SY89Heer7rG@maak-agenda.nl",
+    "date": "2021-08-29T15:30:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "u2YTPYrQqDSssLJKcyrYRSboMr9ndE3hVv8CzOb5@maak-agenda.nl",
+    "date": "2021-08-22T13:00:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "a4hkatSprqN4JNqwdSQHgeqWzbskio7YtZfJ4eTH@maak-agenda.nl",
+    "date": "2021-08-14T11:30:00.000Z",
+    "opponent": "Leeds United (5-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United (5-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "wX5QYweZwgmqTmFbHCLlUFnN6p3V4yxathD8cQyS@maak-agenda.nl",
+    "date": "2021-05-26T19:00:00.000Z",
+    "opponent": "Villarreal",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "81v4J5nkq9vKdwcbFWcQ2p7QB5CCsQQR9D8SQVSO@maak-agenda.nl",
+    "date": "2021-05-23T15:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "asxzolIMEAgeD5KXN64tIzUzh0PR0x1oXTksZBic@maak-agenda.nl",
+    "date": "2021-05-18T17:00:00.000Z",
+    "opponent": "Fulham (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ZBjnSuB7CmsOBoSqIXGvUMb3O26LNdadyl1Dnw9J@maak-agenda.nl",
+    "date": "2021-05-13T19:15:00.000Z",
+    "opponent": "Liverpool (2-4)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (2-4)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "RJLGEUF5FeHNL7bRtmjxFd5rL9kT8b2AFAfxaauM@maak-agenda.nl",
+    "date": "2021-05-11T17:00:00.000Z",
+    "opponent": "Leicester City (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "JcLKYuYM4ZBseX17IPmBrQaSFMmfV3zMJtmPmQzq@maak-agenda.nl",
+    "date": "2021-05-09T13:05:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "9lpZ23OaFGbsp9P5YXaG3AJXR6n1Y2EPVz9cssLX@maak-agenda.nl",
+    "date": "2021-05-06T19:00:00.000Z",
+    "opponent": "AS Roma",
+    "homeTeam": "AS Roma",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "huAyiEekWiIjJo6fHKntxSYFqkr4QoKZRLchM4he@maak-agenda.nl",
+    "date": "2021-04-29T19:00:00.000Z",
+    "opponent": "AS Roma [EL] (6-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AS Roma [EL] (6-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Im9AB4e7Ugl38qriFxYulhtuW5vM1qMoMr6d0wGZ@maak-agenda.nl",
+    "date": "2021-04-25T13:00:00.000Z",
+    "opponent": "Leeds United",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "czbSjwGAZ0ELnO3R5OFWDt4kdIEgTML2TSkIiLKO@maak-agenda.nl",
+    "date": "2021-04-18T15:00:00.000Z",
+    "opponent": "Burnley FC (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dNbThc2Cx8Cnc8hGM9qHmLh11pCfUtFtq2f28NVk@maak-agenda.nl",
+    "date": "2021-04-15T19:00:00.000Z",
+    "opponent": "Granada CF [EL] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Granada CF [EL] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "pf2RHWUX8UcM88ojrOsRnvqrGM6ha1J3DzcHr9mb@maak-agenda.nl",
+    "date": "2021-04-11T15:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "7Zfpt9d7TUjHEH8FZNH32FGUWF4RuyJPfWqXqy1M@maak-agenda.nl",
+    "date": "2021-04-08T19:00:00.000Z",
+    "opponent": "Granada CF",
+    "homeTeam": "Granada CF",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "1ed5gojhB7Qe8tpPTHf0Zjly8rax9RqzRS78mZZi@maak-agenda.nl",
+    "date": "2021-04-04T18:30:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "2nPT2z42beGVzLr5x6AS82hX0r0OX2h7iR66fQha@maak-agenda.nl",
+    "date": "2021-03-21T17:00:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "bOqimxKLBTv9ZprlPC4hQlPQq4wRIJ6FmLThQ9aB@maak-agenda.nl",
+    "date": "2021-03-18T20:00:00.000Z",
+    "opponent": "AC Milan",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "yEFP86yXZ1CBtgbgb3lwC4vRCYRDLv3kUpD0mB0Y@maak-agenda.nl",
+    "date": "2021-03-14T19:15:00.000Z",
+    "opponent": "West Ham United (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "paLJyHlubQ144lqZNnxa7HGqdk93GkeyIgBLYU95@maak-agenda.nl",
+    "date": "2021-03-11T17:55:00.000Z",
+    "opponent": "AC Milan [EL] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AC Milan [EL] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "nqXQjk8cix6XXujdwQAJHdP8nEtjYsi917W6WPDJ@maak-agenda.nl",
+    "date": "2021-03-07T16:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "e6DVKUoqbkRQKlzRnhNo1dKDkfseUmzuj4kJrY39@maak-agenda.nl",
+    "date": "2021-03-03T20:15:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "SxAkrYBKBeVwub0fYwPHljdEgOGdt35uFsXNtlm3@maak-agenda.nl",
+    "date": "2021-02-28T16:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "hPBRNXKjhXdfc2CkhwE6ENwq4cMof9semh2rGorx@maak-agenda.nl",
+    "date": "2021-02-25T20:00:00.000Z",
+    "opponent": "Real Sociedad [EL] (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Real Sociedad [EL] (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "A9Uwc1ahUGmLTKcGeSCocaNlWgdcmt1V8U4DYjeb@maak-agenda.nl",
+    "date": "2021-02-21T19:00:00.000Z",
+    "opponent": "Newcastle United (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "v8fGK0oe7ONhcQMQLCtewH3zeJr5pUsnLmDXZdB7@maak-agenda.nl",
+    "date": "2021-02-18T17:55:00.000Z",
+    "opponent": "Real Sociedad",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "EtV3BZSQWrptKapWbVSGjvbpWtGn10jkndeFfLLL@maak-agenda.nl",
+    "date": "2021-02-14T14:00:00.000Z",
+    "opponent": "West Bromwich Albion",
+    "homeTeam": "West Bromwich Albion",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "OFzdOdM2J7RgwXJGWbe92Br5kkq8zYsz8FgTKfm2@maak-agenda.nl",
+    "date": "2021-02-09T19:30:00.000Z",
+    "opponent": "West Ham United [FA] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United [FA] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rGhtdYignsPdFKKkBevnd0vlSPRjk65WH43i7i3Z@maak-agenda.nl",
+    "date": "2021-02-06T20:00:00.000Z",
+    "opponent": "Everton (3-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (3-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "0iXEHBGYgcY0KWJ0UcvKU5bgRBlujHL6pyBPln0K@maak-agenda.nl",
+    "date": "2021-02-02T20:15:00.000Z",
+    "opponent": "Southampton (9-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (9-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "fHX9J4JAuYF64lp2a6Wbzs4AK1Uym3TDMiapJSlJ@maak-agenda.nl",
+    "date": "2021-01-30T17:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "maHdrhWbpP32Gu8nDZ62VAPColzOGwmgSilroUqm@maak-agenda.nl",
+    "date": "2021-01-27T20:15:00.000Z",
+    "opponent": "Sheffield United (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sheffield United (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "7llYMWdEh7EgbVaFR6RyZu0HLzBPoWiyGIqENsCi@maak-agenda.nl",
+    "date": "2021-01-24T17:00:00.000Z",
+    "opponent": "Liverpool [FA] (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool [FA] (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "heQOsGUfNPy0safaQzjn5EX5aSfuBdAPS4663KQU@maak-agenda.nl",
+    "date": "2021-01-20T20:15:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "s9InTLeNaqzsXNeW2aVu27fznJapGsQBHtgvFcbo@maak-agenda.nl",
+    "date": "2021-01-17T16:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ypo2a8tMAAnFnpgllxqflbSSkz6wJQ79SwPUweC6@maak-agenda.nl",
+    "date": "2021-01-12T20:15:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "a0h6TYQSBRjkGT9yqvUlhUCh6Si6RWS7RqvQBJn8@maak-agenda.nl",
+    "date": "2021-01-09T20:00:00.000Z",
+    "opponent": "Watford FC [FA] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC [FA] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "OvpVFhTPsfzo5spex3fnemIftUretKhDC5IckmHt@maak-agenda.nl",
+    "date": "2021-01-06T19:45:00.000Z",
+    "opponent": "Manchester City [LC] (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City [LC] (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "GdjZwwX5CXv4pv9F2BfwjHhMJjMyHeijv9rOt9W7@maak-agenda.nl",
+    "date": "2021-01-01T20:00:00.000Z",
+    "opponent": "Aston Villa (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "HmyFEloapNYAiBDHaLTq2fsj8y0a6cJLrihCgLtN@maak-agenda.nl",
+    "date": "2020-12-29T20:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "TgytNLNrSZK2oga52ajbsXdMcwYNoMu9vaK5pqoC@maak-agenda.nl",
+    "date": "2020-12-26T12:30:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "OFZxSBFyUVLPwpdmOP3zONBBwRkOeCi9Cqii9Nxo@maak-agenda.nl",
+    "date": "2020-12-23T20:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "kn9ww74t5ZNL0dTFv2UGKmzdWCgXNj6r7EGMb0Fk@maak-agenda.nl",
+    "date": "2020-12-20T16:30:00.000Z",
+    "opponent": "Leeds United (6-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United (6-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rKFp57vB0utiMma8ykIae57XBSzDffuj5bBT3tPQ@maak-agenda.nl",
+    "date": "2020-12-17T20:00:00.000Z",
+    "opponent": "Sheffield United",
+    "homeTeam": "Sheffield United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "98fy0jDkLUIONltEA8wPzClXN5QN0CX0L61asoA3@maak-agenda.nl",
+    "date": "2020-12-12T17:30:00.000Z",
+    "opponent": "Manchester City (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "8IbjlNp0Bkr2IeaeNSJEYSH9S5o2tZRTtmDqH7BO@maak-agenda.nl",
+    "date": "2020-12-08T20:00:00.000Z",
+    "opponent": "RB Leipzig",
+    "homeTeam": "RB Leipzig",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "QGKYsGmmjBrNWPmrqhpg6kFWSgMTG11WgYg9R4mp@maak-agenda.nl",
+    "date": "2020-12-05T17:30:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "UvOxyjh3E9bMgCH0SuT52pbDTQ4H0L8SdXhFvuhw@maak-agenda.nl",
+    "date": "2020-12-02T20:00:00.000Z",
+    "opponent": "Paris Saint-Germain [CL] (1-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Paris Saint-Germain [CL] (1-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "21j78IYbvxqVP45kSNQ1EEohyqowihdGLwY32uCC@maak-agenda.nl",
+    "date": "2020-11-29T14:00:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wT0m1kayRW2MZQRwRbYCzkqwUsdzu6EoKAsqPwDS@maak-agenda.nl",
+    "date": "2020-11-24T20:00:00.000Z",
+    "opponent": "Başakşehir [CL] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Başakşehir [CL] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "udMug8UnGaJ98uh9TZ6GaSbSJwwcyWtcTaggQ7g1@maak-agenda.nl",
+    "date": "2020-11-21T20:00:00.000Z",
+    "opponent": "West Bromwich Albion (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Bromwich Albion (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "gNnmqs240xDSKquYZqYyrNoP0ne7OfGnYmr9McXz@maak-agenda.nl",
+    "date": "2020-11-07T12:30:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "5IM0BRWlvpDBX0UiK2m6JQWlWqH6xB3wP0qWLdwH@maak-agenda.nl",
+    "date": "2020-11-04T17:55:00.000Z",
+    "opponent": "Başakşehir",
+    "homeTeam": "Başakşehir",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "13zqcOsDh1dwYJx3iVa08lp0w2Cdf9Jnj5za8aey@maak-agenda.nl",
+    "date": "2020-11-01T16:30:00.000Z",
+    "opponent": "Arsenal (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SOPBLlGVpbmMQZblAWXI2lxvcMONbIsEPMcNyHPm@maak-agenda.nl",
+    "date": "2020-10-28T20:00:00.000Z",
+    "opponent": "RB Leipzig [CL] (5-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "RB Leipzig [CL] (5-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "0WySoi0cZPQjMAdm4lLPQMBJLLuD7fX4hikrVJtr@maak-agenda.nl",
+    "date": "2020-10-24T16:30:00.000Z",
+    "opponent": "Chelsea (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "x8Ubrl4g3t93naKtioAjkeiPbmucni5g2qOM9pNR@maak-agenda.nl",
+    "date": "2020-10-20T19:00:00.000Z",
+    "opponent": "Paris Saint-Germain",
+    "homeTeam": "Paris Saint-Germain",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "oBAZLQaJfyhvjsOdGR2b8aSGxLU6U0GJZru8IwkR@maak-agenda.nl",
+    "date": "2020-10-17T19:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "VVRiRbpczvze54CePc9wgioeKsHmjisSGvWE39FX@maak-agenda.nl",
+    "date": "2020-10-04T15:30:00.000Z",
+    "opponent": "Tottenham Hotspur (1-6)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (1-6)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "B5o6jfRdCnfPhyPf8FqZybSlaxCWY9gDkRyoHAjV@maak-agenda.nl",
+    "date": "2020-09-30T18:45:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "zXSVD2UD2OUxngspQNuY72luJnkOstQWTiSQXhxH@maak-agenda.nl",
+    "date": "2020-09-22T19:15:00.000Z",
+    "opponent": "Luton Town",
+    "homeTeam": "Luton Town",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "7soAmUK3am31bRqOPyDNShEsE3FigNrd7jXKCyLL@maak-agenda.nl",
+    "date": "2020-09-19T16:30:00.000Z",
+    "opponent": "Crystal Palace (1-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (1-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ykPS8vwvnu8G5Uc2W3MwL26Ath9dheCsnMLeClHh@maak-agenda.nl",
+    "date": "2020-09-12T14:00:00.000Z",
+    "opponent": "⚠️ Postponed: Burnley FC",
+    "homeTeam": "⚠️ Postponed: Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "xZsxeQL1a7eqS2t1CXB63ySxb8G4JkZCLpTHZdy1@maak-agenda.nl",
+    "date": "2020-08-16T19:00:00.000Z",
+    "opponent": "Sevilla FC",
+    "homeTeam": "Sevilla FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "7xlOvmPAEzllO496gdfhwB13gC1i4XtOD34TZJMM@maak-agenda.nl",
+    "date": "2020-08-10T19:00:00.000Z",
+    "opponent": "FC Kopenhagen [EL] (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Kopenhagen [EL] (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "W22rXgqpT8GAcrdaV4IxjNnM4T1VNoJMcbvDTCDv@maak-agenda.nl",
+    "date": "2020-08-05T19:00:00.000Z",
+    "opponent": "LASK Linz [EL] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "LASK Linz [EL] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rCBUJLo6zmIs9QVcXHGfJxS8zhuIG5yrJBDJKtcd@maak-agenda.nl",
+    "date": "2020-07-22T17:00:00.000Z",
+    "opponent": "West Ham United (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "6Jr28oBzNmdewoV1xUc3tzwBo7M9v7vZPWg7YvQ6@maak-agenda.nl",
+    "date": "2020-07-19T17:00:00.000Z",
+    "opponent": "Chelsea [FA] (1-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea [FA] (1-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "1D0E3MZVZoscMLlxk9tE67Goaen3vMVH9B3MCJGQ@maak-agenda.nl",
+    "date": "2020-07-16T19:15:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "m90reLVGbY8OdOg17eHNurAJuzvDNXKNyopsa84U@maak-agenda.nl",
+    "date": "2020-07-13T19:00:00.000Z",
+    "opponent": "Southampton (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Hqsp23n61oiKeAa1DdQZ4UhFxfd3tDNNyGto2Ioa@maak-agenda.nl",
+    "date": "2020-07-09T19:15:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "OVaVUNrP9JJ07uOkljXpv3hOnUgBNYoQr8HVzJPT@maak-agenda.nl",
+    "date": "2020-07-04T14:00:00.000Z",
+    "opponent": "AFC Bournemouth (5-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (5-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "d5JgP1d9Q7n65mPBfj6btrGj1jFPC1gIxi57BaXD@maak-agenda.nl",
+    "date": "2020-06-30T19:15:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "UxWmzGHns6rVD4ATCgkFMLTilKKP2tRKKKg8nske@maak-agenda.nl",
+    "date": "2020-06-27T16:30:00.000Z",
+    "opponent": "Norwich City",
+    "homeTeam": "Norwich City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "mGBLNXxBVD60Eblx33kUt41NJ0Yk8N7ZqBX3kT0C@maak-agenda.nl",
+    "date": "2020-06-24T17:00:00.000Z",
+    "opponent": "Sheffield United (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sheffield United (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "xnAvxQ5o7W4bM1crC5gJ736SSKAUFhEYjRQDvAJS@maak-agenda.nl",
+    "date": "2020-06-19T19:15:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "gc4ahvEzogCI1VbQhm1I0z2Pt3pU87M71FV4Iqp4@maak-agenda.nl",
+    "date": "2020-05-17T14:00:00.000Z",
+    "opponent": "⚠️ Postponed: Leicester City",
+    "homeTeam": "⚠️ Postponed: Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "j5059EYzgZmJnI3UJGosxHgcTvwYrHQoXxaOiHdn@maak-agenda.nl",
+    "date": "2020-05-09T14:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dp01lZOTbfq3HVvcpjT4jlI2It7luQO4T8oJhSBe@maak-agenda.nl",
+    "date": "2020-05-02T14:00:00.000Z",
+    "opponent": "⚠️ Postponed: Crystal Palace",
+    "homeTeam": "⚠️ Postponed: Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "s3jdfsIul6a4k6f3YiA7ZbLhmZbiJNFtFVTzKuUc@maak-agenda.nl",
+    "date": "2020-04-25T14:00:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "9tslVEppi3WjqXpaCM1vRrLDM17es5lg1kCM1GFD@maak-agenda.nl",
+    "date": "2020-04-19T15:30:00.000Z",
+    "opponent": "⚠️ Postponed: Aston Villa",
+    "homeTeam": "⚠️ Postponed: Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "vbxq5OTsj41uEr1bIv0KAhB2hOC8MBefylkHT75a@maak-agenda.nl",
+    "date": "2020-04-11T11:30:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "kIeuvQ3q881Ao2ESUDBLSUCCZplyqC71WOXMqeX9@maak-agenda.nl",
+    "date": "2020-03-22T15:00:00.000Z",
+    "opponent": "Sheffield United",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sheffield United",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Nl4doiN1eZV415dJmAvbUyLU8Am0TuZW0AilppCr@maak-agenda.nl",
+    "date": "2020-03-19T20:00:00.000Z",
+    "opponent": "LASK Linz [EL]",
+    "homeTeam": "Manchester United",
+    "awayTeam": "LASK Linz [EL]",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rzt50ihRKVtayqDGMMKq8SYKZXbrCKjjkSgPBvES@maak-agenda.nl",
+    "date": "2020-03-12T17:55:00.000Z",
+    "opponent": "LASK Linz",
+    "homeTeam": "LASK Linz",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "p24K1GkvyrPqplN3FbqP8G0nh6HStSMYb1CFbLxC@maak-agenda.nl",
+    "date": "2020-03-08T16:30:00.000Z",
+    "opponent": "Manchester City (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "JIa4Bg9x4foSETiPT4S5M5WLacMuSTUQzpmXbWan@maak-agenda.nl",
+    "date": "2020-03-05T19:45:00.000Z",
+    "opponent": "Derby County",
+    "homeTeam": "Derby County",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "7kwHE5B97YDB4d28YnEoB4tSaNPzjijh3fTLBp6L@maak-agenda.nl",
+    "date": "2020-03-01T14:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "BOK4s67Me3OmNiCCUTPU3YcvW0dGBbngTLAHPpGc@maak-agenda.nl",
+    "date": "2020-02-27T20:00:00.000Z",
+    "opponent": "Club Brugge KV [EL] (5-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Club Brugge KV [EL] (5-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "rm7zfFqYcE8aT4TKalT0nbptZ7aSQCx4Ny52fS5B@maak-agenda.nl",
+    "date": "2020-02-23T14:00:00.000Z",
+    "opponent": "Watford FC (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SzS0uBjlHz8f2RMCWbcDeaMQYnM3RFjIQYJtmepl@maak-agenda.nl",
+    "date": "2020-02-20T17:55:00.000Z",
+    "opponent": "Club Brugge KV",
+    "homeTeam": "Club Brugge KV",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "IboJz1w7wZzn2GpAOdIsYvlqFYDDFPz1U164OEZD@maak-agenda.nl",
+    "date": "2020-02-17T20:00:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "px8lvzB3BwVtoUbDwJ5NDNStYCfY8XvE1c9JcJDN@maak-agenda.nl",
+    "date": "2020-02-01T17:30:00.000Z",
+    "opponent": "Wolverhampton Wanderers (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "QEo1w6XCNw08mVAwxysrzBIfI8VVxy2FGjtIHV6u@maak-agenda.nl",
+    "date": "2020-01-29T19:45:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "N1PqWiPWyRqdSQtKE9fZ0NVxPeFYFAla1qTkJRtl@maak-agenda.nl",
+    "date": "2020-01-26T15:00:00.000Z",
+    "opponent": "Tranmere Rovers FC",
+    "homeTeam": "Tranmere Rovers FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "rxRjp0b2xlp27mwBH2NlH8pVAcc2VwSeKccjRWDy@maak-agenda.nl",
+    "date": "2020-01-22T20:15:00.000Z",
+    "opponent": "Burnley FC (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "OH37hMvfFBM3RS0TDCmQyqjlEY4FTTLzlfxfu8SG@maak-agenda.nl",
+    "date": "2020-01-19T16:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "uW3tCbLHQlzKbyO2oQlvJZLwbGqQdMwH9OO85qgG@maak-agenda.nl",
+    "date": "2020-01-15T19:45:00.000Z",
+    "opponent": "Wolverhampton Wanderers [FA] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers [FA] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "XFnGpC9vNPquMB5sgfBthfcuj7t3VJ5niayGD22Z@maak-agenda.nl",
+    "date": "2020-01-11T15:00:00.000Z",
+    "opponent": "Norwich City (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Norwich City (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "EOaIz2cELYNIIXFX5jRzwzAaCj0t4zsdggMjddEq@maak-agenda.nl",
+    "date": "2020-01-07T20:00:00.000Z",
+    "opponent": "Manchester City [LC] (1-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City [LC] (1-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "3fR7mRF3x1A8KgWVxUQbYHacQaIVdFsAW51W7JNu@maak-agenda.nl",
+    "date": "2020-01-04T17:31:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "DdWLEpwJBghj8jtTxEageJTO69aJoVoEBIpZ3iZA@maak-agenda.nl",
+    "date": "2020-01-01T20:00:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "EfPx0qkUMrKj7QzoiAyUEf97ku4OAdY1tXNYXMVs@maak-agenda.nl",
+    "date": "2019-12-28T19:45:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "0InTbk7aam9nNy5ElEyynPJ0h3w7MtV8yfbC9NPb@maak-agenda.nl",
+    "date": "2019-12-26T17:30:00.000Z",
+    "opponent": "Newcastle United (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "KCUgY0G2PecgG1SxRJFmI5tsiQf8T9fJ4orD0cOc@maak-agenda.nl",
+    "date": "2019-12-22T14:00:00.000Z",
+    "opponent": "Watford FC",
+    "homeTeam": "Watford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ObfiTTZJ7Mjiz8Ej8ktwMwk2n9X9d70FwhsRTqx3@maak-agenda.nl",
+    "date": "2019-12-18T20:00:00.000Z",
+    "opponent": "Colchester United FC [LC] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Colchester United FC [LC] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "5VaFjHTEQBynEUubfDjEJJaZitgjYbxpcRlvM9q8@maak-agenda.nl",
+    "date": "2019-12-15T14:00:00.000Z",
+    "opponent": "Everton (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "HdyjnfHbxM91AZtz2hjpU7noTArVZCx0VlnRZ4gB@maak-agenda.nl",
+    "date": "2019-12-12T20:00:00.000Z",
+    "opponent": "AZ [EL] (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AZ [EL] (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "xtvw8yDUpVxGXE8xDSUjafaSb37X1l3dkH6jzMUz@maak-agenda.nl",
+    "date": "2019-12-07T17:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "4CptrWvblieIT44iUaV0KppEOFTjN32uNRMjyHz1@maak-agenda.nl",
+    "date": "2019-12-04T19:30:00.000Z",
+    "opponent": "Tottenham Hotspur (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "zjuh8vFVKyeyYSheKbmGatfDHDXqH2Qyv5zIyYfI@maak-agenda.nl",
+    "date": "2019-12-01T16:30:00.000Z",
+    "opponent": "Aston Villa (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "PLUTqsgu0hLqfqT0qknhkL01aiwvgUTcnr2pxgsG@maak-agenda.nl",
+    "date": "2019-11-28T15:50:00.000Z",
+    "opponent": "FC Astana",
+    "homeTeam": "FC Astana",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "QvK0ICRaiKVUqO52hdpzUPjRRsrpo2CN0TpuhKxI@maak-agenda.nl",
+    "date": "2019-11-24T16:30:00.000Z",
+    "opponent": "Sheffield United",
+    "homeTeam": "Sheffield United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "1KqKsxHQxcKi3Njl6JXB7G05lLyxPulogQZ0aFPj@maak-agenda.nl",
+    "date": "2019-11-10T14:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "t3on4QkMo18mpqFTA3Wn8w0Xaw4As5Hqnf60Bv8U@maak-agenda.nl",
+    "date": "2019-11-07T20:00:00.000Z",
+    "opponent": "FK Partizan [EL] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FK Partizan [EL] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "hibNbFBvoNeokD0pXQ7XUKifSLwCrUOvZVLWEZNV@maak-agenda.nl",
+    "date": "2019-11-02T12:30:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "hZ5WmOzfhHnsrhpLuvLnTLcjrBVMTlGESvav6Wff@maak-agenda.nl",
+    "date": "2019-10-30T20:05:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "HX0cZCbwcureaLaywFLFzE0ZvGTkJ8jLVJ2tHrQg@maak-agenda.nl",
+    "date": "2019-10-27T16:30:00.000Z",
+    "opponent": "Norwich City",
+    "homeTeam": "Norwich City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ljbNV1X8wNj7Gc8MYDkhNz0LMFj4FebbyxjdHb1F@maak-agenda.nl",
+    "date": "2019-10-24T16:55:00.000Z",
+    "opponent": "FK Partizan",
+    "homeTeam": "FK Partizan",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "5LSyz7L1jAAVMg23T3oGB4y7c7KGJoiDbnK3jjO6@maak-agenda.nl",
+    "date": "2019-10-20T15:30:00.000Z",
+    "opponent": "Liverpool (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Ne9WtNCV9jwR7b8TZg64wl5u28xwXujNhf8x9vqH@maak-agenda.nl",
+    "date": "2019-10-06T15:30:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "o1ABIDiXhs6XzuESUrCkDRWDTqZjBKaMTNkSZe3N@maak-agenda.nl",
+    "date": "2019-10-03T16:55:00.000Z",
+    "opponent": "AZ",
+    "homeTeam": "AZ",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "QwJhd5vZuXi0HSOBZyJcR6usHzMFqeH39c1zoN0m@maak-agenda.nl",
+    "date": "2019-09-30T19:00:00.000Z",
+    "opponent": "Arsenal (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Yp6qCkDAYoMcvyXqD3yj167dMTbTT3h6DfY6iZkR@maak-agenda.nl",
+    "date": "2019-09-25T19:00:00.000Z",
+    "opponent": "Rochdale AFC [LC] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Rochdale AFC [LC] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "07ZboiMObqzClZKoPd1Kz5nGzrGM7uHN9YJCDFnk@maak-agenda.nl",
+    "date": "2019-09-22T13:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "9hf5PGS0U7I33DdEe9Px0IxSJdWHfIjTgQS1SS6j@maak-agenda.nl",
+    "date": "2019-09-19T19:00:00.000Z",
+    "opponent": "FC Astana [EL] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Astana [EL] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ovPG3EoN1j1q1CyDmHjkin54HRIdDV7pMrosdBKO@maak-agenda.nl",
+    "date": "2019-09-14T14:00:00.000Z",
+    "opponent": "Leicester City (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "9FKs4Yz1z4oX4frSdM57d892WupnkLYIImK5tqUs@maak-agenda.nl",
+    "date": "2019-08-31T11:30:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "aFEKG2nBHZLR0Xx6AZxvwfmWq9QzCtNa55nSNDDg@maak-agenda.nl",
+    "date": "2019-08-24T14:00:00.000Z",
+    "opponent": "Crystal Palace (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SvZVQX3OldNMwLXvjxrQJUG7J951FKUPD47MTOkp@maak-agenda.nl",
+    "date": "2019-08-19T19:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "hs0fd5GyNn5YPRkEL71ZLeHGhCTXGpWMsVanWcGx@maak-agenda.nl",
+    "date": "2019-08-11T15:30:00.000Z",
+    "opponent": "Chelsea (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "T8AcqtEmQ3h4zgejneMsDS3t63rpqCKfQKAfYyzI@maak-agenda.nl",
+    "date": "2019-05-12T14:00:00.000Z",
+    "opponent": "Cardiff City (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Cardiff City (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "l62KxyLpwD7zlCi3W2MnP4vlgMGJSqUb0Na4vtSe@maak-agenda.nl",
+    "date": "2019-05-05T13:00:00.000Z",
+    "opponent": "Huddersfield Town",
+    "homeTeam": "Huddersfield Town",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "oyW3jByeb1O1A4NfO3IsdhW8W3WBKkedxRqbuPL6@maak-agenda.nl",
+    "date": "2019-04-28T15:30:00.000Z",
+    "opponent": "Chelsea (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "5zw2v8SuqzWiCX2NoVpgAPX82Hu3mL7reQm6l7dr@maak-agenda.nl",
+    "date": "2019-04-24T19:00:00.000Z",
+    "opponent": "Manchester City (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "H92UuZfnhRcxDCPZjzqEWLqd3mllGvYjTCZQIcYy@maak-agenda.nl",
+    "date": "2019-04-21T12:30:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "uPjjvToGxNbsiFaptumsEer29BUBE9wtbQieCntk@maak-agenda.nl",
+    "date": "2019-04-16T19:00:00.000Z",
+    "opponent": "FC Barcelona",
+    "homeTeam": "FC Barcelona",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ApxWBAnDhrOGXhTuGgeUCVE1HEgE50kgkj5GSW73@maak-agenda.nl",
+    "date": "2019-04-13T16:30:00.000Z",
+    "opponent": "West Ham United (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "iUg3mhfj8yKhNXefiu4slW5hMJjTNbHOXjOzrMds@maak-agenda.nl",
+    "date": "2019-04-10T19:00:00.000Z",
+    "opponent": "FC Barcelona [CL] (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Barcelona [CL] (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "eQ9GFxB1TWcjsIEY4Q6aXRKSL5neTT1j8acISuzL@maak-agenda.nl",
+    "date": "2019-04-02T18:45:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "LNdknYKmp6cVZckc4eq9T8eOHlzTlf2TuEXgOSJF@maak-agenda.nl",
+    "date": "2019-03-30T15:00:00.000Z",
+    "opponent": "Watford FC (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "aTX3PrFM1DLzy3EBS9tIBnOpociVsDqElH1mh2UQ@maak-agenda.nl",
+    "date": "2019-03-16T19:55:00.000Z",
+    "opponent": "Wolverhampton Wanderers",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "YzyXpaaHidy2Y1zGEjCiucYmDJ5ECGmrIgew5oGQ@maak-agenda.nl",
+    "date": "2019-03-10T16:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "AQ5LR1PPZhQ0efYp4spXzwdVgX9EwshMY5f8Cc9S@maak-agenda.nl",
+    "date": "2019-03-06T20:00:00.000Z",
+    "opponent": "Paris Saint-Germain",
+    "homeTeam": "Paris Saint-Germain",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "V3t7c5B2TOzVwdhFKN8VfxO85UzT3lR2ofRyEwne@maak-agenda.nl",
+    "date": "2019-03-02T15:00:00.000Z",
+    "opponent": "Southampton (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "I2fz3U6SXIv1PB702h494vP3CFdc8rMhwtVFVXnN@maak-agenda.nl",
+    "date": "2019-02-27T20:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "whgSc2onWyVeGg2rAIorc5zAMmh8tTQd74haRkpD@maak-agenda.nl",
+    "date": "2019-02-24T14:05:00.000Z",
+    "opponent": "Liverpool (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "P6Am2SOYeURrHPagpL4IfNI1AJCyK80FY57wTO5f@maak-agenda.nl",
+    "date": "2019-02-18T19:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ZHJFKu9PuTYfZp1VNxVSGUmwrsyc6LBNlJExOrFI@maak-agenda.nl",
+    "date": "2019-02-12T20:00:00.000Z",
+    "opponent": "Paris Saint-Germain [CL] (0-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Paris Saint-Germain [CL] (0-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "hR5kQXP5EHwsQS7j0iOgxk144ylrV3R356Ixwhwv@maak-agenda.nl",
+    "date": "2019-02-09T12:30:00.000Z",
+    "opponent": "Fulham",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "bgc14YdGaan7GLgaO3yOqk4jTgnLbQjiWK9yjBBF@maak-agenda.nl",
+    "date": "2019-02-03T14:05:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "qt4g69pVGiqZo1jubQPF64CrmwInUPrmnigJVlib@maak-agenda.nl",
+    "date": "2019-01-29T20:00:00.000Z",
+    "opponent": "Burnley FC (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SKu7bdLX7FuX3g9rVRPwohTrlKxjsp8IlMQ6c9Wa@maak-agenda.nl",
+    "date": "2019-01-25T19:55:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "SfDGioxCKVM144y5WZ1iYnSAMu0RO9mb64QFxpvL@maak-agenda.nl",
+    "date": "2019-01-19T15:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dEHxzO2Ml4IcWljFc12iwXnStQMFnX3htcYtydxZ@maak-agenda.nl",
+    "date": "2019-01-13T16:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "evSIayuQDE9TUeKbkfvVV7AdLBuw86AOuDhNEKG8@maak-agenda.nl",
+    "date": "2019-01-05T12:30:00.000Z",
+    "opponent": "Reading FC [FA] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Reading FC [FA] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "fhWIaD0s1JdyT6WTbQKsGOf48lt2BxLJFByLvIwW@maak-agenda.nl",
+    "date": "2019-01-02T20:00:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "4FGM1jWh9jcDa2XX7hrDSn1vDLdETDGfGzuNuXEg@maak-agenda.nl",
+    "date": "2018-12-30T16:30:00.000Z",
+    "opponent": "AFC Bournemouth (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "RVgLQiqLayYwQEn5UThGJy8pGkWiOFwackb1hycl@maak-agenda.nl",
+    "date": "2018-12-26T15:00:00.000Z",
+    "opponent": "Huddersfield Town (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Huddersfield Town (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "tBtAHDzJDw3YwrcFsC1yDCWEozF8zIJHGjdcjMLt@maak-agenda.nl",
+    "date": "2018-12-22T17:30:00.000Z",
+    "opponent": "Cardiff City",
+    "homeTeam": "Cardiff City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wy2UR65gNp8rbQV6Yrq4KZ4X16Om2vXIdJw2Jv3h@maak-agenda.nl",
+    "date": "2018-12-16T16:00:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "vKEincrbnDcGqXDKLOa2UuPRInHkPHyIEaTu7d5g@maak-agenda.nl",
+    "date": "2018-12-12T20:00:00.000Z",
+    "opponent": "Valencia",
+    "homeTeam": "Valencia",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ez6U6Luo635s1Q4W7JUVoYgAqBF2qoaxGec9Gxic@maak-agenda.nl",
+    "date": "2018-12-08T15:00:00.000Z",
+    "opponent": "Fulham (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fulham (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "6u0mbR79uhyTsZ8hrj168wDspfRHNwnMEMxZzEkV@maak-agenda.nl",
+    "date": "2018-12-05T20:00:00.000Z",
+    "opponent": "Arsenal (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "WEpmZuUHjvL3VXPRnpBjvw56DZZWjZex0oRLbytP@maak-agenda.nl",
+    "date": "2018-12-01T17:30:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "JsVZ4s4bMPzQpZj05ZFnTLqOgvgX0ZKuIGaKQhnW@maak-agenda.nl",
+    "date": "2018-11-27T20:00:00.000Z",
+    "opponent": "BSC Young Boys [CL] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "BSC Young Boys [CL] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "P5sZQ6DpMCLdNS14vnAjp4eiZAJva79iDbmxOwFu@maak-agenda.nl",
+    "date": "2018-11-24T15:00:00.000Z",
+    "opponent": "Crystal Palace (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "zYY7NzViBlz0wqo4mdwanUsBFifqOl86MTOzPZOJ@maak-agenda.nl",
+    "date": "2018-11-11T16:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "OzdwgTq8f9qyNkHu7OOV3AhJ0MQoxdI5Q48RQNFU@maak-agenda.nl",
+    "date": "2018-11-07T20:00:00.000Z",
+    "opponent": "Juventus",
+    "homeTeam": "Juventus",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "hqR9ZRdF4dBWUl09IRKZfB0FVQXAFOKDdvXUbB39@maak-agenda.nl",
+    "date": "2018-11-03T12:30:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "qQ6PBsAaPod3ZY1tdKuXaAt005sbkGUT1pHYfZqs@maak-agenda.nl",
+    "date": "2018-10-28T16:00:00.000Z",
+    "opponent": "Everton (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "M43Cp6DGeVetRvex640GPPL2MmNY9LtabnJIx48s@maak-agenda.nl",
+    "date": "2018-10-23T19:00:00.000Z",
+    "opponent": "Juventus [CL] (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Juventus [CL] (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "fUYeSg0H2i4CiDLUwWOCT534UsmSTZdQhROR7F9I@maak-agenda.nl",
+    "date": "2018-10-20T11:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ELGbRQbKVtNCrqEL10wTUgaCMGki1Nn01Ou8XpXI@maak-agenda.nl",
+    "date": "2018-10-06T16:30:00.000Z",
+    "opponent": "Newcastle United (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "47iuoR5KtBE7hZf98Ylw7VXDAysCZlJbVCCYRVwq@maak-agenda.nl",
+    "date": "2018-10-02T19:00:00.000Z",
+    "opponent": "Valencia [CL] (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Valencia [CL] (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "tD2fcta50aNZEBBMmssuuI5YCiUXzZDbY2jwDULO@maak-agenda.nl",
+    "date": "2018-09-29T11:30:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "NX0onCJ8KSGtFnF8E4CNFV2pAWspBJNxzixNEM1J@maak-agenda.nl",
+    "date": "2018-09-25T19:00:00.000Z",
+    "opponent": "Derby County [LC] (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Derby County [LC] (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "XPQRe2S3WbHUoQGRYkxl0i1eKRIk2UiGnGKJdkEL@maak-agenda.nl",
+    "date": "2018-09-22T14:00:00.000Z",
+    "opponent": "Wolverhampton Wanderers (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wolverhampton Wanderers (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "dcazJQQ9Wo9KlYhuibYCou4KIGiZlHooqiOrpPVg@maak-agenda.nl",
+    "date": "2018-09-19T19:00:00.000Z",
+    "opponent": "BSC Young Boys",
+    "homeTeam": "BSC Young Boys",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "L8wISWouAKW1vERuoWqOat9XRTIPPkBBDRXggno9@maak-agenda.nl",
+    "date": "2018-09-15T16:30:00.000Z",
+    "opponent": "Watford FC",
+    "homeTeam": "Watford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "slg9udO31XCtmOEMJcN38WXGPffuTzQErcFBrrl9@maak-agenda.nl",
+    "date": "2018-09-02T15:00:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "esLVjkJczytTyZRSaf92XB71apAOBBZknlSdtnhY@maak-agenda.nl",
+    "date": "2018-08-27T19:00:00.000Z",
+    "opponent": "Tottenham Hotspur (0-3)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (0-3)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "2ycquwQVxfQZamcGoeNCQMzdVMNdQsFZp2QDXUYT@maak-agenda.nl",
+    "date": "2018-08-19T15:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "5idAGyVvIcN4o89MOOJSLNLmK3cxbfTrJ7f2LbWz@maak-agenda.nl",
+    "date": "2018-08-10T19:00:00.000Z",
+    "opponent": "Leicester City (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "cSzMZyRAnDyCXth6wTfrkCu18ASkdhMyvzd0F4Jx@maak-agenda.nl",
+    "date": "2018-05-19T16:15:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Z5hjex6qlZ8iSJiHgtYGsf96pyNsr8jOLzdfGQ0j@maak-agenda.nl",
+    "date": "2018-05-13T14:00:00.000Z",
+    "opponent": "Watford FC (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Zv8JSECkioNAreXc1l0oP78BtHylZDV7CBCSWsbk@maak-agenda.nl",
+    "date": "2018-05-10T18:45:00.000Z",
+    "opponent": "⚠️ Postponed: West Ham United",
+    "homeTeam": "⚠️ Postponed: West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "cEQbJDYkeVPUBKPWe4ziEycN8Jpnd3gghnkeDAHI@maak-agenda.nl",
+    "date": "2018-05-04T19:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "GgbV8cVo2ktFvbZALeQvlWFJ1lNj47GgdLNylGjw@maak-agenda.nl",
+    "date": "2018-04-29T15:30:00.000Z",
+    "opponent": "Arsenal (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "7GXTaMBoXgtuHmxrz8BBcaprOVvyWse4DlpzoLeL@maak-agenda.nl",
+    "date": "2018-04-21T16:15:00.000Z",
+    "opponent": "Tottenham Hotspur [FA] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur [FA] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "FfCm5J7TiewgYzoC9fgkFaxnsPCkY66DUo0jyeeV@maak-agenda.nl",
+    "date": "2018-04-18T18:45:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "BajfE5nH8XFg2GEMTdF89WKxZmr1WpNtbQcGocC4@maak-agenda.nl",
+    "date": "2018-04-15T15:00:00.000Z",
+    "opponent": "West Bromwich Albion (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Bromwich Albion (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "oDQQYlVZsTIDbnsQFHVwq8HgmtGejpeJH88vUtS1@maak-agenda.nl",
+    "date": "2018-04-07T16:30:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "TZDz7pUh7NwiK4eOvYALbmkHQPrtQAh8IsP1XlCr@maak-agenda.nl",
+    "date": "2018-03-31T14:00:00.000Z",
+    "opponent": "Swansea City (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Swansea City (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "3vqmF9KHmEdAOsA8umOwKwhWzZ3urRfux2OrdPVB@maak-agenda.nl",
+    "date": "2018-03-17T19:45:00.000Z",
+    "opponent": "Brighton & Hove Albion FC [FA] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC [FA] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "5vAUimVqumOWTrCyyMdSwWryTw1PuOeo9s16G6WW@maak-agenda.nl",
+    "date": "2018-03-13T19:45:00.000Z",
+    "opponent": "Sevilla FC [CL] (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sevilla FC [CL] (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "csEPkpXcrFo8szwfyUhqgNG8fx2LbI0YvCQIRciy@maak-agenda.nl",
+    "date": "2018-03-10T12:30:00.000Z",
+    "opponent": "Liverpool (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "va41doKgj9y6NmCEaGu0PienAcIlMqgZf3L71rE3@maak-agenda.nl",
+    "date": "2018-03-05T20:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "tYiDFiMIlXeIMX0UZBHe1rx68EYLUyH5LdRgGtDq@maak-agenda.nl",
+    "date": "2018-02-25T14:05:00.000Z",
+    "opponent": "Chelsea (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Is8GrpQF2PJGcHbU4gevaB0K32ArV96qqtZbXC7n@maak-agenda.nl",
+    "date": "2018-02-21T19:45:00.000Z",
+    "opponent": "Sevilla FC",
+    "homeTeam": "Sevilla FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "2R1XpQ25Np8jwcfhA1BXZfrp3SF8BrTmij0RB2il@maak-agenda.nl",
+    "date": "2018-02-17T17:30:00.000Z",
+    "opponent": "Huddersfield Town",
+    "homeTeam": "Huddersfield Town",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "YT0f27QQeFWCgPD8i4JPCtlwVwLjP2TLSWTpaUHv@maak-agenda.nl",
+    "date": "2018-02-11T14:15:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "nTbHheKyQdq7KjItTXAPyhUAvaJk9REFXtjuytKe@maak-agenda.nl",
+    "date": "2018-02-03T15:00:00.000Z",
+    "opponent": "Huddersfield Town (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Huddersfield Town (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "TPj7sIVRne1tGOr4sjATIB039wssIJw8HVbowcdi@maak-agenda.nl",
+    "date": "2018-01-31T20:00:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "LL2HXftuOo66b2IvS0VEC7BnnUhLEsewHqtFgXRj@maak-agenda.nl",
+    "date": "2018-01-26T19:55:00.000Z",
+    "opponent": "Yeovil Town FC",
+    "homeTeam": "Yeovil Town FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Uq2m9TaYV0BCMcXTG1wCdeZfcH9PfjyqDSFjkGAc@maak-agenda.nl",
+    "date": "2018-01-20T15:00:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "fdvyJ9a5U57VCopPdjgGskW6k9CBapqwFjLgyadG@maak-agenda.nl",
+    "date": "2018-01-15T20:00:00.000Z",
+    "opponent": "Stoke City (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Stoke City (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "pDET7LuXs7QJaqYCeCoDLevaRUJQiiAgY0ScBN1b@maak-agenda.nl",
+    "date": "2018-01-05T20:00:00.000Z",
+    "opponent": "Derby County [FA] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Derby County [FA] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "LZbhU17N1c4T8wAfVI5lYuTxhaOrli9d5bm0TRbR@maak-agenda.nl",
+    "date": "2018-01-01T17:30:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "HhYo7ZYm6OrM1puk1KoN7lnBImPPj2qLx51XCgDH@maak-agenda.nl",
+    "date": "2017-12-30T17:30:00.000Z",
+    "opponent": "Southampton (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ygHNjNojVehVKUxPMjMIsJQlPAX37bvWTc0bR2y9@maak-agenda.nl",
+    "date": "2017-12-26T15:00:00.000Z",
+    "opponent": "Burnley FC (2-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (2-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "prKs4P3iDUO3lAMpmQvvvSmVcJVABFaxe0VKLTSj@maak-agenda.nl",
+    "date": "2017-12-23T19:45:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "fSN7yLI9O5g0HUkKYEusgjrdN7FUEtHg4Mlezco3@maak-agenda.nl",
+    "date": "2017-12-20T20:00:00.000Z",
+    "opponent": "Bristol City FC",
+    "homeTeam": "Bristol City FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "2agkdIdR7m3g0W6z6Z3LS6HMZhdmP5YizcfEmpDa@maak-agenda.nl",
+    "date": "2017-12-17T14:15:00.000Z",
+    "opponent": "West Bromwich Albion",
+    "homeTeam": "West Bromwich Albion",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "70Gl41PoDjcNiESqAkHAuKNQldgRNTHXulUoDV9N@maak-agenda.nl",
+    "date": "2017-12-13T20:00:00.000Z",
+    "opponent": "AFC Bournemouth (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "aSWhQhAUasGYW3skSWuGJSdqcoRA5RvQiq558cXJ@maak-agenda.nl",
+    "date": "2017-12-10T16:30:00.000Z",
+    "opponent": "Manchester City (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "823Z0QQ3CBtMX96nzQZTWJ8jWTHyBI7QS576EuB1@maak-agenda.nl",
+    "date": "2017-12-05T19:45:00.000Z",
+    "opponent": "PFC CSKA Moskou [CL] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "PFC CSKA Moskou [CL] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "fRBVU08MdT82gfuDgvDRgZTAE4KOcC4HLvcHMx1u@maak-agenda.nl",
+    "date": "2017-12-02T17:30:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "ZdzeVdqsbQUAZyPIyPaqq85hNoARIUdNyXIGsZCh@maak-agenda.nl",
+    "date": "2017-11-28T20:00:00.000Z",
+    "opponent": "Watford FC",
+    "homeTeam": "Watford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "WkmVipyO3pugR1qKrb93g1vFHaJG3b0s3bdXEJPC@maak-agenda.nl",
+    "date": "2017-11-25T15:00:00.000Z",
+    "opponent": "Brighton & Hove Albion FC (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Brighton & Hove Albion FC (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "qqlHpFVxSCrhJQjH4nqp3cgbJXALza8iQcen11cg@maak-agenda.nl",
+    "date": "2017-11-22T19:45:00.000Z",
+    "opponent": "FC Basel",
+    "homeTeam": "FC Basel",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "BDjD75BS4vbPAYkcJEeaeSgQOxoBhRJexvPZwWGW@maak-agenda.nl",
+    "date": "2017-11-18T17:30:00.000Z",
+    "opponent": "Newcastle United (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ldW982AF039ibAWPXnjCiXVy8AlZxcCcJ6JaNloK@maak-agenda.nl",
+    "date": "2017-11-05T16:30:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "rurNwVHo7bH5RqmIpdVca6DDR9Itq1Pc4AbFLkxx@maak-agenda.nl",
+    "date": "2017-10-31T19:45:00.000Z",
+    "opponent": "Benfica [CL] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Benfica [CL] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "FEmhNMikksBGnDRbvHkwIpuyYeftc6V36xWFnQj1@maak-agenda.nl",
+    "date": "2017-10-28T11:30:00.000Z",
+    "opponent": "Tottenham Hotspur (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "VsT4BIAKYe7r2MQXewNC9s1HZOGMNBgTZY24jnfk@maak-agenda.nl",
+    "date": "2017-10-24T18:45:00.000Z",
+    "opponent": "Swansea City",
+    "homeTeam": "Swansea City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "P0P2pXIRpPTu1kir3ON7rJQR6ABmQtzUetTvXBGU@maak-agenda.nl",
+    "date": "2017-10-21T14:00:00.000Z",
+    "opponent": "Huddersfield Town",
+    "homeTeam": "Huddersfield Town",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "GBtcfy5SENt4b7hkEyKRdL9rhT7AavNDTvHnfRra@maak-agenda.nl",
+    "date": "2017-10-18T18:45:00.000Z",
+    "opponent": "Benfica",
+    "homeTeam": "Benfica",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "zzEQ5GRbrOwMwfidAGGSZH40r8FYg3GK3RAnV7DC@maak-agenda.nl",
+    "date": "2017-10-14T11:30:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "7q9lkgDSbO1eqJ2EixzU8Xacjubuy1itlORQTxD7@maak-agenda.nl",
+    "date": "2017-09-30T14:00:00.000Z",
+    "opponent": "Crystal Palace (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "o8C642tug0jioSBy5d1HGhrKfWJ1WHc4tP1p5f64@maak-agenda.nl",
+    "date": "2017-09-27T18:45:00.000Z",
+    "opponent": "PFC CSKA Moskou",
+    "homeTeam": "PFC CSKA Moskou",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "XWxIfoVGzNIYpfzYrAOwnsfRxTa84wWRhInhOzOk@maak-agenda.nl",
+    "date": "2017-09-23T14:00:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "uz4OijLAr7QfoiG0nGYesAzK9uuvqOzlAnPZUWDj@maak-agenda.nl",
+    "date": "2017-09-20T19:00:00.000Z",
+    "opponent": "Burton Albion FC [LC] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burton Albion FC [LC] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "aTPq6EiZmcHPcqyU8b7ibaBVpsw2iBa6HkGGvdYj@maak-agenda.nl",
+    "date": "2017-09-17T15:00:00.000Z",
+    "opponent": "Everton (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "sPABl7TEacJwOwbXmAkGUjEIAxnOSzB7BZPr2A47@maak-agenda.nl",
+    "date": "2017-09-12T18:45:00.000Z",
+    "opponent": "FC Basel [CL] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Basel [CL] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "H1hG3pqzGeg2O0Ko0F3e7D6ojnCS3r4BkZVpqInJ@maak-agenda.nl",
+    "date": "2017-09-09T16:30:00.000Z",
+    "opponent": "Stoke City",
+    "homeTeam": "Stoke City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "g8bHGV8khZ7XbSGYVLKvBVpr8RDKXAYyudISEgwX@maak-agenda.nl",
+    "date": "2017-08-26T16:30:00.000Z",
+    "opponent": "Leicester City (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "faO9UcryZBa44ONxYErXA3QgA8bngmEfqYlYBU6e@maak-agenda.nl",
+    "date": "2017-08-19T11:30:00.000Z",
+    "opponent": "Swansea City",
+    "homeTeam": "Swansea City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "FKgM2ZSMBOlMRiO01Rby157kOO7dc4fzUODq9uYB@maak-agenda.nl",
+    "date": "2017-08-13T15:00:00.000Z",
+    "opponent": "West Ham United (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "YzcDPDMgKtCky8KYGPP7hIgGK6NGkmva8rUAg2qT@maak-agenda.nl",
+    "date": "2017-05-24T18:45:00.000Z",
+    "opponent": "Ajax",
+    "homeTeam": "Ajax",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c557e",
+    "date": "2017-05-21T14:00:00.000Z",
+    "opponent": "Crystal Palace (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c5457",
+    "date": "2017-05-17T18:45:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c53bf",
+    "date": "2017-05-14T15:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "pQfxVWcUYIHjwrTnlXmgfNWuWZPyvWYIEu3jnMOS@maak-agenda.nl",
+    "date": "2017-05-11T19:05:00.000Z",
+    "opponent": "Celta de Vigo [EL] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Celta de Vigo [EL] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c52c5",
+    "date": "2017-05-07T15:00:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "wbGVZ4wKNDP0F0tK8JnkhqOklQrjqm9mZsXBRHXG@maak-agenda.nl",
+    "date": "2017-05-04T19:05:00.000Z",
+    "opponent": "Celta de Vigo",
+    "homeTeam": "Celta de Vigo",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c51cc",
+    "date": "2017-04-30T11:00:00.000Z",
+    "opponent": "Swansea City (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Swansea City (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c514d",
+    "date": "2017-04-27T19:00:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c50d0",
+    "date": "2017-04-23T13:15:00.000Z",
+    "opponent": "Burnley FC",
+    "homeTeam": "Burnley FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "PmCszlx5Z6kDtQoel3fcRXRjfuL3nxSnabyhQWmE@maak-agenda.nl",
+    "date": "2017-04-20T19:05:00.000Z",
+    "opponent": "RSC Anderlecht [EL] (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "RSC Anderlecht [EL] (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c4fd2",
+    "date": "2017-04-16T15:00:00.000Z",
+    "opponent": "Chelsea (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "RgexbrKqw0DxnLq99tO8ojxc7seHOllSLdUBqQCO@maak-agenda.nl",
+    "date": "2017-04-13T19:05:00.000Z",
+    "opponent": "RSC Anderlecht",
+    "homeTeam": "RSC Anderlecht",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c4ebe",
+    "date": "2017-04-09T12:30:00.000Z",
+    "opponent": "Sunderland",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c4e22",
+    "date": "2017-04-04T19:00:00.000Z",
+    "opponent": "Everton (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c4da1",
+    "date": "2017-04-01T14:00:00.000Z",
+    "opponent": "West Bromwich Albion (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Bromwich Albion (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c4d1f",
+    "date": "2017-03-19T12:00:00.000Z",
+    "opponent": "Middlesbrough",
+    "homeTeam": "Middlesbrough",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Hm0b5IAHIpFovWoOmloC6ei0mpauVhoH7WHz1qvK@maak-agenda.nl",
+    "date": "2017-03-16T20:05:00.000Z",
+    "opponent": "FC Rostov [EL] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "FC Rostov [EL] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "EX8em8lsWJKmUAEt8VV6yjzgf1pJ2dm2e2AqjM8x@maak-agenda.nl",
+    "date": "2017-03-13T19:45:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "MlAXOhdrasHsaix1uVOt2khoeF2pFRcuvhunJcus@maak-agenda.nl",
+    "date": "2017-03-09T18:00:00.000Z",
+    "opponent": "FC Rostov",
+    "homeTeam": "FC Rostov",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c496f",
+    "date": "2017-03-04T12:30:00.000Z",
+    "opponent": "AFC Bournemouth (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "kfe8iW9ZCR7c9b11J6noasOuJGaDnHTMXxjXejEL@maak-agenda.nl",
+    "date": "2017-02-26T16:30:00.000Z",
+    "opponent": "Southampton [LC] (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton [LC] (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "I4s71uJGEJCEVFtCgnrOL2CabtSuBwKJ9FQpLlDS@maak-agenda.nl",
+    "date": "2017-02-22T17:00:00.000Z",
+    "opponent": "Saint-Etienne",
+    "homeTeam": "Saint-Etienne",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "PYWX2slgFCEdyIFtmYyPbfmufygnVpHbpjzOTitl@maak-agenda.nl",
+    "date": "2017-02-19T16:15:00.000Z",
+    "opponent": "Blackburn Rovers",
+    "homeTeam": "Blackburn Rovers",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "AttAhZeFvTZm8oKtzHdWpMyux1jxqIBKgOI190po@maak-agenda.nl",
+    "date": "2017-02-16T20:05:00.000Z",
+    "opponent": "Saint-Etienne [EL] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Saint-Etienne [EL] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c42c9",
+    "date": "2017-02-11T15:00:00.000Z",
+    "opponent": "Watford FC (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c4194",
+    "date": "2017-02-05T16:00:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c3fe6",
+    "date": "2017-02-01T20:00:00.000Z",
+    "opponent": "Hull City (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Hull City (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "qHHKgZJ8qBbAZaSQM6SnFIDBXq0243HH6gfh6JLr@maak-agenda.nl",
+    "date": "2017-01-29T16:00:00.000Z",
+    "opponent": "Wigan Athletic [FA] (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Wigan Athletic [FA] (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "KuFKggsU9cAvgPMBdpSOxEXYXIBYGJwxIBdL16Hh@maak-agenda.nl",
+    "date": "2017-01-26T19:45:00.000Z",
+    "opponent": "Hull City",
+    "homeTeam": "Hull City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c3bef",
+    "date": "2017-01-21T15:00:00.000Z",
+    "opponent": "Stoke City",
+    "homeTeam": "Stoke City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c3aba",
+    "date": "2017-01-15T16:00:00.000Z",
+    "opponent": "Liverpool (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "Nfm4y3rabqXEuuQn8T7AQ1xcofLnjR28XreyPozX@maak-agenda.nl",
+    "date": "2017-01-10T20:00:00.000Z",
+    "opponent": "Hull City [LC] (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Hull City [LC] (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "ew3coobj83oBqtDBxUebT0kWH68Bn1jOBr9NjABO@maak-agenda.nl",
+    "date": "2017-01-07T12:30:00.000Z",
+    "opponent": "Reading FC [FA] (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Reading FC [FA] (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c36cd",
+    "date": "2017-01-02T17:15:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c3535",
+    "date": "2016-12-31T15:00:00.000Z",
+    "opponent": "Middlesbrough (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Middlesbrough (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c33d0",
+    "date": "2016-12-26T15:00:00.000Z",
+    "opponent": "Sunderland (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sunderland (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c3279",
+    "date": "2016-12-17T17:30:00.000Z",
+    "opponent": "West Bromwich Albion",
+    "homeTeam": "West Bromwich Albion",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c2cc7",
+    "date": "2016-12-14T20:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c2b6a",
+    "date": "2016-12-11T14:15:00.000Z",
+    "opponent": "Tottenham Hotspur (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "sc3fMhf8tMvXcCDQHAdbBsRRrHJXFwbjCkLXHLe8@maak-agenda.nl",
+    "date": "2016-12-08T18:00:00.000Z",
+    "opponent": "Zarya Lugansk",
+    "homeTeam": "Zarya Lugansk",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c288d",
+    "date": "2016-12-04T16:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "0oUM3XgOQ1DoBCx9Y2V6lTo6XJYeEIM38Zuh58Sw@maak-agenda.nl",
+    "date": "2016-11-30T20:00:00.000Z",
+    "opponent": "West Ham United [LC] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United [LC] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c25ad",
+    "date": "2016-11-27T16:30:00.000Z",
+    "opponent": "West Ham United (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "WTU3x79p9VNkAmUOjcQlJL484plIhUk9tB5sDuv0@maak-agenda.nl",
+    "date": "2016-11-24T20:05:00.000Z",
+    "opponent": "Feyenoord [EL] (4-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Feyenoord [EL] (4-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c22b1",
+    "date": "2016-11-19T12:30:00.000Z",
+    "opponent": "Arsenal (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c20ed",
+    "date": "2016-11-06T15:00:00.000Z",
+    "opponent": "Swansea City",
+    "homeTeam": "Swansea City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "MAsIUmhKCEZzWGH3ikLmOfZRs8Mhis5HEJy148WC@maak-agenda.nl",
+    "date": "2016-11-03T18:00:00.000Z",
+    "opponent": "Fenerbahçe",
+    "homeTeam": "Fenerbahçe",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c1e18",
+    "date": "2016-10-29T14:00:00.000Z",
+    "opponent": "Burnley FC (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley FC (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "SFck7CArm3u3EqjFbq5TdPnIVjIHBgnXn518e9jK@maak-agenda.nl",
+    "date": "2016-10-26T19:00:00.000Z",
+    "opponent": "Manchester City [LC] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City [LC] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c1b5e",
+    "date": "2016-10-23T15:00:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "f8sIqTluZRwkQrsAMheexWxT64mhJRFqqG7uU0U9@maak-agenda.nl",
+    "date": "2016-10-20T19:05:00.000Z",
+    "opponent": "Fenerbahçe [EL] (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Fenerbahçe [EL] (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c192e",
+    "date": "2016-10-17T19:00:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c17f3",
+    "date": "2016-10-02T11:00:00.000Z",
+    "opponent": "Stoke City (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Stoke City (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "mAfM0EmoDrWsqwvooDqnBHo5Ll9l1fx6EqiJlVBk@maak-agenda.nl",
+    "date": "2016-09-29T19:05:00.000Z",
+    "opponent": "Zarya Lugansk [EL] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Zarya Lugansk [EL] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c154a",
+    "date": "2016-09-24T11:30:00.000Z",
+    "opponent": "Leicester City (4-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (4-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "lHl9ghGdgBk3Vf7bTkqLcEcO7xmYtmnr5MerbA4R@maak-agenda.nl",
+    "date": "2016-09-21T18:45:00.000Z",
+    "opponent": "Northampton Town FC",
+    "homeTeam": "Northampton Town FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c12cf",
+    "date": "2016-09-18T11:00:00.000Z",
+    "opponent": "Watford FC",
+    "homeTeam": "Watford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "Skdf6JKTPdKtWFRCncfyzpFfFoBuyRo1ADLyuxEo@maak-agenda.nl",
+    "date": "2016-09-15T17:00:00.000Z",
+    "opponent": "Feyenoord",
+    "homeTeam": "Feyenoord",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c104f",
+    "date": "2016-09-10T11:30:00.000Z",
+    "opponent": "Manchester City (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c0f01",
+    "date": "2016-08-27T16:30:00.000Z",
+    "opponent": "Hull City",
+    "homeTeam": "Hull City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c0de0",
+    "date": "2016-08-19T19:00:00.000Z",
+    "opponent": "Southampton (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c0c12",
+    "date": "2016-08-14T12:30:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c0ad0",
+    "date": "2016-05-21T16:30:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c0984",
+    "date": "2016-05-17T19:00:00.000Z",
+    "opponent": "AFC Bournemouth (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c083d",
+    "date": "2016-05-10T17:45:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c06f6",
+    "date": "2016-05-07T10:45:00.000Z",
+    "opponent": "Norwich City",
+    "homeTeam": "Norwich City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c051c",
+    "date": "2016-05-01T12:05:00.000Z",
+    "opponent": "Leicester City (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leicester City (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c03d7",
+    "date": "2016-04-23T16:15:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7c02ae",
+    "date": "2016-04-20T18:00:00.000Z",
+    "opponent": "Crystal Palace (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Crystal Palace (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7c0144",
+    "date": "2016-04-16T13:00:00.000Z",
+    "opponent": "Aston Villa (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Aston Villa (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bfffe",
+    "date": "2016-04-13T18:00:00.000Z",
+    "opponent": "West Ham United",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bfec5",
+    "date": "2016-04-10T14:30:00.000Z",
+    "opponent": "Tottenham Hotspur",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bfd4a",
+    "date": "2016-04-03T14:00:00.000Z",
+    "opponent": "Everton (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Everton (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bfbf1",
+    "date": "2016-03-20T15:00:00.000Z",
+    "opponent": "Manchester City",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bfa87",
+    "date": "2016-03-13T16:00:00.000Z",
+    "opponent": "West Ham United [FA] (1-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United [FA] (1-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bf950",
+    "date": "2016-03-06T15:00:00.000Z",
+    "opponent": "West Bromwich Albion",
+    "homeTeam": "West Bromwich Albion",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bf806",
+    "date": "2016-03-02T19:00:00.000Z",
+    "opponent": "Watford FC (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Watford FC (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bf647",
+    "date": "2016-02-28T13:05:00.000Z",
+    "opponent": "Arsenal (3-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Arsenal (3-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bf4f8",
+    "date": "2016-02-22T19:45:00.000Z",
+    "opponent": "Shrewsbury Town FC",
+    "homeTeam": "Shrewsbury Town FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bf33b",
+    "date": "2016-02-13T11:45:00.000Z",
+    "opponent": "Sunderland",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bf1f4",
+    "date": "2016-02-07T15:00:00.000Z",
+    "opponent": "Chelsea",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bf0ae",
+    "date": "2016-02-02T19:00:00.000Z",
+    "opponent": "Stoke City (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Stoke City (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bef4f",
+    "date": "2016-01-29T19:55:00.000Z",
+    "opponent": "Derby County",
+    "homeTeam": "Derby County",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bedea",
+    "date": "2016-01-23T14:00:00.000Z",
+    "opponent": "Southampton (0-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Southampton (0-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7becb5",
+    "date": "2016-01-17T13:05:00.000Z",
+    "opponent": "Liverpool",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7beb75",
+    "date": "2016-01-12T18:45:00.000Z",
+    "opponent": "Newcastle United",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bea6a",
+    "date": "2016-01-09T17:30:00.000Z",
+    "opponent": "Sheffield United [FA] (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sheffield United [FA] (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7be994",
+    "date": "2016-01-02T14:00:00.000Z",
+    "opponent": "Swansea City (2-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Swansea City (2-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7be8b6",
+    "date": "2015-12-28T16:30:00.000Z",
+    "opponent": "Chelsea (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7be78a",
+    "date": "2015-12-26T11:45:00.000Z",
+    "opponent": "Stoke City",
+    "homeTeam": "Stoke City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7be61e",
+    "date": "2015-12-19T14:00:00.000Z",
+    "opponent": "Norwich City (1-2)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Norwich City (1-2)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7be4e0",
+    "date": "2015-12-12T16:30:00.000Z",
+    "opponent": "AFC Bournemouth",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7be3e6",
+    "date": "2015-12-05T14:00:00.000Z",
+    "opponent": "West Ham United (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7be30c",
+    "date": "2015-11-28T16:30:00.000Z",
+    "opponent": "Leicester City",
+    "homeTeam": "Leicester City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "a941df69a25583f9b3f4cf0747b88cdf",
+    "date": "2015-11-25T19:45:00.000Z",
+    "opponent": "PSV [CL] (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "PSV [CL] (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7be09f",
+    "date": "2015-11-21T11:45:00.000Z",
+    "opponent": "Watford FC",
+    "homeTeam": "Watford FC",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bdf5f",
+    "date": "2015-11-07T14:00:00.000Z",
+    "opponent": "West Bromwich Albion (2-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Bromwich Albion (2-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bdde4",
+    "date": "2015-10-31T14:00:00.000Z",
+    "opponent": "Crystal Palace",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bdc90",
+    "date": "2015-10-28T20:00:00.000Z",
+    "opponent": "Middlesbrough [LC] (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Middlesbrough [LC] (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bdb1e",
+    "date": "2015-10-25T13:05:00.000Z",
+    "opponent": "Manchester City (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Manchester City (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bda45",
+    "date": "2015-10-17T13:00:00.000Z",
+    "opponent": "Everton",
+    "homeTeam": "Everton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bd964",
+    "date": "2015-10-04T14:00:00.000Z",
+    "opponent": "Arsenal",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bd858",
+    "date": "2015-09-26T13:00:00.000Z",
+    "opponent": "Sunderland (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Sunderland (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bd71e",
+    "date": "2015-09-23T19:00:00.000Z",
+    "opponent": "Ipswich Town [LC] (3-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Ipswich Town [LC] (3-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bd60b",
+    "date": "2015-09-20T14:00:00.000Z",
+    "opponent": "Southampton",
+    "homeTeam": "Southampton",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "5b77661ac68c754552fa3095aad81626",
+    "date": "2015-09-15T18:45:00.000Z",
+    "opponent": "PSV",
+    "homeTeam": "PSV",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bd3a2",
+    "date": "2015-09-12T15:30:00.000Z",
+    "opponent": "Liverpool (3-1)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool (3-1)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bd2b3",
+    "date": "2015-08-30T14:00:00.000Z",
+    "opponent": "Swansea City",
+    "homeTeam": "Swansea City",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bd1b8",
+    "date": "2015-08-22T10:45:00.000Z",
+    "opponent": "Newcastle United (0-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Newcastle United (0-0)",
+    "competition": "Unknown",
+    "isHome": true
+  },
+  {
+    "id": "692420f7bd088",
+    "date": "2015-08-14T17:45:00.000Z",
+    "opponent": "Aston Villa",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Manchester United",
+    "competition": "Unknown",
+    "isHome": false
+  },
+  {
+    "id": "692420f7bccf2",
+    "date": "2015-08-08T10:45:00.000Z",
+    "opponent": "Tottenham Hotspur (1-0)",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Tottenham Hotspur (1-0)",
+    "competition": "Unknown",
+    "isHome": true
+  }
+]

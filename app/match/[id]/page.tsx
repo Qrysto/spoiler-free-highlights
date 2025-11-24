@@ -1,0 +1,78 @@
+import { getLocalFixtures } from '@/lib/data';
+import { fetchChannelVideos } from '@/lib/youtube';
+import { findHighlightVideo } from '@/lib/matcher';
+import { VideoPlayer } from '@/components/VideoPlayer';
+import Link from 'next/link';
+import { ArrowLeft, CalendarDays, MapPin } from 'lucide-react';
+import { notFound } from 'next/navigation';
+
+interface PageProps {
+  params: Promise<{ id: string }>;
+}
+
+export default async function MatchPage({ params }: PageProps) {
+  const { id } = await params;
+  const fixtures = await getLocalFixtures();
+  const fixture = fixtures.find(f => f.id === id);
+
+  if (!fixture) {
+    notFound();
+  }
+
+  const videos = await fetchChannelVideos();
+  const video = findHighlightVideo(fixture, videos);
+
+  const date = new Date(fixture.date);
+
+  return (
+    <main className="min-h-screen bg-gray-900 text-white p-4 md:p-8">
+      <div className="max-w-4xl mx-auto">
+        <Link 
+          href="/"
+          className="inline-flex items-center gap-2 text-gray-400 hover:text-white mb-8 transition-colors"
+        >
+          <ArrowLeft size={20} />
+          Back to Fixtures
+        </Link>
+
+        <div className="mb-8">
+          <h1 className="text-3xl md:text-4xl font-bold mb-2">
+            {fixture.homeTeam} <span className="text-red-500">vs</span> {fixture.awayTeam}
+          </h1>
+          <div className="flex items-center gap-4 text-gray-400">
+            <div className="flex items-center gap-2">
+              <CalendarDays size={18} />
+              <span>{date.toLocaleDateString('en-GB', { dateStyle: 'full' })}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <MapPin size={18} />
+              <span>{fixture.isHome ? 'Old Trafford' : 'Away'}</span>
+            </div>
+          </div>
+        </div>
+
+        {video ? (
+          <VideoPlayer videoId={video.id} />
+        ) : (
+          <div className="bg-gray-800 rounded-xl p-12 text-center">
+            <p className="text-xl text-gray-400 mb-4">Video not found</p>
+            <p className="text-gray-500">
+              We couldn't automatically find a highlight video for this match yet.
+              <br />
+              It might not be uploaded, or the matching logic missed it.
+            </p>
+            <a 
+              href={`https://www.youtube.com/@KplusSportsOfficial/search?query=${fixture.opponent}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-6 text-red-400 hover:text-red-300 underline"
+            >
+              Search manually on K+ Sports (Warning: Spoilers possible)
+            </a>
+          </div>
+        )}
+      </div>
+    </main>
+  );
+}
+
