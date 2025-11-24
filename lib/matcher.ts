@@ -12,14 +12,12 @@ export function findHighlightCandidates(
   const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 
   // Split opponent into words to handle multi-word names like "Nottingham Forest"
-  const opponentWords = fixture.opponent.toLowerCase().split(' ').filter(w => w.length > 2);
-  
-  const unitedKeywords = [
-    "manutd",
-    "manchesterunited",
-    "manunited",
-    "mu",
-  ];
+  const opponentWords = fixture.opponent
+    .toLowerCase()
+    .split(" ")
+    .filter((w) => w.length > 2);
+
+  const unitedKeywords = ["manutd", "manchesterunited", "manunited", "mu"];
 
   // Filter videos that are relevant
   const candidates = videos.filter((video) => {
@@ -36,7 +34,9 @@ export function findHighlightCandidates(
     const titleNorm = normalize(video.title);
 
     // Must contain at least one word from opponent name
-    const hasOpponent = opponentWords.some(word => titleNorm.includes(normalize(word)));
+    const hasOpponent = opponentWords.some((word) =>
+      titleNorm.includes(normalize(word))
+    );
     if (!hasOpponent) return false;
 
     // Must contain United keyword
@@ -47,8 +47,8 @@ export function findHighlightCandidates(
   });
 
   // Sort by publish date (newest first, most likely to be the highlight)
-  return candidates.sort((a, b) => 
-    new Date(b.published).getTime() - new Date(a.published).getTime()
+  return candidates.sort(
+    (a, b) => new Date(b.published).getTime() - new Date(a.published).getTime()
   );
 }
 
