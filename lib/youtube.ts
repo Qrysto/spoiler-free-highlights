@@ -1,9 +1,18 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Video } from './types';
 
+/**
+ * K+ Sports Official YouTube Channel
+ * This is the preferred source for Manchester United highlight videos
+ */
 const CHANNEL_ID = 'UC9xeuekJd88ku9LDcmGdUOA';
 const RSS_URL = `https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}`;
 
+/**
+ * Fetches the latest videos from the K+ Sports Official YouTube channel
+ * Uses RSS feed (no API key required)
+ * @returns Array of video objects with id, title, link, and published date
+ */
 export async function fetchChannelVideos(): Promise<Video[]> {
   try {
     const response = await fetch(RSS_URL, { next: { revalidate: 60 } }); // Cache for 1 minute
@@ -35,5 +44,3 @@ export async function fetchChannelVideos(): Promise<Video[]> {
     return [];
   }
 }
-
-

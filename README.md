@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Spoiler-Free United
+
+A web application for watching Manchester United highlight videos without spoilers. View match fixtures, automatically find highlights from your preferred YouTube channel (K+ Sports Official), and watch videos with titles and scores hidden.
+
+## Features
+
+- 🔴 **Latest Match Spotlight**: Featured display of the most recent Manchester United match
+- 📅 **Fixture List**: View past results and upcoming matches with relative time display
+- 🎥 **Spoiler-Free Video Player**: Watch highlights without seeing titles, thumbnails, or scores
+- 🔍 **Smart Video Matching**: Automatically finds highlight videos from K+ Sports Official channel
+- 🔎 **Fallback Search**: If K+ videos aren't found, search across YouTube with spoiler protection
+- 🌓 **Dark Mode**: Toggle between light and dark themes
+- 🔄 **Auto-Refresh**: Fixture data can be refreshed from public ICS calendar sources
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
+- Node.js 18+ installed
+- npm, yarn, pnpm, or bun package manager
+
+### Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone <repository-url>
+cd spolier-free-highlights
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Learn More
+## How It Works
 
-To learn more about Next.js, take a look at the following resources:
+### Data Sources
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Fixtures**: Fetched from public ICS calendar sources (ics.fixtur.es, Sky Sports)
+- **Highlights**: Primary source is K+ Sports Official YouTube channel RSS feed
+- **Fallback Search**: Uses `youtube-sr` library for broader YouTube searches
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Spoiler Protection
 
-## Deploy on Vercel
+- Video titles are truncated or hidden completely
+- Thumbnails are not displayed
+- YouTube player title bar is covered with a CSS overlay
+- Match scores are never shown
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Framework**: Next.js 14 (App Router)
+- **Styling**: Tailwind CSS v4
+- **Icons**: Lucide React
+- **Theme**: next-themes for dark mode
+- **Data**: Local JSON file + Server Actions
+
+## Project Structure
+
+```
+├── actions/          # Server Actions (update fixtures, search highlights)
+├── app/             # Next.js App Router pages
+├── components/      # React components
+├── data/            # Local JSON data storage
+├── lib/             # Utility functions and types
+├── public/          # Static assets
+├── PRD.md           # Product Requirements Document
+└── TECH_SPECS.md    # Technical Specifications
+```
+
+## Documentation
+
+- [PRD.md](./PRD.md) - Product requirements and user stories
+- [TECH_SPECS.md](./TECH_SPECS.md) - Technical architecture and decisions
+
+## Development Notes
+
+- Pages are dynamically rendered to ensure fresh data on every load
+- RSS feed cache is set to 1 minute for up-to-date video listings
+- Match IDs are URL-encoded to handle special characters
+
+## License
+
+This is a personal project for educational purposes.

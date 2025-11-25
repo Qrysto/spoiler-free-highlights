@@ -1,43 +1,11 @@
 import { Fixture, Video } from '@/lib/types';
+import { getRelativeTime } from '@/lib/utils';
 import Link from 'next/link';
 import { Play, Clock } from 'lucide-react';
 
 interface HeroMatchProps {
   fixture: Fixture;
   video: Video | null;
-}
-
-function getRelativeTime(date: Date): string {
-  const now = new Date();
-  const diffMs = now.getTime() - date.getTime();
-  const diffMins = Math.floor(diffMs / (1000 * 60));
-  const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
-  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-  
-  if (diffMs < 0) {
-    // Future match
-    const absDays = Math.abs(diffDays);
-    const absHours = Math.abs(diffHours);
-    
-    if (absDays > 0) {
-      return `in ${absDays} day${absDays !== 1 ? 's' : ''}`;
-    } else if (absHours > 0) {
-      return `in ${absHours} hour${absHours !== 1 ? 's' : ''}`;
-    } else {
-      return 'starting soon';
-    }
-  } else {
-    // Past match
-    if (diffDays > 0) {
-      return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
-    } else if (diffHours > 0) {
-      return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
-    } else if (diffMins > 0) {
-      return `${diffMins} min${diffMins !== 1 ? 's' : ''} ago`;
-    } else {
-      return 'just now';
-    }
-  }
 }
 
 export function HeroMatch({ fixture, video }: HeroMatchProps) {

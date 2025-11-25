@@ -1,5 +1,12 @@
 import { Fixture, Video } from "./types";
 
+/**
+ * Finds all videos from K+ Sports that match a specific fixture
+ * Uses strict filtering: opponent name, United keywords, and time window
+ * @param fixture - The match fixture to find videos for
+ * @param videos - Array of videos from K+ Sports channel
+ * @returns Array of matching videos, sorted by publish date (newest first)
+ */
 export function findHighlightCandidates(
   fixture: Fixture,
   videos: Video[]
