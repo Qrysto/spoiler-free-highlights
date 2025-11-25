@@ -7,7 +7,8 @@ import { RefreshButton } from '@/components/RefreshButton';
 import { ThemeToggle } from '@/components/theme-toggle';
 import { Fixture } from '@/lib/types';
 
-export const revalidate = 3600; // Revalidate every hour
+// Force dynamic rendering to always fetch fresh data
+export const dynamic = 'force-dynamic';
 
 export default async function Home() {
   const fixtures = await getLocalFixtures();

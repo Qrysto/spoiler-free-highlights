@@ -6,7 +6,7 @@ const RSS_URL = `https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_I
 
 export async function fetchChannelVideos(): Promise<Video[]> {
   try {
-    const response = await fetch(RSS_URL, { next: { revalidate: 3600 } }); // Cache for 1 hour
+    const response = await fetch(RSS_URL, { next: { revalidate: 60 } }); // Cache for 1 minute
     if (!response.ok) {
       throw new Error(`Failed to fetch RSS feed: ${response.statusText}`);
     }
@@ -35,4 +35,5 @@ export async function fetchChannelVideos(): Promise<Video[]> {
     return [];
   }
 }
+
 

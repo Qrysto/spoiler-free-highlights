@@ -8,6 +8,9 @@ import Link from 'next/link';
 import { ArrowLeft, CalendarDays, MapPin } from 'lucide-react';
 import { notFound } from 'next/navigation';
 
+// Force dynamic rendering to always fetch fresh data
+export const dynamic = 'force-dynamic';
+
 interface PageProps {
   params: Promise<{ id: string }>;
 }
