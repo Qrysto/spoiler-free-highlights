@@ -18,11 +18,28 @@ export function findHighlightCandidates(
   // Normalize strings for comparison
   const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 
-  // Split opponent into words to handle multi-word names like "Nottingham Forest"
-  const opponentWords = fixture.opponent
-    .toLowerCase()
-    .split(" ")
-    .filter((w) => w.length > 2);
+  // Team nickname mappings for common abbreviations used in video titles
+  const teamNicknames: Record<string, string[]> = {
+    "wolverhampton wanderers": ["wolves"],
+    "tottenham hotspur": ["spurs", "tottenham"],
+    "brighton & hove albion fc": ["brighton"],
+    "brighton hove albion": ["brighton"],
+    "nottingham forest": ["forest", "nottingham"],
+    "west ham united": ["westham"],
+    "manchester city": ["mancity", "mancit"],
+    "newcastle united": ["newcastle"],
+    "leicester city": ["leicester"],
+  };
+
+  // Get opponent keywords: original words + nicknames
+  const opponentLower = fixture.opponent.toLowerCase();
+  let opponentWords = opponentLower.split(" ").filter((w) => w.length > 2);
+  
+  // Add nicknames if available
+  const nicknames = teamNicknames[opponentLower];
+  if (nicknames) {
+    opponentWords = [...opponentWords, ...nicknames];
+  }
 
   const unitedKeywords = ["manutd", "manchesterunited", "manunited", "mu"];
 
