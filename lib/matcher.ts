@@ -26,7 +26,7 @@ export function findHighlightCandidates(
     "brighton hove albion": ["brighton"],
     "nottingham forest": ["forest", "nottingham"],
     "west ham united": ["westham"],
-    "manchester city": ["mancity", "mancit"],
+    "manchester city": ["mancity", "mancit", "man city"],
     "newcastle united": ["newcastle"],
     "leicester city": ["leicester"],
   };
