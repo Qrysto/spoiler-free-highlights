@@ -34,7 +34,7 @@ export function findHighlightCandidates(
   // Get opponent keywords: original words + nicknames
   const opponentLower = fixture.opponent.toLowerCase();
   let opponentWords = opponentLower.split(" ").filter((w) => w.length > 2);
-  
+
   // Add nicknames if available
   const nicknames = teamNicknames[opponentLower];
   if (nicknames) {
