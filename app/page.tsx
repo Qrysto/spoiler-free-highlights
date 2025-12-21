@@ -14,20 +14,30 @@ export default async function Home() {
   const fixtures = await getLocalFixtures();
   const videos = await fetchChannelVideos();
   
+  // Get current time in Vietnam timezone
   const now = new Date();
+  const nowVietnam = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
   
   // Sort all fixtures by date descending
   const sortedFixtures = [...fixtures].sort((a, b) => 
     new Date(b.date).getTime() - new Date(a.date).getTime()
   );
 
-  // Past matches (played before now)
-  const pastMatches = sortedFixtures.filter(f => new Date(f.date) < now);
+  // Past matches (played before now in Vietnam timezone)
+  const pastMatches = sortedFixtures.filter(f => {
+    const fixtureDate = new Date(f.date);
+    const fixtureVietnam = new Date(fixtureDate.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
+    return fixtureVietnam.getTime() < nowVietnam.getTime();
+  });
   
-  // Upcoming matches (played after now, sorted ascending for display?)
+  // Upcoming matches (played after now in Vietnam timezone, sorted ascending for display?)
   // Usually fixtures list is sorted by date.
   const upcomingMatches = sortedFixtures
-    .filter(f => new Date(f.date) >= now)
+    .filter(f => {
+      const fixtureDate = new Date(f.date);
+      const fixtureVietnam = new Date(fixtureDate.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
+      return fixtureVietnam.getTime() >= nowVietnam.getTime();
+    })
     .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
 
   const latestMatch = pastMatches[0];

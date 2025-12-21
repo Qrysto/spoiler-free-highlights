@@ -10,15 +10,23 @@ interface MatchCardProps {
 
 export function MatchCard({ fixture, hasVideo }: MatchCardProps) {
   const date = new Date(fixture.date);
-  const formattedDate = date.toLocaleDateString('en-GB', {
+  const formattedDate = date.toLocaleDateString('vi-VN', {
     weekday: 'short',
     day: 'numeric',
     month: 'short',
-    year: 'numeric'
+    year: 'numeric',
+    timeZone: 'Asia/Ho_Chi_Minh'
   });
-  const formattedTime = date.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+  const formattedTime = date.toLocaleTimeString('vi-VN', { 
+    hour: '2-digit', 
+    minute: '2-digit',
+    timeZone: 'Asia/Ho_Chi_Minh'
+  });
   const relativeTime = getRelativeTime(date);
-  const isPast = date.getTime() < Date.now();
+  // Compare dates in Vietnam timezone
+  const nowVietnam = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
+  const dateVietnam = new Date(date.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
+  const isPast = dateVietnam.getTime() < nowVietnam.getTime();
 
   return (
     <div className="border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition-shadow bg-white dark:bg-gray-800">

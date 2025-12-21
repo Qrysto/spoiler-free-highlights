@@ -97,11 +97,12 @@ export function MultipleResults({ videos }: MultipleResultsProps) {
                 <div className="flex items-center gap-4 text-xs text-gray-500">
                   <span>K+ Sports Official</span>
                   <span>•</span>
-                  <span>{new Date(video.published).toLocaleString('en-GB', { 
+                  <span>{new Date(video.published).toLocaleString('vi-VN', { 
                     month: 'short', 
                     day: 'numeric', 
                     hour: '2-digit', 
-                    minute: '2-digit' 
+                    minute: '2-digit',
+                    timeZone: 'Asia/Ho_Chi_Minh'
                   })}</span>
                 </div>
               </div>

@@ -11,7 +11,10 @@ interface HeroMatchProps {
 export function HeroMatch({ fixture, video }: HeroMatchProps) {
   const date = new Date(fixture.date);
   const relativeTime = getRelativeTime(date);
-  const isPast = date.getTime() < Date.now();
+  // Compare dates in Vietnam timezone
+  const nowVietnam = new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
+  const dateVietnam = new Date(date.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' }));
+  const isPast = dateVietnam.getTime() < nowVietnam.getTime();
 
   return (
     <div className="bg-gradient-to-br from-red-700 to-red-900 text-white rounded-xl p-8 shadow-lg mb-10">
@@ -24,7 +27,10 @@ export function HeroMatch({ fixture, video }: HeroMatchProps) {
       </h1>
 
       <div className="flex items-center gap-4 text-red-100 mb-4">
-        <span>{date.toLocaleDateString('en-GB', { dateStyle: 'full' })}</span>
+        <span>{date.toLocaleDateString('vi-VN', { 
+          dateStyle: 'full',
+          timeZone: 'Asia/Ho_Chi_Minh'
+        })}</span>
         <span>•</span>
         <span>{fixture.competition || 'Premier League'}</span>
       </div>
